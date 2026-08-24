@@ -1,0 +1,427 @@
+# 📚 Calisthenics Exercise & Form Library
+
+This library collates **every single exercise** from your logged sessions. Use it to study correct mechanics, scale exercises, and ensure safe form.
+
+*Recommended Channels:*
+*   **[Calisthenicmovement](https://www.youtube.com/@calimove)** (Excellent for technique and biomechanics)
+*   **[FitnessFAQs](https://www.youtube.com/@FitnessFAQs)** (Excellent for progressions and holds)
+
+---
+
+## 🧗 1. Pull Exercises
+
+### Muscle-up
+*   **Muscles:** Lats, upper back, shoulders, chest, triceps, core.
+*   **Form Cues:** Start in a hollow body position. Pull down and back explosively (chest-to-bar). Keep your chest over the bar as you transition, and press out of the deep dip.
+*   **Key Mistakes:** "Chicken winging" (pressing one elbow up before the other) and excessive kiping.
+*   **Tutorial:** [Muscle-up Progression Guide](https://www.youtube.com/results?search_query=calisthenics+movement+muscle+up)
+
+### Pull-ups (Standard)
+*   **Muscles:** Lats, rhomboids, traps, biceps, forearms.
+*   **Form Cues:** Pull from a dead hang with straight arms. Depress and retract shoulder blades first, then pull chest to the bar. Lower under control.
+*   **Key Mistakes:** Kicking legs, shrugging shoulders up to ears, not completing full range of motion.
+*   **Tutorial:** [Standard Pull-up Form](https://www.youtube.com/results?search_query=calisthenics+movement+pull+up)
+
+### Slow Pull-ups (10s Up / 10s Down)
+*   **Muscles:** Lats, biceps, traps, grip.
+*   **Form Cues:** Pull up smoothly taking a full 10 seconds to reach the top. Pause, then lower down taking another 10 seconds to reach a dead hang.
+*   **Key Mistakes:** Rushing the count, using momentum, dropping at the bottom.
+*   **Tutorial:** [Tempo Pull-up Form](https://www.youtube.com/results?search_query=fitnessfaqs+tempo+pull+up)
+
+### Pull-up to Chin-up Grip Transition
+*   **Muscles:** Biceps, brachialis, lats, grip.
+*   **Form Cues:** Rapidly switch grip mid-set or at the top of a pull-up from overhand (pronated) to underhand (supinated) to shift muscular emphasis.
+*   **Key Mistakes:** Losing body tension during the switch, swinging.
+*   **Tutorial:** [Pull-up Grip Switches](https://www.youtube.com/results?search_query=pull+up+grip+switch+tutorial)
+
+### Australian Pull-ups (Inverted Rows)
+*   **Muscles:** Rhomboids, mid-traps, rear delts, biceps.
+*   **Form Cues:** Keep your body in a straight line from heels to head. Pull your chest directly to the bar, squeezing your shoulder blades.
+*   **Key Mistakes:** Sagging hips, pulling with your neck/chin.
+*   **Tutorial:** [Inverted Row Technique](https://www.youtube.com/results?search_query=calisthenics+movement+inverted+row)
+
+### Skin the Cat
+*   **Muscles:** Shoulders, biceps, core, chest.
+*   **Form Cues:** Hang from the bar, pull knees to chest, and rotate your body backward through your arms into a German hang, then reverse the motion.
+*   **Key Mistakes:** Letting go of tension, bent arms.
+*   **Tutorial:** [Skin the Cat Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+skin+the+cat)
+
+---
+
+## 🤸 2. Push Exercises
+
+### Hanuman Dand (Hanuman Push-up)
+*   **Muscles:** Chest, shoulders, triceps, hip flexors, groin.
+*   **Form Cues:** Start in a plank position. As you lower your body, step one leg forward placing the foot flat beside your hand on the outside. Dive your chest low to the ground and push up into a cobra pose while maintaining the deep leg split. Reverse hips to start and alternate sides.
+*   **Key Mistakes:** Not stepping the foot far enough forward, letting the back knee touch the ground.
+*   **Tutorial:** [Hanuman Dand Tutorial](https://www.youtube.com/results?search_query=how+to+do+hanuman+dand)
+
+### Plank to Jump Between Hands (Full Down)
+*   **Muscles:** Core, shoulders, hip flexors.
+*   **Form Cues:** From a push-up plank, explode forward with your feet, tucking knees to land between your hands. Lower your hips fully before returning.
+*   **Key Mistakes:** Heavy landing on feet, not dropping hips.
+*   **Tutorial:** [Plank to Jump Tucks](https://www.youtube.com/results?search_query=plank+to+jump+between+hands)
+
+### Close Push-up
+*   **Muscles:** Triceps, inner chest, front delts.
+*   **Form Cues:** Place hands inside shoulder-width. Keep elbows tucked tightly against the rib cage as you lower and press.
+*   **Key Mistakes:** Flaring elbows out, hand overlap straining wrists.
+*   **Tutorial:** [Close Grip Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+close+pushups)
+
+### Wide Push-up
+*   **Muscles:** Outer chest, front shoulders.
+*   **Form Cues:** Place hands significantly wider than shoulder-width. Lower chest to floor while keeping body braced.
+*   **Key Mistakes:** Elbos flaring to 90 degrees (keep at 45 degrees), loss of core stability.
+*   **Tutorial:** [Wide Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+wide+pushups)
+
+### Decline Push-up
+*   **Muscles:** Upper chest, front shoulders, triceps.
+*   **Form Cues:** Place feet on an elevated surface (box/bench) and hands on the floor. Lower chest to the floor.
+*   **Key Mistakes:** Sagging hips, elbows flaring sideways.
+*   **Tutorial:** [Decline Pushup Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+decline+pushups)
+
+### Incline Push-up
+*   **Muscles:** Lower chest, triceps.
+*   **Form Cues:** Place hands on an elevated surface and feet on the floor. Lower chest to the edge of the surface.
+*   **Key Mistakes:** Sagging hips, not touching chest to surface.
+*   **Tutorial:** [Incline Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+incline+pushup)
+
+### Normal Push-up
+*   **Muscles:** Chest, triceps, front delts, core.
+*   **Form Cues:** Place hands shoulder-width. Keep body straight from head to heels. Lower until chest nearly touches floor, elbows at 45 degrees.
+*   **Key Mistakes:** Lower back arching, flared elbows.
+*   **Tutorial:** [Perfect Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+perfect+pushup)
+
+### Clap / Explosive Push-ups
+*   **Muscles:** Chest, shoulders, triceps (plyometric power).
+*   **Form Cues:** Press up explosively so hands leave the floor. Clap quickly and land softly with slightly bent elbows.
+*   **Key Mistakes:** Landing with locked elbows, losing core bracing.
+*   **Tutorial:** [Explosive Pushup Tutorial](https://www.youtube.com/results?search_query=calisthenics+movement+explosive+pushups)
+
+### Straight Bar Dips
+*   **Muscles:** Chest, triceps, front shoulders, core.
+*   **Form Cues:** Grip a single straight bar. Lower your chest down to touch the bar, keeping legs angled forward (hollow body), then press up.
+*   **Key Mistakes:** Shrugging shoulders, chest collapsing forward.
+*   **Tutorial:** [Straight Bar Dips Guide](https://www.youtube.com/results?search_query=calisthenics+movement+straight+bar+dips)
+
+### Parallel Bar Dips
+*   **Muscles:** Chest, triceps, front delts.
+*   **Form Cues:** Support body on parallel bars. Lower until shoulders are below elbows, keeping elbows tucked. Press to lock-out.
+*   **Key Mistakes:** Flaring elbows, shrugging shoulders up.
+*   **Tutorial:** [Parallel Bar Dips Form](https://www.youtube.com/results?search_query=calisthenics+movement+dips)
+
+### Dumbbell Overhead Shoulder Press
+*   **Muscles:** Deltoids, upper chest, triceps.
+*   **Form Cues:** Press dumbbells vertically overhead. Keep your ribs pulled down and core braced to prevent arching.
+*   **Key Mistakes:** Back arching, pushing weights forward instead of straight up.
+*   **Tutorial:** [Overhead Press Mechanics](https://www.youtube.com/results?search_query=dumbbell+overhead+press+form)
+
+### Bodyweight Tricep Extensions
+*   **Muscles:** Triceps.
+*   **Form Cues:** Place hands on a bar or bench, walk feet back, and bend only at the elbows to lower your forehead toward the bar. Press back up.
+*   **Key Mistakes:** Moving at the hips/shoulders instead of isolating the elbows.
+*   **Tutorial:** [Bodyweight Tricep Extensions](https://www.youtube.com/results?search_query=calisthenics+movement+bodyweight+tricep+extensions)
+
+---
+
+## 🦵 3. Legs Exercises
+
+### Weighted Deadlifts
+*   **Muscles:** Hamstrings, glutes, lower back, traps.
+*   **Form Cues:** Hinge at the hips. Keep your back completely flat, shoulder blades retracted, and drive through your legs while keeping the bar close to your shins.
+*   **Key Mistakes:** Rounding the spine, placing too much load on the lower back.
+*   **Tutorial:** [Deadlift Form & Back Safety](https://www.youtube.com/results?search_query=deadlift+flat+back+form)
+
+### 180° Squat Jumps
+*   **Muscles:** Quads, glutes, calves, obliques.
+*   **Form Cues:** Drop into a squat, jump up explosively, twist 180 degrees in the air, and land softly back in a squat facing the opposite direction.
+*   **Key Mistakes:** Landing on flat heels or with locked knees.
+*   **Tutorial:** [180 Squat Jump Technique](https://www.youtube.com/results?search_query=squat+jump+180+tutorial)
+
+### Box Jumps
+*   **Muscles:** Glutes, quads, hamstrings, calves.
+*   **Form Cues:** Jump onto box using arm swing. Land softly on top in a squat. Step down to protect joints.
+*   **Key Mistakes:** Hard landings, caving knees.
+*   **Tutorial:** [Box Jump Mechanics](https://www.youtube.com/results?search_query=how+to+do+box+jumps)
+
+### Broad Jumps
+*   **Muscles:** Posterior chain (glutes/hams), calves.
+*   **Form Cues:** Jump forward horizontally for distance. Explode through hips and stick the landing softly.
+*   **Key Mistakes:** Landing off-balance, stiff knees.
+*   **Tutorial:** [Broad Jump Technique](https://www.youtube.com/results?search_query=how+to+do+broad+jumps)
+
+### Single Leg Jumps
+*   **Muscles:** Single leg power, ankle stabilizers.
+*   **Form Cues:** Explode vertically off one leg, focusing on stability and soft single-leg landing control.
+*   **Key Mistakes:** Knee caving inward, losing balance.
+*   **Tutorial:** [Single Leg Jump Form](https://www.youtube.com/results?search_query=single+leg+jump+exercise)
+
+### Standard Air Squats
+*   **Muscles:** Quads, glutes, hamstrings.
+*   **Form Cues:** Keep chest up, feet flat, knees tracking over toes. Drop hips below knee level.
+*   **Key Mistakes:** Heels lifting, knees caving.
+*   **Tutorial:** [Perfect Air Squat Form](https://www.youtube.com/results?search_query=calisthenics+movement+squat)
+
+### Lunges
+*   **Muscles:** Quads, glutes, calves.
+*   **Form Cues:** Step forward, lowering your hips until both knees are bent at 90 degrees. Keep front knee behind toes.
+*   **Key Mistakes:** Stepping too narrow, front heel lifting.
+*   **Tutorial:** [Lunge Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+lunges)
+
+### Jump Squats
+*   **Muscles:** Quads, glutes, calves (explosive power).
+*   **Form Cues:** Perform a squat and explode upward vertically. Land softly rolling from toes to heels.
+*   **Key Mistakes:** Landing stiff-legged.
+*   **Tutorial:** [Jump Squat Tutorial](https://www.youtube.com/results?search_query=how+to+do+jump+squats)
+
+### Squats with Thrust
+*   **Muscles:** Quads, glutes, shoulders, triceps, core.
+*   **Form Cues:** Perform a squat holding weights in hands at shoulder level. As you rise out of the squat, press the weights explosively straight up overhead into a full lockout.
+*   **Key Mistakes:** Slow hip drive, hyperextended back, pressing too early before extending legs.
+*   **Tutorial:** [Thruster Guide](https://www.youtube.com/results?search_query=how+to+do+thrusters)
+
+---
+
+## 🧱 4. Core Exercises
+
+### Single Hand Planks
+*   **Muscles:** Core, obliques, shoulders.
+*   **Form Cues:** Setup in standard push-up plank. Remove one hand and place it on your lower back. Brace core to prevent hips from rotating.
+*   **Key Mistakes:** Rotated hips, sagging lower back.
+*   **Tutorial:** [One Arm Plank Form](https://www.youtube.com/results?search_query=one+arm+plank+form)
+
+### Toes to Bar
+*   **Muscles:** Abs, obliques, lats, grip.
+*   **Form Cues:** Hang from bar. Pull toes straight up to touch the bar using abdominal compression. Lower slowly.
+*   **Key Mistakes:** Swinging, using momentum.
+*   **Tutorial:** [Toes to Bar Form](https://www.youtube.com/results?search_query=fitnessfaqs+toes+to+bar)
+
+### Hanging Leg Raises
+*   **Muscles:** Rectus abdominis, hip flexors, grip.
+*   **Form Cues:** Raise legs straight up until they are parallel to the ground. Maintain active shoulder engagement.
+*   **Key Mistakes:** Swinging, dropping legs fast.
+*   **Tutorial:** [Hanging Leg Raise Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+leg+raises)
+
+### Hanging Knee Raises
+*   **Muscles:** Lower abs, hip flexors, grip.
+*   **Form Cues:** Hang from bar, pull knees up toward your chest. Focus on rounding the pelvis up.
+*   **Key Mistakes:** Swinging back and forth.
+*   **Tutorial:** [Hanging Knee Raises Form](https://www.youtube.com/results?search_query=calisthenics+movement+hanging+knee+raises)
+
+### Windshield Wipers
+*   **Muscles:** Obliques, abs, hip flexors.
+*   **Form Cues:** Laying flat (arms out) or hanging from a bar. Raise legs straight up to 90 degrees and slowly rotate them side-to-side in a control arc.
+*   **Key Mistakes:** Using speed/momentum, lifting lower back off floor (if lying).
+*   **Tutorial:** [Windshield Wipers Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+windshield+wipers)
+
+### Reverse Plank
+*   **Muscles:** Glutes, hamstrings, lower back.
+*   **Form Cues:** Face up, support body on hands and heels. Drive hips up, keeping body in a straight line.
+*   **Key Mistakes:** Sagging hips.
+*   **Tutorial:** [Reverse Plank Technique](https://www.youtube.com/results?search_query=how+to+do+reverse+plank)
+
+### Side Plank
+*   **Muscles:** Obliques, lateral stabilizers.
+*   **Form Cues:** Balance on one elbow and side of foot. Elevate hips until body is straight.
+*   **Key Mistakes:** Hips dropping, torso twisting forward.
+*   **Tutorial:** [Side Plank Form](https://www.youtube.com/results?search_query=how+to+do+side+plank)
+
+### Elbow Plank
+*   **Muscles:** Rectus abdominis, core stabilizers.
+*   **Form Cues:** Support body on elbows and toes. Squeeze glutes and tuck pelvis slightly (hollow body).
+*   **Key Mistakes:** Sagging lower back, head dropping.
+*   **Tutorial:** [Plank Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+plank)
+
+### Superman Plank (Single Arm Hold)
+*   **Muscles:** Core, shoulders, lower back.
+*   **Form Cues:** In a plank position, extend one arm straight forward parallel to the ground. Maintain stable, level hips.
+*   **Key Mistakes:** Sagging waist, hip rotation.
+*   **Tutorial:** [Superman Plank Hold](https://www.youtube.com/results?search_query=superman+plank+tutorial)
+
+### Superman Hold
+*   **Muscles:** Lower back, glutes, hamstrings.
+*   **Form Cues:** Lay prone. Elevate chest, arms, and legs off the ground simultaneously. Squeeze your lower back.
+*   **Avoid:** Straining the neck (keep head neutral).
+*   **Tutorial:** [Superman Hold Form](https://www.youtube.com/results?search_query=superman+exercise+form)
+
+---
+
+## ⏱️ 5. Holds & Skill holds
+
+### Front Lever Tuck Hold
+*   **Muscles:** Lats, upper back, core, shoulders, grip.
+*   **Form Cues:** Pull knees to chest. Keep arms locked straight. Drive your hands downward toward your hips, lifting your upper body until it is parallel to the ground.
+*   **Avoid:** Letting elbows bend or hips sink below your shoulder line.
+*   **Tutorial:** [Front Lever Progressions](https://www.youtube.com/results?search_query=fitnessfaqs+front+lever)
+
+### Back Lever Tuck Hold
+*   **Muscles:** Lower back, glutes, shoulders, chest, arms.
+*   **Form Cues:** Pass feet under the bar (skin-the-cat). Keep knees tucked, arms straight, and align back, hips, and shoulders in one horizontal line.
+*   **Avoid:** Allowing shoulders to relax; actively protract (shrug forward) to protect the shoulder joint.
+*   **Tutorial:** [Back Lever Progressions](https://www.youtube.com/results?search_query=fitnessfaqs+back+lever)
+
+### German Hang
+*   **Muscles:** Biceps, anterior shoulder, chest (stretching).
+*   **Form Cues:** Pass feet under the bar and let them drop behind you toward the floor. Maintain active control over the shoulder joint extension.
+*   **Avoid:** Disengaging your grip or dropping down without active shoulder control.
+*   **Tutorial:** [German Hang Mobility](https://www.youtube.com/results?search_query=fitnessfaqs+german+hang)
+
+### Dead Hang
+*   **Muscles:** Grip, forearms, lat passive stretch.
+*   **Form Cues:** Hang from bar passively, letting gravity decompress your spine and stretch your shoulders.
+*   **Avoid:** Losing grip safety.
+*   **Tutorial:** [Dead Hang Benefits](https://www.youtube.com/results?search_query=fitnessfaqs+dead+hang)
+
+### Active Hang with Knee Front
+*   **Muscles:** Scapular depressors, hip flexors, core.
+*   **Form Cues:** Hang from bar. Engage shoulders (depress scapula) and hold knees up in front at 90 degrees.
+*   **Avoid:** Passive shrugging.
+*   **Tutorial:** [Active Hang Form](https://www.youtube.com/results?search_query=fitnessfaqs+active+hang)
+
+### Chin-up at the Top Hold
+*   **Muscles:** Biceps, lats, traps.
+*   **Form Cues:** Pull chest to bar with underhand grip. Hold static position with chin above bar.
+*   **Avoid:** Dropping down early, losing tension.
+*   **Tutorial:** [Chin up Top Hold](https://www.youtube.com/results?search_query=pull+up+isometric+hold)
+
+### Half Pull-up Hold (Head to Bar)
+*   **Muscles:** Biceps, brachialis, lats, scapular stabilizers.
+*   **Form Cues:** Hold static position with arms bent at 90 degrees, head level with bar.
+*   **Avoid:** Sagging down.
+*   **Tutorial:** [Pull up Isometric Holds](https://www.youtube.com/results?search_query=pull+up+isometric+hold)
+
+### Half Squat Hold
+*   **Muscles:** Quads, glutes.
+*   **Form Cues:** Lower to a 45-degree squat. Hold static position with back flat and weight in heels.
+*   **Avoid:** Dropping knees inward.
+*   **Tutorial:** [Squat Isometric Hold](https://www.youtube.com/results?search_query=isometric+squat+hold)
+
+### Heel Elevated Half Squat Hold
+*   **Muscles:** Quads, calves, ankle stabilizers.
+*   **Form Cues:** Squat to 45 degrees, and lift heels off the ground. Hold on balls of feet.
+*   **Avoid:** Falling backward.
+*   **Tutorial:** [Heel Elevated Squat Hold](https://www.youtube.com/results?search_query=isometric+squat+hold)
+
+---
+
+## 🏃 6. Warm-up, Mobility & Cardio
+
+### Running (Forward, Backward, Sideways)
+*   **Target:** Raising core temp. Warm up calf/ankle elasticity.
+*   **Form:** Change directions smoothly to challenge ankle stabilizer planes.
+*   **Tutorial:** [Calisthenics Run Warmup](https://www.youtube.com/results?search_query=calisthenics+warm+up+running)
+
+### In-Place Running (Jump Rope Style)
+*   **Target:** Low-impact cardio, calf conditioning.
+*   **Form:** Bounce on balls of feet, mimicking wrist rope actions.
+*   **Tutorial:** [Shadow Jump Rope Guide](https://www.youtube.com/results?search_query=shadow+jump+rope+tutorial)
+
+### Monkey Walk
+*   **Target:** Shoulder/Hip side-to-side crawling.
+*   **Form:** Drop low, reach hands sideways, and hop feet laterally.
+*   **Tutorial:** [GMB Monkey Walk Tutorial](https://www.youtube.com/results?search_query=gmb+fitness+monkey+walk)
+
+### Crab Walk
+*   **Target:** Shoulder/chest opening crawl.
+*   **Form:** Face up, raise hips, crawl forward and backward.
+*   **Tutorial:** [GMB Crab Walk Tutorial](https://www.youtube.com/results?search_query=gmb+fitness+crab+walk)
+
+### Y-T-W Raises
+*   **Target:** Scapular trap/rhomboid activation.
+*   **Form:** Raise arms in Y, T, and W positions, squeezing shoulder blades.
+*   **Tutorial:** [YTW Form](https://www.youtube.com/results?search_query=ytw+raises+form)
+
+### Wrist Rotation (Palm on Ground)
+*   **Target:** Wrist joint mobility.
+*   **Form:** Place palms flat on ground and gently rotate torso over wrists.
+*   **Tutorial:** [Wrist Mobility Guide](https://www.youtube.com/results?search_query=calisthenics+movement+wrist+mobility)
+
+### Fist Rolling
+*   **Target:** Forearm tendon mobilization.
+*   **Form:** Make fists, roll wrists front & back under light weight-bearing.
+*   **Tutorial:** [Fist Rolling Wrist Warmup](https://www.youtube.com/results?search_query=wrist+warm+up+fist+rolling)
+
+### Knee Rotation
+*   **Target:** Synovial fluid knee joint prep.
+*   **Form:** Place hands on knees, rotate in small circles clockwise & anti-clockwise.
+*   **Tutorial:** [Knee Mobility Rotations](https://www.youtube.com/results?search_query=knee+mobility+rotations)
+
+### Ankle Rotation
+*   **Target:** Ankle joint warmth.
+*   **Form:** Draw circles with toes in air or pivot on balls of feet.
+*   **Tutorial:** [Ankle Mobility Warmup](https://www.youtube.com/results?search_query=ankle+mobility+circles)
+
+### Scapula Pull & Push
+*   **Target:** Retraction/protraction control.
+*   **Form:** In hang/plank, move body using only shoulder blades.
+*   **Tutorial:** [Scapular Shrugs Form](https://www.youtube.com/results?search_query=fitnessfaqs+scapular+pull+ups)
+
+### High Knees
+*   **Target:** Plyometric cardo prep.
+*   **Form:** Run in place, driving knees up to hip height.
+*   **Tutorial:** [High Knees Warmup](https://www.youtube.com/results?search_query=how+to+do+high+knees)
+
+### Star Jumps
+*   **Target:** Explosive jumping-jack.
+*   **Form:** Jump, extending arms & legs in X shape mid-air.
+*   **Tutorial:** [Star Jumps Form](https://www.youtube.com/results?search_query=how+to+do+star+jumps)
+
+### Tuck Jump Burpees
+*   **Target:** High intensity plyometric cardio.
+*   **Form:** Do standard burpee, then add explosive knee-to-chest tuck jump.
+*   **Tutorial:** [Tuck Jump Burpees Guide](https://www.youtube.com/results?search_query=tuck+jump+burpee+form)
+
+### Surya Namaskara (Sun Salutations)
+*   **Target:** Full body flexibility and flow.
+*   **Form:** 12-pose yoga sequence coordinated with breathing.
+*   **Tutorial:** [Surya Namaskara Guide](https://www.youtube.com/results?search_query=how+to+do+surya+namaskar+correctly)
+
+### World's Greatest Stretch
+*   **Target:** Thoracic spine & hip mobility.
+*   **Form:** Step forward to deep lunge, rotate arm up, stretch hamstring.
+*   **Tutorial:** [World's Greatest Stretch Tutorial](https://www.youtube.com/results?search_query=worlds+greatest+stretch+form)
+
+### Hamstring Scoops
+*   **Target:** Dynamic hamstring release.
+*   **Form:** Heel forward, hip back, scoop arms along floor.
+*   **Tutorial:** [Hamstring Scoops Tutorial](https://www.youtube.com/results?search_query=hamstring+scoops+stretch)
+
+### Deep Squat Knee Touch (Taps)
+*   **Target:** Hip internal rotation in squat.
+*   **Form:** Sit deep, drop one knee flat inward to touch ground.
+*   **Tutorial:** [Deep Squat Knee Taps](https://www.youtube.com/results?search_query=deep+squat+knee+taps+mobility)
+
+### Wall Arm Raises
+*   **Target:** Thoracic alignment, shoulder slides.
+*   **Form:** Slide arms up wall while spine/lower back maintains wall contact.
+*   **Tutorial:** [Wall Slides Tutorial](https://www.youtube.com/results?search_query=wall+slides+shoulder+mobility)
+
+### Thoracic Wall Stretch
+*   **Target:** Kneeling chest-to-floor stretch.
+*   **Form:** Kneel against wall, hands elevated on wall, sink chest down.
+*   **Tutorial:** [Thoracic Spine Wall Stretch](https://www.youtube.com/results?search_query=thoracic+mobility+wall+stretch)
+
+### Hip Thrust with 90-90 Stretch
+*   **Target:** Hips internal/external extension.
+*   **Form:** In 90-90 floor seating, drive hips up into full extension.
+*   **Tutorial:** [90-90 Hip Flow and Thrust](https://www.youtube.com/results?search_query=90+90+hip+mobility+thrust)
+
+### Hip Internal Wall Rotation
+*   **Target:** Active standing hip socket mobilization.
+*   **Form:** Knee against wall in elevated position, rotate thigh internally keeping torso stable.
+*   **Tutorial:** [Standing Hip Internal Rotation Wall](https://www.youtube.com/results?search_query=wall+hip+internal+rotation)
+
+### Ankle Mobility (Lunge Drive)
+*   **Target:** Achilles/soleus ankle dorsiflexion.
+*   **Form:** Stand in lunge, drive knee over toes, keeping heel flat.
+*   **Tutorial:** [Ankle Dorsiflexion Lunge Mobility](https://www.youtube.com/results?search_query=ankle+dorsiflexion+lunge+mobility)
+
+### Shoulder Rotation with Band
+*   **Target:** Rotator cuff activation.
+*   **Form:** Stand, hold resistance band, roll shoulders over and back (dislocates).
+*   **Tutorial:** [Band Shoulder Dislocates](https://www.youtube.com/results?search_query=band+shoulder+dislocates)
+
+### Band Pulls (Sideways & Front-to-Back)
+*   **Target:** Rotator cuff and rear/mid-trap activation.
+*   **Form:** First 10 count pull band sideways (aparts); next 10 pull front-to-back (rowing).
+*   **Tutorial:** [Band Pullaparts & Rows](https://www.youtube.com/results?search_query=band+pull+aparts+tutorial)
