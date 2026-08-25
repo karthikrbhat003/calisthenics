@@ -74,6 +74,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Elbos flaring to 90 degrees (keep at 45 degrees), loss of core stability.
 *   **Tutorial:** [Wide Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+wide+pushups)
 
+### Deep Pike Push-up
+*   **Muscles:** Anterior deltoids, triceps, upper chest, serratus anterior.
+*   **Form Cues:** Form an inverted V with your body (hips high, hands shoulder-width). Lower your head forward of your hands to form a tripod shape, going as deep as shoulder flexibility allows, then push back up along the diagonal.
+*   **Key Mistakes:** Flaring elbows out, lowering the head straight down between hands (should form a triangle), or rounding the lower back.
+*   **Tutorial:** [Pike Push-up Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+pike+pushup)
+
 ### Decline Push-up
 *   **Muscles:** Upper chest, front shoulders, triceps.
 *   **Form Cues:** Place feet on an elevated surface (box/bench) and hands on the floor. Lower chest to the floor.
@@ -110,11 +116,23 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Flaring elbows, shrugging shoulders up.
 *   **Tutorial:** [Parallel Bar Dips Form](https://www.youtube.com/results?search_query=calisthenics+movement+dips)
 
+### Slow Dips (10s Up / 10s Down)
+*   **Muscles:** Triceps, chest, anterior deltoids.
+*   **Form Cues:** Take a full 10 seconds to lower into a deep dip (eccentric phase), pause, and take another 10 seconds to push back up to lock out (concentric phase). Maintain maximum tension.
+*   **Key Mistakes:** Rushing the count, losing shoulder depression (shrugging), or leg kicking.
+*   **Tutorial:** [Tempo Dips Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+slow+tempo+dips)
+
 ### Dumbbell Overhead Shoulder Press
 *   **Muscles:** Deltoids, upper chest, triceps.
 *   **Form Cues:** Press dumbbells vertically overhead. Keep your ribs pulled down and core braced to prevent arching.
 *   **Key Mistakes:** Back arching, pushing weights forward instead of straight up.
 *   **Tutorial:** [Overhead Press Mechanics](https://www.youtube.com/results?search_query=dumbbell+overhead+press+form)
+
+### Front Raises (Dumbbell/Weight)
+*   **Muscles:** Anterior deltoids, upper chest.
+*   **Form Cues:** Stand tall, holding weights. Elevate your arms forward to shoulder level without swinging, pause, and lower slowly under control. Keep core braced.
+*   **Key Mistakes:** Using hip momentum to swing the weights, shrugging shoulders up, or hyper-extending the lower back.
+*   **Tutorial:** [Dumbbell Front Raise Form](https://www.youtube.com/results?search_query=dumbbell+front+raise+technique)
 
 ### Bodyweight Tricep Extensions
 *   **Muscles:** Triceps.
@@ -248,6 +266,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 
 ## ⏱️ 5. Holds & Skill holds
 
+### Handstand Walk
+*   **Muscles:** Shoulders, triceps, upper chest, core, wrist stabilizers.
+*   **Form Cues:** Kick up into a controlled handstand. Shift weight slightly from one hand to the other, walking forward while keeping your core locked, glutes engaged, and legs straight. Focus on pushing the floor away.
+*   **Key Mistakes:** Arching the back ("banana back"), letting the elbows bend, or rushing the steps without balance.
+*   **Tutorial:** [Handstand Walk Tutorial](https://www.youtube.com/results?search_query=calisthenics+movement+handstand+walk)
+
 ### Front Lever Tuck Hold
 *   **Muscles:** Lats, upper back, core, shoulders, grip.
 *   **Form Cues:** Pull knees to chest. Keep arms locked straight. Drive your hands downward toward your hips, lifting your upper body until it is parallel to the ground.
@@ -341,6 +365,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Make fists, roll wrists front & back under light weight-bearing.
 *   **Tutorial:** [Fist Rolling Wrist Warmup](https://www.youtube.com/results?search_query=wrist+warm+up+fist+rolling)
 
+### Wrist and Finger Extension Flow (Fingertip to Fist to Back of Palm)
+*   **Target:** Wrist joint mobility, forearm extensor/flexor tendon glide.
+*   **Form:** Start by extending your fingers fully, curl them into a tight fist, and then press the back of your palms together or flex the wrists dynamically to stretch the extensors.
+*   **Tutorial:** [Wrist and Finger Mobilization](https://www.youtube.com/results?search_query=wrist+and+finger+mobility+exercises)
+
 ### Knee Rotation
 *   **Target:** Synovial fluid knee joint prep.
 *   **Form:** Place hands on knees, rotate in small circles clockwise & anti-clockwise.
@@ -356,6 +385,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** In hang/plank, move body using only shoulder blades.
 *   **Tutorial:** [Scapular Shrugs Form](https://www.youtube.com/results?search_query=fitnessfaqs+scapular+pull+ups)
 
+### Dip Bar Scapula Depressions (Lift Up & Down)
+*   **Target:** Lower trap strength and shoulder girdle stability.
+*   **Form:** Support yourself on dip bars with locked arms. Let your shoulders shrug up toward your ears (elevation), then depress your scapula to lift your body up as high as possible.
+*   **Tutorial:** [Dip Bar Scapula Depressions](https://www.youtube.com/results?search_query=dip+bar+scapula+shrugs)
+
 ### High Knees
 *   **Target:** Plyometric cardo prep.
 *   **Form:** Run in place, driving knees up to hip height.
@@ -366,15 +400,35 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Jump, extending arms & legs in X shape mid-air.
 *   **Tutorial:** [Star Jumps Form](https://www.youtube.com/results?search_query=how+to+do+star+jumps)
 
+### Jumping Jacks (Standard)
+*   **Target:** Full body warm-up and aerobic conditioning.
+*   **Form:** Jump to spread your legs wide while raising your arms overhead, then jump back to the starting position while bringing your arms to your sides.
+*   **Tutorial:** [Standard Jumping Jacks Form](https://www.youtube.com/results?search_query=jumping+jacks+exercise+form)
+
 ### Tuck Jump Burpees
 *   **Target:** High intensity plyometric cardio.
 *   **Form:** Do standard burpee, then add explosive knee-to-chest tuck jump.
 *   **Tutorial:** [Tuck Jump Burpees Guide](https://www.youtube.com/results?search_query=tuck+jump+burpee+form)
 
+### Burpees (Standard)
+*   **Target:** Cardiovascular conditioning and full-body plyometrics.
+*   **Form:** Drop into a squat, kick feet back to a push-up plank, perform a push-up (optional but standard), jump feet back to hands, and explode upward into a jump.
+*   **Tutorial:** [Standard Burpee Form Guide](https://www.youtube.com/results?search_query=how+to+do+a+burpee)
+
+### Medicine Ball Slams
+*   **Target:** Explosive core power, shoulders, and lats conditioning.
+*   **Form:** Hold a medicine ball overhead with arms fully extended, drop your hips dynamically, and use your core and arms to slam the ball into the floor as hard as possible. Catch the bounce and repeat.
+*   **Tutorial:** [Medicine Ball Slam Form](https://www.youtube.com/results?search_query=medicine+ball+slams+technique)
+
 ### Surya Namaskara (Sun Salutations)
 *   **Target:** Full body flexibility and flow.
 *   **Form:** 12-pose yoga sequence coordinated with breathing.
 *   **Tutorial:** [Surya Namaskara Guide](https://www.youtube.com/results?search_query=how+to+do+surya+namaskar+correctly)
+
+### Mountain to Cobra
+*   **Target:** Lower back and core stretch, spinal extension.
+*   **Form:** Start in a downward-facing dog (mountain pose), then roll your spine forward, lowering your hips toward the floor and lifting your chest into a cobra pose while keeping your hands and toes fixed.
+*   **Tutorial:** [Mountain to Cobra Flow](https://www.youtube.com/results?search_query=mountain+to+cobra+pose+stretch)
 
 ### World's Greatest Stretch
 *   **Target:** Thoracic spine & hip mobility.
@@ -425,3 +479,8 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Rotator cuff and rear/mid-trap activation.
 *   **Form:** First 10 count pull band sideways (aparts); next 10 pull front-to-back (rowing).
 *   **Tutorial:** [Band Pullaparts & Rows](https://www.youtube.com/results?search_query=band+pull+aparts+tutorial)
+
+### Thread the Needle Stretch
+*   **Target:** Upper back, thoracic spine, and shoulder mobility.
+*   **Form:** Start on all fours. Slide one arm underneath the opposite armpit, resting your shoulder and cheek on the floor to rotate and stretch the thoracic spine.
+*   **Tutorial:** [Thread the Needle Stretch Form](https://www.youtube.com/results?search_query=thread+the+needle+stretch+tutorial)
