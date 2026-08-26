@@ -168,6 +168,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Landing off-balance, stiff knees.
 *   **Tutorial:** [Broad Jump Technique](https://www.youtube.com/results?search_query=how+to+do+broad+jumps)
 
+### Vertical Jump
+*   **Muscles:** Quads, glutes, calves (explosive extension).
+*   **Form Cues:** Drop quickly into a half squat, swing arms back, and explode vertically as high as possible. Land softly on the balls of your feet, rolling to heels.
+*   **Key Mistakes:** Stiff landings, caving knees on takeoff or landing.
+*   **Tutorial:** [Vertical Jump Technique](https://www.youtube.com/results?search_query=how+to+increase+vertical+jump)
+
 ### Single Leg Jumps
 *   **Muscles:** Single leg power, ankle stabilizers.
 *   **Form Cues:** Explode vertically off one leg, focusing on stability and soft single-leg landing control.
@@ -179,6 +185,42 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Keep chest up, feet flat, knees tracking over toes. Drop hips below knee level.
 *   **Key Mistakes:** Heels lifting, knees caving.
 *   **Tutorial:** [Perfect Air Squat Form](https://www.youtube.com/results?search_query=calisthenics+movement+squat)
+
+### Slow Squats (20s Up / 20s Down)
+*   **Muscles:** Quads, glutes, hamstrings, calves, core.
+*   **Form Cues:** Perform a squat taking a full 20 seconds to descend (eccentric phase), pause briefly, and take another 20 seconds to stand back up (concentric phase). Maintain rigid posture.
+*   **Key Mistakes:** Rushing the speed count, losing core bracing, or heels lifting.
+*   **Tutorial:** [Super Slow Squats Form](https://www.youtube.com/results?search_query=slow+tempo+squats+exercise)
+
+### Pistol Squat (Single-Leg Squat)
+*   **Muscles:** Quads, glutes, hamstrings, hip stabilizers, core.
+*   **Form Cues:** Stand on one leg with the other extended straight forward. Lower your hips back and down under control until the hamstrings rest on the calf, then drive up through the heel.
+*   **Key Mistakes:** Heel lifting off the ground, knee collapsing inward (valgus), or rounding the lower back excessively.
+*   **Tutorial:** [Pistol Squat Progression Guide](https://www.youtube.com/results?search_query=calisthenics+movement+pistol+squat)
+
+### Sissy Squat
+*   **Muscles:** Quadriceps (especially rectus femoris), core, knees.
+*   **Form Cues:** Lean your straight torso backward while bending your knees forward, elevating your heels. Keep hips extended in a straight line from knee to head. Push back up using quads.
+*   **Key Mistakes:** Flexing/bending at the hips, rushing the movement, or letting knees flare.
+*   **Tutorial:** [Bodyweight Sissy Squat Form](https://www.youtube.com/results?search_query=fitnessfaqs+sissy+squat)
+
+### Close-Width Squat
+*   **Muscles:** Outer quads (vastus lateralis), glutes.
+*   **Form Cues:** Stand with feet closer than shoulder-width (nearly touching). Keep chest high, squat down below parallel, and keep knees tracking forward.
+*   **Key Mistakes:** Heels rising, knees collapsing inward, or chest collapsing forward.
+*   **Tutorial:** [Close Stance Squat Form](https://www.youtube.com/results?search_query=calisthenics+movement+narrow+squat)
+
+### Sumo Squat
+*   **Muscles:** Inner thighs (adductors), glutes, quads.
+*   **Form Cues:** Take a wide stance with toes pointed outwards at 45 degrees. Lower your hips straight down, keeping knees tracking inline with your toes.
+*   **Key Mistakes:** Knees collapsing inward, leaning too far forward, or shallow depth.
+*   **Tutorial:** [Sumo Squat Form Guide](https://www.youtube.com/results?search_query=how+to+do+sumo+squat)
+
+### Sumo Squat Pulses
+*   **Muscles:** Adductors, glutes, quads (isometric/constant tension).
+*   **Form Cues:** Sit low into a sumo squat position and perform small up-and-down pulsing movements within a 2-3 inch range, maintaining tension.
+*   **Key Mistakes:** Standing up too high, losing wide knee tracking.
+*   **Tutorial:** [Sumo Squat Pulse Technique](https://www.youtube.com/results?search_query=sumo+squat+pulses+exercise)
 
 ### Lunges
 *   **Muscles:** Quads, glutes, calves.
@@ -330,6 +372,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 
 ## 🏃 6. Warm-up, Mobility & Cardio
 
+### Foot Edge Walks (Toes, Heels, Outer & Inner Edges)
+*   **Target:** Strengthen ankles, dynamic foot arches activation, and warm up calf tendons.
+*   **Form:** Walk slowly for designated rounds alternating between: on your tiptoes, on your heels, on the outer borders of your feet, and on the inner borders of your feet. Maintain control.
+*   **Tutorial:** [Ankle Strength Foot Walks](https://www.youtube.com/results?search_query=ankle+strengthening+walking+on+edges)
+
 ### Running (Forward, Backward, Sideways)
 *   **Target:** Raising core temp. Warm up calf/ankle elasticity.
 *   **Form:** Change directions smoothly to challenge ankle stabilizer planes.
@@ -349,6 +396,16 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Shoulder/chest opening crawl.
 *   **Form:** Face up, raise hips, crawl forward and backward.
 *   **Tutorial:** [GMB Crab Walk Tutorial](https://www.youtube.com/results?search_query=gmb+fitness+crab+walk)
+
+### Lateral Walks
+*   **Target:** Gluteus medius strength, hip stabilizer activation.
+*   **Form:** Drop into a half squat position. Take slow, deliberate steps sideways, keeping your feet parallel, knees tracking over toes, and maintaining a low hip height.
+*   **Tutorial:** [Lateral Squat Walks Form](https://www.youtube.com/results?search_query=lateral+squat+walks+exercise)
+
+### Duck Walks
+*   **Target:** Ankle dorsiflexion, deep hip mobility, quadriceps endurance.
+*   **Form:** Drop into a full squat. Walk forward while staying low, stepping heel to toe and keeping your hips below knee level throughout the walk.
+*   **Tutorial:** [Duck Walk Mobility Exercise](https://www.youtube.com/results?search_query=how+to+do+duck+walks)
 
 ### Y-T-W Raises
 *   **Target:** Scapular trap/rhomboid activation.
@@ -379,6 +436,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Ankle joint warmth.
 *   **Form:** Draw circles with toes in air or pivot on balls of feet.
 *   **Tutorial:** [Ankle Mobility Warmup](https://www.youtube.com/results?search_query=ankle+mobility+circles)
+
+### Leg Swings (Front, Back & Sideways)
+*   **Target:** Dynamic hip joint mobility, warm up glutes/hamstrings/hip flexors.
+*   **Form:** Stand next to a wall for support. Swing one leg forward and backward in a smooth pendulum motion. Next, swing it side-to-side across your body. Repeat on the other side.
+*   **Tutorial:** [Dynamic Leg Swings Warmup](https://www.youtube.com/results?search_query=dynamic+leg+swings+warm+up)
 
 ### Scapula Pull & Push
 *   **Target:** Retraction/protraction control.
@@ -445,6 +507,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Sit deep, drop one knee flat inward to touch ground.
 *   **Tutorial:** [Deep Squat Knee Taps](https://www.youtube.com/results?search_query=deep+squat+knee+taps+mobility)
 
+### Deep Squat with Torso Twist
+*   **Target:** Hip openers, thoracic rotation, chest openers.
+*   **Form:** Drop into a deep squat. Place one palm flat on the ground inside your knee, and extend your other arm straight up to the ceiling, rotating your chest and looking at your hand. Alternate sides.
+*   **Tutorial:** [Deep Squat Rotational Stretch](https://www.youtube.com/results?search_query=deep+squat+with+rotation+stretch)
+
 ### Wall Arm Raises
 *   **Target:** Thoracic alignment, shoulder slides.
 *   **Form:** Slide arms up wall while spine/lower back maintains wall contact.
@@ -484,3 +551,23 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Upper back, thoracic spine, and shoulder mobility.
 *   **Form:** Start on all fours. Slide one arm underneath the opposite armpit, resting your shoulder and cheek on the floor to rotate and stretch the thoracic spine.
 *   **Tutorial:** [Thread the Needle Stretch Form](https://www.youtube.com/results?search_query=thread+the+needle+stretch+tutorial)
+
+### Figure Four Stretch (Figure Pose)
+*   **Target:** Outer glute and deep hip rotator stretch.
+*   **Form:** Lie flat on your back. Cross one ankle over the opposite knee to form a figure "4". Reach through and pull your bottom thigh toward your chest until you feel a stretch in the glute of the crossed leg.
+*   **Tutorial:** [Figure Four Stretch Form](https://www.youtube.com/results?search_query=figure+four+stretch+tutorial)
+
+### Pigeon Pose
+*   **Target:** Deep hip flexor and glute (piriformis) stretch.
+*   **Form:** From all fours or a down dog, bring one knee forward behind your wrist and angle your shin. Slide the back leg straight back, lower your hips to the floor, and fold your torso forward over the front shin.
+*   **Tutorial:** [Pigeon Pose Guide](https://www.youtube.com/results?search_query=how+to+do+pigeon+pose+correctly)
+
+### Half Gate Pose Stretch
+*   **Target:** Adductor (inner thigh) and lateral side body stretch.
+*   **Form:** Kneel on one knee (at a 90-degree angle) and extend the other leg straight out to the side. Reach your torso sideways over the extended leg, sweeping the opposite arm overhead.
+*   **Tutorial:** [Gate Pose Yoga Stretch](https://www.youtube.com/results?search_query=gate+pose+stretch+yoga)
+
+### Lying Back Twist
+*   **Target:** Lower back stretch, thoracic rotation, spinal decompression.
+*   **Form:** Lie on your back. Pull one knee into your chest, then guide it across your body to the floor on the opposite side with your hand. Keep both shoulders flat on the ground.
+*   **Tutorial:** [Lying Supine Spinal Twist](https://www.youtube.com/results?search_query=supine+spinal+twist+stretch)

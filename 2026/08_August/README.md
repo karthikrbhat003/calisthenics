@@ -19,6 +19,6 @@
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `10`
+- **Total Sessions Completed:** `11`
 - **Most frequent workout style:** `HIIT Circuit`
 - **Overall monthly energy average:** `N/A`
