@@ -46,6 +46,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Letting go of tension, bent arms.
 *   **Tutorial:** [Skin the Cat Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+skin+the+cat)
 
+### Pull-over (Bar)
+*   **Muscles:** Lats, core, hip flexors, upper back, arm stabilizers.
+*   **Form Cues:** Hang from the bar, pull your chest to the bar, and simultaneously lift your legs up and over the bar, rotating your hips over the bar until you end in a front support position.
+*   **Key Mistakes:** Swinging too much, bending elbows early, or losing core compression.
+*   **Tutorial:** [Bar Pullover Tutorial](https://www.youtube.com/results?search_query=calisthenics+movement+bar+pullover)
+
 ---
 
 ## 🤸 2. Push Exercises
@@ -262,6 +268,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Swinging, dropping legs fast.
 *   **Tutorial:** [Hanging Leg Raise Tutorial](https://www.youtube.com/results?search_query=fitnessfaqs+leg+raises)
 
+### Supine Leg Raises (Lying Leg Raises)
+*   **Muscles:** Rectus abdominis, hip flexors.
+*   **Form Cues:** Lie flat on your back, legs straight, arms at your sides. Keeping your lower back pressed firmly into the floor, raise your legs to 90 degrees, then lower them under control.
+*   **Key Mistakes:** Arching the lower back off the floor, or dropping the legs too fast.
+*   **Tutorial:** [Lying Leg Raise Form Guide](https://www.youtube.com/results?search_query=how+to+do+lying+leg+raises+correctly)
+
 ### Hanging Knee Raises
 *   **Muscles:** Lower abs, hip flexors, grip.
 *   **Form Cues:** Hang from bar, pull knees up toward your chest. Focus on rounding the pelvis up.
@@ -280,6 +292,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Sagging hips.
 *   **Tutorial:** [Reverse Plank Technique](https://www.youtube.com/results?search_query=how+to+do+reverse+plank)
 
+### Core Compression (Pike/Straddle Compressions)
+*   **Muscles:** Deep abdominals, hip flexors, quadriceps.
+*   **Form Cues:** Sit on the floor in a pike or wide straddle position. Place your hands flat on the floor in front of your hips. Lean forward slightly and pulse your legs up off the floor using core compression.
+*   **Key Mistakes:** Leaning too far back to lift the legs, or bending the knees.
+*   **Tutorial:** [Calisthenics Core Compression Work](https://www.youtube.com/results?search_query=calisthenics+core+compression+tutorial)
+
 ### Side Plank
 *   **Muscles:** Obliques, lateral stabilizers.
 *   **Form Cues:** Balance on one elbow and side of foot. Elevate hips until body is straight.
@@ -291,6 +309,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Support body on elbows and toes. Squeeze glutes and tuck pelvis slightly (hollow body).
 *   **Key Mistakes:** Sagging lower back, head dropping.
 *   **Tutorial:** [Plank Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+plank)
+
+### Hollow Hold (Hollow Body Hold)
+*   **Muscles:** Rectus abdominis, obliques, hip flexors, quads.
+*   **Form Cues:** Lie on your back. Press your lower back flat into the ground, lift your shoulders and legs slightly off the floor, and extend your arms overhead (or by your sides to scale). Maintain a banana-shaped body.
+*   **Key Mistakes:** Arching the lower back off the floor, or lifting the head too high straining the neck.
+*   **Tutorial:** [Hollow Body Hold Form](https://www.youtube.com/results?search_query=calisthenics+movement+hollow+body+hold)
 
 ### Superman Plank (Single Arm Hold)
 *   **Muscles:** Core, shoulders, lower back.
@@ -307,6 +331,24 @@ This library collates **every single exercise** from your logged sessions. Use i
 ---
 
 ## ⏱️ 5. Holds & Skill holds
+
+### Crow Stand (Crow Pose)
+*   **Muscles:** Anterior deltoids, wrist stabilizers, core, triceps.
+*   **Form Cues:** Place hands shoulder-width on the floor. Place your knees against the backs of your upper arms or armpits, lean forward, and lift your feet off the floor to balance.
+*   **Key Mistakes:** Looking down (look slightly forward), slipping knees, or bent wrists under excessive pressure.
+*   **Tutorial:** [Crow Stand Balance Form](https://www.youtube.com/results?search_query=calisthenics+movement+crow+stand)
+
+### Crow Stand to Headstand Transition
+*   **Muscles:** Shoulders, neck stabilizers, core, hip flexors.
+*   **Form Cues:** Begin in a crow stand. Slowly lower the crown of your head to the floor to form a tripod, then tuck your knees and extend your legs vertically into a headstand.
+*   **Key Mistakes:** Crashing onto the head, or losing control of the pelvic tilt.
+*   **Tutorial:** [Crow Pose to Headstand Tutorial](https://www.youtube.com/results?search_query=crow+pose+to+headstand+transition)
+
+### Crow Stand to Handstand Transition
+*   **Muscles:** Shoulders, triceps, upper back, core, wrists.
+*   **Form Cues:** Start in a crow stand. Press down hard through your palms, shift your weight forward, squeeze your glutes, and push your hips up while extending your legs vertically into a handstand.
+*   **Key Mistakes:** Losing shoulder protraction, or bending arms at the elbow.
+*   **Tutorial:** [Crow Pose to Handstand Press](https://www.youtube.com/results?search_query=crow+pose+to+handstand+press)
 
 ### Handstand Walk
 *   **Muscles:** Shoulders, triceps, upper chest, core, wrist stabilizers.
@@ -371,6 +413,21 @@ This library collates **every single exercise** from your logged sessions. Use i
 ---
 
 ## 🏃 6. Warm-up, Mobility & Cardio
+
+### Neck Rotations
+*   **Target:** Cervical spine mobility and neck tension release.
+*   **Form:** Move your head slowly up and down, side to side, and roll your neck in gentle circles clockwise and anti-clockwise. Avoid rapid movements.
+*   **Tutorial:** [Neck Mobility Rotations](https://www.youtube.com/results?search_query=neck+mobility+rotations)
+
+### Arm Rotations
+*   **Target:** Shoulder joint dynamic mobility.
+*   **Form:** Stand tall with arms straight. Draw large, slow circles with your arms, moving them forward and backward to mobilize the shoulder girdle.
+*   **Tutorial:** [Shoulder Arm Circles](https://www.youtube.com/results?search_query=arm+rotations+warm+up)
+
+### Elbow Rotations
+*   **Target:** Elbow joint synovial fluid activation.
+*   **Form:** Extend arms out sideways or forward. Bend at the elbows and roll your forearms in circles inward and outward.
+*   **Tutorial:** [Elbow Joint Warmup](https://www.youtube.com/results?search_query=elbow+mobility+warm+up)
 
 ### Foot Edge Walks (Toes, Heels, Outer & Inner Edges)
 *   **Target:** Strengthen ankles, dynamic foot arches activation, and warm up calf tendons.
