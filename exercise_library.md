@@ -16,6 +16,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** "Chicken winging" (pressing one elbow up before the other) and excessive kiping.
 *   **Tutorial:** [Muscle-up Progression Guide](https://www.youtube.com/results?search_query=calisthenics+movement+muscle+up)
 
+### Muscle-up to Chin-up Transition
+*   **Muscles:** Lats, biceps, upper back, shoulders, grip.
+*   **Form Cues:** Perform a standard muscle-up to reach a front support over the bar. Upon lowering, transition your grip dynamically from overhand to underhand (chin-up grip) and perform a controlled eccentric chin-up lower.
+*   **Key Mistakes:** Losing shoulder stability during the grip transition, or dropping down too fast.
+*   **Tutorial:** [Muscle up Grip Transition](https://www.youtube.com/results?search_query=muscle+up+grip+switch+tutorial)
+
 ### Pull-ups (Standard)
 *   **Muscles:** Lats, rhomboids, traps, biceps, forearms.
 *   **Form Cues:** Pull from a dead hang with straight arms. Depress and retract shoulder blades first, then pull chest to the bar. Lower under control.
@@ -67,6 +73,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** From a push-up plank, explode forward with your feet, tucking knees to land between your hands. Lower your hips fully before returning.
 *   **Key Mistakes:** Heavy landing on feet, not dropping hips.
 *   **Tutorial:** [Plank to Jump Tucks](https://www.youtube.com/results?search_query=plank+to+jump+between+hands)
+
+### Plank Shoulder Taps
+*   **Muscles:** Core stabilizers (transverse abdominis), obliques, anterior deltoids, triceps.
+*   **Form Cues:** Assume a strong push-up plank position with feet slightly wider than shoulder-width. Lift one hand to tap the opposite shoulder while actively bracing your core to prevent your hips from rocking or rotating. Alternate sides.
+*   **Key Mistakes:** Rocking or twisting the hips sideways, or letting the lower back sag.
+*   **Tutorial:** [Plank Shoulder Taps Form](https://www.youtube.com/results?search_query=how+to+do+plank+shoulder+taps)
 
 ### Close Push-up
 *   **Muscles:** Triceps, inner chest, front delts.
@@ -429,6 +441,26 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Extend arms out sideways or forward. Bend at the elbows and roll your forearms in circles inward and outward.
 *   **Tutorial:** [Elbow Joint Warmup](https://www.youtube.com/results?search_query=elbow+mobility+warm+up)
 
+### Spinal Wave
+*   **Target:** Vertebral mobility, spinal alignment, core heat.
+*   **Form:** Start on all fours or in downward dog. Roll your spine forward vertebra by vertebra into cobra pose, then press back through a curved spine to return to the start.
+*   **Tutorial:** [Calisthenics Spinal Wave Form](https://www.youtube.com/results?search_query=spinal+waves+mobility+exercise)
+
+### Infinity Wrist Rotations (Figure-8 Rotations)
+*   **Target:** Wrist joint mobility, tendon lubrication.
+*   **Form:** Interlace your fingers, bring your forearms together, and rotate your hands in a continuous figure-8 pattern (infinity symbol) clockwise and anti-clockwise.
+*   **Tutorial:** [Figure 8 Wrist Warmup](https://www.youtube.com/results?search_query=wrist+warm+up+figure+8+rotations)
+
+### Forearm Waves
+*   **Target:** Wrist, elbow, and forearm fascia mobilization.
+*   **Form:** Bring hands in front. Move your hands and elbows in a synchronized wave-like motion, flexing and extending wrists in alternating directions.
+*   **Tutorial:** [Forearm Waves Mobility](https://www.youtube.com/results?search_query=forearm+waves+mobility+exercise)
+
+### Hip Circles
+*   **Target:** Hips and lower back mobilization.
+*   **Form:** Stand with feet shoulder-width, hands on hips. Roll your hips in large circles clockwise and anti-clockwise.
+*   **Tutorial:** [Hip Circles Warmup](https://www.youtube.com/results?search_query=standing+hip+circles+warm+up)
+
 ### Foot Edge Walks (Toes, Heels, Outer & Inner Edges)
 *   **Target:** Strengthen ankles, dynamic foot arches activation, and warm up calf tendons.
 *   **Form:** Walk slowly for designated rounds alternating between: on your tiptoes, on your heels, on the outer borders of your feet, and on the inner borders of your feet. Maintain control.
@@ -628,3 +660,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Lower back stretch, thoracic rotation, spinal decompression.
 *   **Form:** Lie on your back. Pull one knee into your chest, then guide it across your body to the floor on the opposite side with your hand. Keep both shoulders flat on the ground.
 *   **Tutorial:** [Lying Supine Spinal Twist](https://www.youtube.com/results?search_query=supine+spinal+twist+stretch)
+
+### Cobra to Mountain Push-up Flow
+*   **Target:** Thoracic spine extension/flexion, hip flexors, shoulder girdle stability, triceps.
+*   **Form:** Start in a cobra pose, press hips back into downward-facing dog (mountain pose), raise one leg straight up, perform a single-leg push-up, return to mountain, and step that foot forward between your palms. Alternate sides.
+*   **Tutorial:** [Downward Dog to Cobra Flow](https://www.youtube.com/results?search_query=downward+dog+to+cobra+flow+push+up)
+
+### Lunge, Twist & Split Prep Flow
+*   **Target:** Hip flexors, hamstrings (front split prep), adductors (middle split prep), thoracic spine rotation.
+*   **Form:** From a deep lunge (right foot forward), twist your torso to the left and back, return to center, sit back on your left heel extending your right leg straight (front split stretch), hold for 5s, then swing your right leg to the side (middle split stretch). Alternate sides.
+*   **Tutorial:** [Calisthenics Split Prep Routine](https://www.youtube.com/results?search_query=calisthenics+splits+preparation+mobility)
+
+### Crab to Sissy Squat Transition Flow
+*   **Target:** Shoulder extension, wrist stabilizers, quadriceps, ankle dorsiflexion.
+*   **Form:** Begin in a crab pose. Lift one hand and twist, pivoting on your feet. Drop both hands to the floor, lean your hips forward and back to stretch, then shift forward to balance on the balls of your feet in a sissy squat, reaching arms overhead and arching back. Return to crab. Alternate sides.
+*   **Tutorial:** [Crab to Sissy Squat Flow](https://www.youtube.com/results?search_query=crab+pose+to+sissy+squat+mobility)
