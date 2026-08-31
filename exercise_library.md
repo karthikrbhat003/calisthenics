@@ -98,6 +98,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Flaring elbows out, lowering the head straight down between hands (should form a triangle), or rounding the lower back.
 *   **Tutorial:** [Pike Push-up Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+pike+pushup)
 
+### Pike Arm Taps
+*   **Muscles:** Anterior deltoids, trapezius, serratus anterior, core.
+*   **Form Cues:** In a pike push-up position (hips elevated high), shift weight onto one arm, lift the other hand to tap the opposite shoulder or hip, and return. Alternate sides while keeping hips elevated and spine neutral.
+*   **Key Mistakes:** Dropping hips down into a standard plank, or bending the supporting arm.
+*   **Tutorial:** [Pike Shoulder Taps Form](https://www.youtube.com/results?search_query=pike+shoulder+taps+exercise)
+
 ### Decline Push-up
 *   **Muscles:** Upper chest, front shoulders, triceps.
 *   **Form Cues:** Place feet on an elevated surface (box/bench) and hands on the floor. Lower chest to the floor.
@@ -115,6 +121,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Place hands shoulder-width. Keep body straight from head to heels. Lower until chest nearly touches floor, elbows at 45 degrees.
 *   **Key Mistakes:** Lower back arching, flared elbows.
 *   **Tutorial:** [Perfect Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+perfect+pushup)
+
+### One-Arm Push-up
+*   **Muscles:** Chest, anterior deltoids, triceps, core anti-rotators, glutes.
+*   **Form Cues:** Set feet wider than shoulder-width for a tripod base. Place one working hand on the floor under the center of your chest and the other arm tucked behind your back. Lower chest to floor while fighting torso rotation, then press up explosively.
+*   **Key Mistakes:** Twisting the hips excessively, flaring elbow out at 90 degrees, or sagging lower back.
+*   **Tutorial:** [One Arm Pushup Progression Guide](https://www.youtube.com/results?search_query=calisthenics+movement+one+arm+pushup)
 
 ### Clap / Explosive Push-ups
 *   **Muscles:** Chest, shoulders, triceps (plyometric power).
@@ -340,6 +352,36 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Avoid:** Straining the neck (keep head neutral).
 *   **Tutorial:** [Superman Hold Form](https://www.youtube.com/results?search_query=superman+exercise+form)
 
+### Dead Bug Hold
+*   **Muscles:** Transverse abdominis, rectus abdominis, hip flexors.
+*   **Form Cues:** Lie on your back with arms extended straight up toward ceiling and knees bent at 90 degrees. Flatten your lumbar spine into the floor (no gap under back) and hold statically while breathing steadily.
+*   **Key Mistakes:** Allowing the lower back to arch off the floor, or holding breath.
+*   **Tutorial:** [Dead Bug Exercise Form](https://www.youtube.com/results?search_query=dead+bug+isometric+hold)
+
+### Lying Heel Taps
+*   **Muscles:** Lower rectus abdominis, transverse abdominis.
+*   **Form Cues:** From a dead bug position (knees at 90 degrees), slowly lower one heel to lightly tap the floor while keeping the lower back pressed flat. Return to start and alternate.
+*   **Key Mistakes:** Arching lumbar spine during the descent, or moving too fast.
+*   **Tutorial:** [Dead Bug Heel Taps Guide](https://www.youtube.com/results?search_query=dead+bug+heel+taps)
+
+### Dead Bug (Alternate Arm & Leg Extension)
+*   **Muscles:** Deep core stabilizers, anterior chain, coordination.
+*   **Form Cues:** From dead bug position, simultaneously lower opposite arm and leg toward the floor until hovering just above the ground. Return and alternate sides, keeping the core braced and lower back pinned.
+*   **Key Mistakes:** Lower back arching when limbs extend, or losing 90-degree knee angle on the static leg.
+*   **Tutorial:** [Dead Bug Exercise Progression](https://www.youtube.com/results?search_query=calisthenics+movement+dead+bug)
+
+### Bird Dog (Dynamic)
+*   **Muscles:** Erector spinae, glutes, hamstrings, shoulders, core cross-stabilizers.
+*   **Form Cues:** Start on all fours with hands under shoulders, knees under hips. Extend opposite arm forward and opposite leg straight back until parallel to floor. Pause, return, and alternate sides.
+*   **Key Mistakes:** Arching lower back, rotating hips, or lifting limbs higher than horizontal.
+*   **Tutorial:** [Bird Dog Exercise Form](https://www.youtube.com/results?search_query=how+to+do+bird+dog+correctly)
+
+### Bird Dog Hold
+*   **Muscles:** Posterior chain stabilizers, gluteus maximus, multifidus, core.
+*   **Form Cues:** In the extended bird dog position (opposite arm and leg straight), maintain a rigid isometric hold. Squeeze the glute and keep hips completely level with the floor.
+*   **Key Mistakes:** Tilting pelvis to one side, or dropping the extended arm/leg.
+*   **Tutorial:** [Bird Dog Isometric Hold](https://www.youtube.com/results?search_query=bird+dog+hold+exercise)
+
 ---
 
 ## ⏱️ 5. Holds & Skill holds
@@ -460,6 +502,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Hips and lower back mobilization.
 *   **Form:** Stand with feet shoulder-width, hands on hips. Roll your hips in large circles clockwise and anti-clockwise.
 *   **Tutorial:** [Hip Circles Warmup](https://www.youtube.com/results?search_query=standing+hip+circles+warm+up)
+
+### Standing Torso Twists
+*   **Target:** Thoracic spine mobility, rotational trunk warmup.
+*   **Form:** Stand with feet shoulder-width, knees slightly bent, arms bent at chest height. Rotate your torso smoothly from side to side, letting your hips and heels pivot naturally.
+*   **Tutorial:** [Standing Torso Twist Warmup](https://www.youtube.com/results?search_query=standing+torso+twist+warm+up)
 
 ### Foot Edge Walks (Toes, Heels, Outer & Inner Edges)
 *   **Target:** Strengthen ankles, dynamic foot arches activation, and warm up calf tendons.

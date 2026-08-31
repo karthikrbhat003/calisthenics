@@ -13,12 +13,13 @@
 |---|---|---|---|---|
 | **Week 03** | Aug 10 - Aug 16 | HIIT & Grip Variations | 🟩 Completed | [Week 03 README](Week_03/README.md) |
 | **Week 04** | Aug 17 - Aug 23 | Upper Pull & Push Strength | 🟩 Completed | [Week 04 README](Week_04/README.md) |
-| **Week 05** | Aug 24 - Aug 30 | Squat Jumps & Holds | 🟨 In Progress | [Week 05 README](Week_05/README.md) |
+| **Week 05** | Aug 24 - Aug 30 | Squat Jumps & Holds | 🟩 Completed | [Week 05 README](Week_05/README.md) |
+| **Week 06** | Aug 31 - Sep 06 | Push & Core Alignment | 🟨 In Progress | [Week 06 README](Week_06/README.md) |
 
 ---
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `13`
+- **Total Sessions Completed:** `14`
 - **Most frequent workout style:** `HIIT Circuit`
 - **Overall monthly energy average:** `N/A`
