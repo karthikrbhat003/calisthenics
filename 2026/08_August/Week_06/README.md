@@ -25,4 +25,4 @@
 - **Total Workouts:** `1 / 3`
 - **Adherence Rate:** `33%`
 - **Key Learnings:**
-  *First session of Week 6 completed. One-arm push-ups and pike taps require intense anti-rotational core and unilateral shoulder stability. Dead bug and bird dog blocks build great lumbar alignment.*
+  *First session of Week 6 completed. One-arm push-ups and pike shoulder taps require intense anti-rotational core and unilateral shoulder stability. Dead bug and bird dog blocks build great lumbar alignment.*

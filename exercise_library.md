@@ -98,7 +98,7 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Flaring elbows out, lowering the head straight down between hands (should form a triangle), or rounding the lower back.
 *   **Tutorial:** [Pike Push-up Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+pike+pushup)
 
-### Pike Arm Taps
+### Pike Shoulder Tap (Pike Shoulder Taps)
 *   **Muscles:** Anterior deltoids, trapezius, serratus anterior, core.
 *   **Form Cues:** In a pike push-up position (hips elevated high), shift weight onto one arm, lift the other hand to tap the opposite shoulder or hip, and return. Alternate sides while keeping hips elevated and spine neutral.
 *   **Key Mistakes:** Dropping hips down into a standard plank, or bending the supporting arm.
