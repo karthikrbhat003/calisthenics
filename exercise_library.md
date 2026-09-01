@@ -270,6 +270,42 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Slow hip drive, hyperextended back, pressing too early before extending legs.
 *   **Tutorial:** [Thruster Guide](https://www.youtube.com/results?search_query=how+to+do+thrusters)
 
+### Bulgarian Split Squat
+*   **Muscles:** Quadriceps, gluteus maximus, hamstrings, adductors.
+*   **Form Cues:** Stand facing away from a bench or box. Place the top of one foot on the bench behind you. Lower your hips vertically until your front thigh is parallel to the ground and rear knee hovers above the floor. Drive through front heel to return.
+*   **Key Mistakes:** Leaning excessively forward, front heel lifting, or placing feet on the same narrow line (causing balance loss).
+*   **Tutorial:** [Bulgarian Split Squat Form](https://www.youtube.com/results?search_query=calisthenics+movement+bulgarian+split+squat)
+
+### Shrimp Squat
+*   **Muscles:** Quadriceps, glutes, ankle stabilizers, hip flexors.
+*   **Form Cues:** Stand on one leg and bend the other knee behind you, holding that foot with one or both hands. Slowly lower down until your rear knee lightly taps the floor, then drive powerfully through your standing foot to return.
+*   **Key Mistakes:** Crashing knee into the floor, rounding the lower back, or losing balance.
+*   **Tutorial:** [Shrimp Squat Progression Guide](https://www.youtube.com/results?search_query=calisthenics+movement+shrimp+squat)
+
+### Box Step-Up
+*   **Muscles:** Quadriceps, glutes, hamstrings, calves.
+*   **Form Cues:** Place your entire foot onto a sturdy box or bench. Drive downward through that front heel and midfoot to elevate your body until fully standing on the box. Control the descent back down without bouncing off the back foot.
+*   **Key Mistakes:** Pushing off the trailing/ground toe, or letting the front knee cave inward.
+*   **Tutorial:** [Step-Up Exercise Form](https://www.youtube.com/results?search_query=how+to+do+step+ups+correctly)
+
+### Single-Leg Deadlift (Bodyweight SLDL)
+*   **Muscles:** Hamstrings, gluteus medius, lower back, foot/ankle stabilizers.
+*   **Form Cues:** Stand on one slightly bent leg. Hinge at your hips, sending your rear leg straight back behind you in line with your torso until your upper body is parallel to the floor. Squeeze hamstring and glute to stand tall.
+*   **Key Mistakes:** Rounding the spine, opening hips outward, or locking the standing knee completely.
+*   **Tutorial:** [Single Leg Deadlift Form](https://www.youtube.com/results?search_query=single+leg+deadlift+bodyweight+form)
+
+### Single-Leg Glute Bridge
+*   **Muscles:** Gluteus maximus, hamstrings, core.
+*   **Form Cues:** Lie flat on your back, knees bent, feet on floor. Extend one leg straight in the air. Drive through the heel of the planted foot to lift hips into a straight line from knee to shoulder. Squeeze glute at top for 1 second.
+*   **Key Mistakes:** Hyperextending the lower back, or letting hips sag unevenly.
+*   **Tutorial:** [Single Leg Glute Bridge Form](https://www.youtube.com/results?search_query=single+leg+glute+bridge+exercise)
+
+### Single-Leg Calf Raises
+*   **Muscles:** Gastrocnemius, soleus, Achilles tendon.
+*   **Form Cues:** Stand on one foot (preferably on an elevated ledge or flat ground). Press through the ball of the foot to lift your heel as high as possible into full plantarflexion. Lower slowly under control for a deep calf stretch.
+*   **Key Mistakes:** Bouncing quickly at the bottom, or bending the standing knee.
+*   **Tutorial:** [Single Leg Calf Raise Technique](https://www.youtube.com/results?search_query=single+leg+calf+raise+form)
+
 ---
 
 ## 🧱 4. Core Exercises
@@ -622,6 +658,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Full body flexibility and flow.
 *   **Form:** 12-pose yoga sequence coordinated with breathing.
 *   **Tutorial:** [Surya Namaskara Guide](https://www.youtube.com/results?search_query=how+to+do+surya+namaskar+correctly)
+
+### Chandra Namaskara (Moon Salutations)
+*   **Target:** Lateral spinal flexibility, deep hip mobility, calming flow.
+*   **Form:** A cooling 14-pose lateral flowing yoga sequence. Focuses on side bends (crescent moon), wide-legged goddess squats, lunges, and smooth continuous diaphragmatic breathing.
+*   **Tutorial:** [Chandra Namaskara Flow Guide](https://www.youtube.com/results?search_query=how+to+do+chandra+namaskar+moon+salutation)
 
 ### Mountain to Cobra
 *   **Target:** Lower back and core stretch, spinal extension.

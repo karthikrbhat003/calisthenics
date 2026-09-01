@@ -27,7 +27,7 @@ calisthenics/
 
 Select a resource below:
 
-*   📅 **[2026 Workouts](2026/08_August/README.md)**: Explore weekly and daily logs (starting August, Week 3).
+*   📅 **2026 Workouts**: **[August](2026/08_August/README.md)** | **[September](2026/09_September/README.md)**
 *   📚 **[Exercise & Form Library](exercise_library.md)**: Details on proper form cues, muscle targets, and video tutorials for all unique exercises.
 
 ---
