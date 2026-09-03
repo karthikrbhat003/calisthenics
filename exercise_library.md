@@ -828,9 +828,14 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Begin in a crab pose. Lift one hand and twist, pivoting on your feet. Drop both hands to the floor, lean your hips forward and back to stretch, then shift forward to balance on the balls of your feet in a sissy squat, reaching arms overhead and arching back. Return to crab. Alternate sides.
 *   **Tutorial:** [Crab to Sissy Squat Flow](https://www.youtube.com/results?search_query=crab+pose+to+sissy+squat+mobility)
 
-### Left and Right Core Compression Warmup (Quadruped Thoracic Rotation)
-*   **Target:** Thoracic spine rotational mobility, oblique compression, scapular control.
-*   **Form:** Kneel in a quadruped position on the ground with one hand planted and one hand behind your head. Twist your torso to bring the elbow down towards the ground to compress the core, then rotate open towards the ceiling. Perform on both left and right sides.
+### Left and Right Core Compression Warmup
+*   **Target:** Anterior core compression, oblique activation, hip flexor tension.
+*   **Form:** From a seated or quadruped position, actively compress your ribcage towards your pelvis, engaging the left and right sides of your core alternately or together to prime core tension for skill holds.
+*   **Tutorial:** [Core Compression Drills](https://www.youtube.com/results?search_query=calisthenics+core+compression+drills)
+
+### Quadruped Thoracic Rotation (Hand on Head)
+*   **Target:** Thoracic spine rotational mobility, upper back activation, scapular control.
+*   **Form:** Start in a quadruped position (all fours). Place one hand lightly behind your head. Rotate your elbow down toward the opposite forearm/ground, then rotate upward toward the ceiling, following the elbow with your eyes. Alternate sides.
 *   **Tutorial:** [Quadruped Thoracic Rotation Form](https://www.youtube.com/results?search_query=quadruped+thoracic+rotation+hand+on+head)
 
 ### Plank Alternate Toe Touches
