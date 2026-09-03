@@ -828,9 +828,9 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Begin in a crab pose. Lift one hand and twist, pivoting on your feet. Drop both hands to the floor, lean your hips forward and back to stretch, then shift forward to balance on the balls of your feet in a sissy squat, reaching arms overhead and arching back. Return to crab. Alternate sides.
 *   **Tutorial:** [Crab to Sissy Squat Flow](https://www.youtube.com/results?search_query=crab+pose+to+sissy+squat+mobility)
 
-### Quadruped Thoracic Rotation (Hand on Head)
-*   **Target:** Thoracic spine rotational mobility, scapular control.
-*   **Form:** Start in a quadruped position (all fours). Place one hand lightly behind your head. Rotate your elbow down toward the opposite forearm, then rotate upward toward the ceiling, following the elbow with your eyes. Alternate sides.
+### Left and Right Core Compression Warmup (Quadruped Thoracic Rotation)
+*   **Target:** Thoracic spine rotational mobility, oblique compression, scapular control.
+*   **Form:** Kneel in a quadruped position on the ground with one hand planted and one hand behind your head. Twist your torso to bring the elbow down towards the ground to compress the core, then rotate open towards the ceiling. Perform on both left and right sides.
 *   **Tutorial:** [Quadruped Thoracic Rotation Form](https://www.youtube.com/results?search_query=quadruped+thoracic+rotation+hand+on+head)
 
 ### Plank Alternate Toe Touches
