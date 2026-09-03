@@ -536,6 +536,24 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Avoid:** Falling backward.
 *   **Tutorial:** [Heel Elevated Squat Hold](https://www.youtube.com/results?search_query=isometric+squat+hold)
 
+### Crane Stand (Bakasana / Straight-Arm Crow)
+*   **Muscles:** Anterior deltoids, wrists/forearms, upper chest, core compression.
+*   **Form Cues:** Place palms flat on floor shoulder-width apart. Place knees high up into the armpits on the backs of the upper arms. Lean forward with straight locked arms until feet elevate off the floor. Push the floor away (scapular protraction).
+*   **Key Mistakes:** Bending elbows (which turns it into a Crow Pose), looking down instead of forward, or jumping into the hold.
+*   **Tutorial:** [Crane Pose Straight Arm Tutorial](https://www.youtube.com/results?search_query=how+to+do+crane+pose+bakasana)
+
+### Tuck Planche Hold
+*   **Muscles:** Anterior deltoids, serratus anterior, upper chest, biceps (tendon load), core.
+*   **Form Cues:** On parallettes or floor, lock arms straight and lean shoulders forward past wrists. Press through shoulders into full protraction, tuck knees tightly to chest, and elevate hips to shoulder height.
+*   **Key Mistakes:** Bending elbows, letting shoulder blades retract (sagging chest), or failing to lean far enough forward.
+*   **Tutorial:** [Tuck Planche Form Guide](https://www.youtube.com/results?search_query=calisthenics+movement+tuck+planche)
+
+### L-sit Hold
+*   **Muscles:** Abdominals, hip flexors, triceps, lower traps/depressors, quadriceps.
+*   **Form Cues:** Support body on floor, parallettes, or dip bars with straight arms. Depress shoulders actively, elevate hips, and extend legs straight out parallel to the floor with toes pointed.
+*   **Key Mistakes:** Shrugging shoulders up, bending knees, or leaning back excessively to compensate for weak compression.
+*   **Tutorial:** [L-sit Progression and Form](https://www.youtube.com/results?search_query=calisthenics+movement+l+sit)
+
 ---
 
 ## 🏃 6. Warm-up, Mobility & Cardio
@@ -809,3 +827,38 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Shoulder extension, wrist stabilizers, quadriceps, ankle dorsiflexion.
 *   **Form:** Begin in a crab pose. Lift one hand and twist, pivoting on your feet. Drop both hands to the floor, lean your hips forward and back to stretch, then shift forward to balance on the balls of your feet in a sissy squat, reaching arms overhead and arching back. Return to crab. Alternate sides.
 *   **Tutorial:** [Crab to Sissy Squat Flow](https://www.youtube.com/results?search_query=crab+pose+to+sissy+squat+mobility)
+
+### Quadruped Thoracic Rotation (Hand on Head)
+*   **Target:** Thoracic spine rotational mobility, scapular control.
+*   **Form:** Start in a quadruped position (all fours). Place one hand lightly behind your head. Rotate your elbow down toward the opposite forearm, then rotate upward toward the ceiling, following the elbow with your eyes. Alternate sides.
+*   **Tutorial:** [Quadruped Thoracic Rotation Form](https://www.youtube.com/results?search_query=quadruped+thoracic+rotation+hand+on+head)
+
+### Plank Alternate Toe Touches
+*   **Target:** Dynamic hamstring flexibility, shoulder stability, core anti-extension.
+*   **Form:** From a push-up plank position, pike hips up and back into a downward dog, reaching one hand to touch the opposite foot/ankle. Return to plank with level hips and repeat on the other side.
+*   **Tutorial:** [Plank to Toe Touch Form](https://www.youtube.com/results?search_query=plank+to+toe+touch+exercise)
+
+### Parallel Bar Scapular Shrugs (Straight-Arm Scapular Dips)
+*   **Target:** Trapezius, serratus anterior, shoulder depression/elevation strength.
+*   **Form:** Support yourself in a straight-arm lockout on parallel bars. Keep elbows completely locked straight, lower your body by elevating shoulders towards ears, then push down hard to depress shoulders away from ears.
+*   **Tutorial:** [Scapular Dips Tutorial](https://www.youtube.com/results?search_query=scapular+dips+exercise)
+
+### Prone I-Y-T-W Raises
+*   **Target:** Lower and middle trapezius, rhomboids, rear delts, postural scapular stabilizers.
+*   **Form:** Lie face down on floor. Systematically lift straight arms off the ground in "I" (overhead), "Y" (45 degrees), "T" (lateral), and "W" (elbows tucked) shapes, pausing at peak contraction with thumbs pointed up.
+*   **Tutorial:** [Prone IYTW Raises Form](https://www.youtube.com/results?search_query=prone+i+y+t+w+raises)
+
+### 90-90 Good Mornings (90-90 Hip Hinge)
+*   **Target:** Hip capsule external/internal rotation, glute stretch, posterior hip mobility.
+*   **Form:** Sit on floor with both legs in 90-degree angles (one front, one lateral). Keep spine straight and chest proud, hinge forward over your front shin until a deep glute stretch is felt, pause, and return upright without rounding lower back.
+*   **Tutorial:** [90-90 Hip Hinge Mobility](https://www.youtube.com/results?search_query=90+90+hip+good+mornings)
+
+### Medicine Ball Thoracic Extension
+*   **Target:** Thoracic spine extension, ribcage and pectoral mobility.
+*   **Form:** Place a medicine ball or foam roller beneath your mid-to-upper back while seated on the floor. Interlace hands behind head to support neck. Gently drape your spine backward over the ball, extending your upper back while keeping hips on the floor.
+*   **Tutorial:** [Thoracic Spine Extension on Ball](https://www.youtube.com/results?search_query=medicine+ball+thoracic+extension)
+
+### Kneeling Box Overhead Tricep & Lat Stretch with Stick (Prayer Stretch)
+*   **Target:** Latissimus dorsi length, tricep long head, overhead shoulder flexion.
+*   **Form:** Kneel in front of a plyo box or bench holding a PVC pipe/stick in hands with palms up. Place elbows on the edge of the box shoulder-width apart. Drop your chest toward the floor and bend your elbows, bringing the stick behind your neck.
+*   **Tutorial:** [Bench Lat Prayer Stretch with Stick](https://www.youtube.com/results?search_query=bench+lat+stretch+elbows+on+box+with+stick)

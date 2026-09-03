@@ -21,6 +21,6 @@
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `2`
+- **Total Sessions Completed:** `3`
 - **Most frequent workout style:** `Unilateral Lower Body Strength`
 - **Overall monthly energy average:** `N/A`
