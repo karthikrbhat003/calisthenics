@@ -58,6 +58,42 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Swinging too much, bending elbows early, or losing core compression.
 *   **Tutorial:** [Bar Pullover Tutorial](https://www.youtube.com/results?search_query=calisthenics+movement+bar+pullover)
 
+### Single-Arm Pull-up (Progression)
+*   **Muscles:** Lats, biceps, brachialis, rear delts, core anti-rotators, grip.
+*   **Form Cues:** Hang from the bar with one primary working arm. Use minimal assistance from the other hand (e.g., finger assist on wrist/towel or resistance band). Depress the working scapula powerfully, engage your lats, and pull your chin over the bar while resisting body rotation.
+*   **Key Mistakes:** Kicking violently, allowing the shoulder to shrug into the ear, or failing to lock the core.
+*   **Tutorial:** [Single Arm Pull up Progression](https://www.youtube.com/results?search_query=calisthenics+movement+one+arm+pull+up)
+
+### Wide Grip Pull-ups
+*   **Muscles:** Outer lats (latissimus dorsi), teres major, lower traps.
+*   **Form Cues:** Grip the bar significantly wider than shoulder-width with an overhand grip. Depress and retract shoulder blades, leading the pull with your chest up towards the bar. Lower under control to a dead hang.
+*   **Key Mistakes:** Excessive elbow flaring without scapular depression, cutting range of motion short, or kipping with legs.
+*   **Tutorial:** [Wide Grip Pull up Form](https://www.youtube.com/results?search_query=how+to+do+wide+grip+pull+ups)
+
+### Commando Pull-ups
+*   **Muscles:** Lats, biceps, brachialis, forearms, obliques.
+*   **Form Cues:** Stand sideways beneath the pull-up bar. Grip the bar with a staggered, neutral hand placement (one hand in front of the other). Pull yourself up so your head clears one side of the bar, lower under control, and alternate sides on each rep.
+*   **Key Mistakes:** Swinging your body sideways, not alternating head side, or dropping fast into the bottom hang.
+*   **Tutorial:** [Commando Pull up Form Guide](https://www.youtube.com/results?search_query=commando+pull+ups+exercise)
+
+### Single-Arm Australian Pull-ups (Single-Arm Inverted Row)
+*   **Muscles:** Rhomboids, rear delts, mid/lower traps, lats, core anti-rotators.
+*   **Form Cues:** Set a low bar at waist height. Grip the bar with one hand, extend your body straight with heels planted on the floor, and keep hips high in a rigid plank. Pull your chest up to the bar with one arm, fighting any torso rotation.
+*   **Key Mistakes:** Sagging hips, letting the free shoulder drop excessively, or using hip momentum.
+*   **Tutorial:** [One Arm Inverted Row Form](https://www.youtube.com/results?search_query=single+arm+australian+pull+up)
+
+### Resistance Band Single-Arm Pulls (Low Anchor)
+*   **Muscles:** Latissimus dorsi, rhomboids, rear deltoids, biceps.
+*   **Form Cues:** Anchor a resistance band low to the ground or pole. Step back to create tension, assume an athletic quarter-squat or split stance, and pull the band back towards your hip, driving the elbow behind your torso while keeping your chest tall.
+*   **Key Mistakes:** Shrugging the shoulder up, rotating the torso excessively, or allowing the band to snap back quickly.
+*   **Tutorial:** [Banded Single Arm Row](https://www.youtube.com/results?search_query=single+arm+resistance+band+row)
+
+### Resistance Band Single-Arm Pulldown (High Anchor)
+*   **Muscles:** Upper lats, teres major, biceps, lower traps.
+*   **Form Cues:** Anchor a resistance band overhead (pull-up bar or high anchor). Kneel or sit tall, grip the band with one hand with arm extended overhead. Pull down vertically, driving your elbow down toward your side/hip pocket, squeezing the lat at the bottom.
+*   **Key Mistakes:** Leaning backward to compensate for band resistance, flaring the elbow wide, or rushing the eccentric return.
+*   **Tutorial:** [Single Arm Band Pulldown Form](https://www.youtube.com/results?search_query=single+arm+band+lat+pulldown)
+
 ---
 
 ## 🤸 2. Push Exercises
@@ -518,6 +554,16 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Elbow joint synovial fluid activation.
 *   **Form:** Extend arms out sideways or forward. Bend at the elbows and roll your forearms in circles inward and outward.
 *   **Tutorial:** [Elbow Joint Warmup](https://www.youtube.com/results?search_query=elbow+mobility+warm+up)
+
+### Fist Open and Close (Tendon Glides)
+*   **Target:** Finger flexors/extensors, forearm tendon lubrication, grip prep.
+*   **Form:** Extend arms in front. Rapidly open hands fully spreading all fingers wide, then close them forcefully into tight fists. Maintain a steady, rapid cadence.
+*   **Tutorial:** [Hand and Finger Warmup Exercises](https://www.youtube.com/results?search_query=finger+fist+open+close+warm+up)
+
+### Fist Rotations
+*   **Target:** Wrist capsule mobility and forearm myofascial release.
+*   **Form:** Form loose fists with thumbs tucked outside. Rotate fists in controlled circles through full range of motion clockwise, then reverse anti-clockwise.
+*   **Tutorial:** [Wrist and Fist Rotations Mobility](https://www.youtube.com/results?search_query=wrist+and+fist+circles+warm+up)
 
 ### Spinal Wave
 *   **Target:** Vertebral mobility, spinal alignment, core heat.
