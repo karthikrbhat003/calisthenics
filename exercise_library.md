@@ -330,6 +330,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Rounding the spine, opening hips outward, or locking the standing knee completely.
 *   **Tutorial:** [Single Leg Deadlift Form](https://www.youtube.com/results?search_query=single+leg+deadlift+bodyweight+form)
 
+### Cossack Squats
+*   **Muscles:** Adductors (inner thighs), quadriceps, glutes, hamstrings, ankle stabilizers.
+*   **Form Cues:** Take a very wide stance. Shift your weight completely to one side, squatting down on that leg while keeping the opposite leg straight with toes pointed up to the ceiling. Keep the heel of the working leg grounded and chest upright. Push through the heel to switch sides.
+*   **Key Mistakes:** Heel of the bending leg coming off the floor, rounding the lower back, or letting the knee collapse inward past the foot.
+*   **Tutorial:** [Cossack Squat Form Guide](https://www.youtube.com/results?search_query=how+to+do+cossack+squats)
+
 ### Single-Leg Glute Bridge
 *   **Muscles:** Gluteus maximus, hamstrings, core.
 *   **Form Cues:** Lie flat on your back, knees bent, feet on floor. Extend one leg straight in the air. Drive through the heel of the planted foot to lift hips into a straight line from knee to shoulder. Squeeze glute at top for 1 second.
@@ -752,6 +758,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Hip openers, thoracic rotation, chest openers.
 *   **Form:** Drop into a deep squat. Place one palm flat on the ground inside your knee, and extend your other arm straight up to the ceiling, rotating your chest and looking at your hand. Alternate sides.
 *   **Tutorial:** [Deep Squat Rotational Stretch](https://www.youtube.com/results?search_query=deep+squat+with+rotation+stretch)
+
+### Deep Squat to Half Squat Dynamic Reach & Opener
+*   **Target:** Deep hip capsule opening, quadriceps isometric strength, thoracic chest opening.
+*   **Form:** Drop into a deep squat with arms reaching straight out in front and palms facing opposite directions. Rise dynamically into a half squat while opening arms wide out to the sides, expanding the chest. Return to deep squat and repeat.
+*   **Tutorial:** [Deep Squat Mobility Openers](https://www.youtube.com/results?search_query=deep+squat+dynamic+mobility+reach)
 
 ### Wall Arm Raises
 *   **Target:** Thoracic alignment, shoulder slides.
