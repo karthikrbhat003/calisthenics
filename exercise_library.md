@@ -22,6 +22,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Losing shoulder stability during the grip transition, or dropping down too fast.
 *   **Tutorial:** [Muscle up Grip Transition](https://www.youtube.com/results?search_query=muscle+up+grip+switch+tutorial)
 
+### Muscle-Up Swing to Top Dip Practice
+*   **Muscles:** Lats, chest, triceps, anterior deltoids, scapular stabilizers.
+*   **Form Cues:** Perform explosive hollow-to-arch swings under the bar to build transition momentum. Once above the bar in front support, perform slow, controlled bar dips lowering your chest to the bar with elbows tucked, then press powerfully back to lockout.
+*   **Key Mistakes:** Flaring elbows excessively out on the bar dip, or dropping down too fast without muscular control.
+*   **Tutorial:** [Muscle up Transition Drills](https://www.youtube.com/results?search_query=muscle+up+swing+and+dip+transition+practice)
+
 ### Pull-ups (Standard)
 *   **Muscles:** Lats, rhomboids, traps, biceps, forearms.
 *   **Form Cues:** Pull from a dead hang with straight arms. Depress and retract shoulder blades first, then pull chest to the bar. Lower under control.
@@ -348,6 +354,30 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Bouncing quickly at the bottom, or bending the standing knee.
 *   **Tutorial:** [Single Leg Calf Raise Technique](https://www.youtube.com/results?search_query=single+leg+calf+raise+form)
 
+### Weighted Hip Thrust
+*   **Muscles:** Gluteus maximus, hamstrings, adductors, core.
+*   **Form Cues:** Sit on the floor with upper back against a bench/box and place a weight (plate/dumbbell/barbell) across your hips. Drive through your heels to elevate hips until thighs and torso form a straight horizontal line. Squeeze glutes hard at the top lockout.
+*   **Key Mistakes:** Hyperextending the lumbar spine instead of driving with hips, or placing feet too far forward/back.
+*   **Tutorial:** [Weighted Hip Thrust Form](https://www.youtube.com/results?search_query=how+to+do+weighted+hip+thrusts)
+
+### Good Mornings (Standing / Bodyweight / Loaded)
+*   **Muscles:** Hamstrings, glutes, erector spinae (lower back).
+*   **Form Cues:** Stand with feet shoulder-width and hands behind head (or holding light weight across upper back). With a slight soft bend in knees and neutral spine, hinge backward at your hips until your torso is nearly parallel to the floor, then drive hips forward to stand.
+*   **Key Mistakes:** Rounding the spine, bending knees too much (turning it into a squat), or rushing the movement.
+*   **Tutorial:** [Good Mornings Exercise Form](https://www.youtube.com/results?search_query=how+to+do+good+mornings+exercise)
+
+### Jefferson Curl
+*   **Muscles:** Hamstrings, spinal erectors, glutes, calf fascia.
+*   **Form Cues:** Stand tall on a box or flat ground holding a light weight. Slowly tuck your chin to your chest and roll down vertebra by vertebra into full spinal flexion, reaching the weight past your toes. Reverse the curl slowly from the lower spine up to standing.
+*   **Key Mistakes:** Using heavy weights before tissue adaptation, bending knees, or rushing the descent/ascent.
+*   **Tutorial:** [Jefferson Curl Mobility Form](https://www.youtube.com/results?search_query=how+to+do+jefferson+curls)
+
+### Kettlebell / Dumbbell Swing
+*   **Muscles:** Glutes, hamstrings, hips, core, upper back, lat stabilizers.
+*   **Form Cues:** Stand with feet wider than shoulder-width. Hinge at hips to swing weight back between your legs, then snap hips forward explosively to propel weight to chest height. Arms act only as cables; power comes entirely from hip drive.
+*   **Key Mistakes:** Squatting instead of hinging, lifting with shoulders/arms, or arching lower back at top.
+*   **Tutorial:** [Kettlebell Swing Perfect Form](https://www.youtube.com/results?search_query=kettlebell+swing+form+guide)
+
 ---
 
 ## 🧱 4. Core Exercises
@@ -588,6 +618,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Wrist capsule mobility and forearm myofascial release.
 *   **Form:** Form loose fists with thumbs tucked outside. Rotate fists in controlled circles through full range of motion clockwise, then reverse anti-clockwise.
 *   **Tutorial:** [Wrist and Fist Rotations Mobility](https://www.youtube.com/results?search_query=wrist+and+fist+circles+warm+up)
+
+### Palm Circles (Floor Wrist & Forearm Mobility)
+*   **Target:** Wrist joint capsule, carpal tunnel decompression, forearm extensors/flexors.
+*   **Form:** Place palms flat on the ground with fingers spread. Shift your body weight forward and rotate your shoulders and wrists in smooth circular patterns clockwise and anti-clockwise.
+*   **Tutorial:** [Floor Wrist Circles Warmup](https://www.youtube.com/results?search_query=wrist+circles+on+floor+mobility)
 
 ### Spinal Wave
 *   **Target:** Vertebral mobility, spinal alignment, core heat.
