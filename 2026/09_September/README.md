@@ -12,7 +12,7 @@
 | Week | Date Range | Focus/Theme | Progress | Link |
 |---|---|---|---|---|
 | **Week 01** | Sep 01 - Sep 06 | Unilateral Strength & High-Volume Conditioning | 🟩 Completed | [Week 01 README](Week_01/README.md) |
-| **Week 02** | Sep 07 - Sep 13 | Calisthenics Strength | ⬜ Planned | *N/A* |
+| **Week 02** | Sep 07 - Sep 13 | Muscle-Up Mastery & Posterior Chain Mobility | 🟨 In Progress | [Week 02 README](Week_02/README.md) |
 | **Week 03** | Sep 14 - Sep 20 | Calisthenics Strength | ⬜ Planned | *N/A* |
 | **Week 04** | Sep 21 - Sep 27 | Calisthenics Strength | ⬜ Planned | *N/A* |
 | **Week 05** | Sep 28 - Oct 04 | Calisthenics Strength | ⬜ Planned | *N/A* |
