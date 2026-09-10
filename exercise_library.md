@@ -100,6 +100,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Leaning backward to compensate for band resistance, flaring the elbow wide, or rushing the eccentric return.
 *   **Tutorial:** [Single Arm Band Pulldown Form](https://www.youtube.com/results?search_query=single+arm+band+lat+pulldown)
 
+### Frenchie Pull-ups (Multi-Angle Isometric Pull-ups)
+*   **Muscles:** Latissimus dorsi, biceps, brachialis, forearms, mid/lower traps.
+*   **Form Cues:** Perform a full pull-up, hold the chin-over-bar position for 3-5 seconds, lower to a dead hang; immediately pull back up, lower to a 90-degree elbow bend and hold for 3-5 seconds, lower to dead hang; pull back up, lower to a 120-degree bend and hold for 3-5 seconds, then lower to complete 1 round.
+*   **Key Mistakes:** Kicking legs or using momentum between angles, or letting shoulders shrug during holds.
+*   **Tutorial:** [Frenchie Pull-up Guide](https://www.youtube.com/results?search_query=frenchie+pull+ups+climbing)
+
+### Chin-up Top Hold to Windshield Wipers
+*   **Muscles:** Biceps, lats, rectus abdominis, obliques, grip.
+*   **Form Cues:** Perform an underhand chin-up and lock your chin firmly above the bar for an isometric hold. From this locked position, lift straight legs and rotate them smoothly side-to-side in a windshield wiper arc.
+*   **Key Mistakes:** Dropping down from the bar during leg rotation, or swinging legs wildly without core control.
+*   **Tutorial:** [Hanging Windshield Wipers Form](https://www.youtube.com/results?search_query=hanging+windshield+wipers+exercise)
+
 ---
 
 ## 🤸 2. Push Exercises
@@ -211,6 +223,30 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Place hands on a bar or bench, walk feet back, and bend only at the elbows to lower your forehead toward the bar. Press back up.
 *   **Key Mistakes:** Moving at the hips/shoulders instead of isolating the elbows.
 *   **Tutorial:** [Bodyweight Tricep Extensions](https://www.youtube.com/results?search_query=calisthenics+movement+bodyweight+tricep+extensions)
+
+### Pseudo Planche Push-ups (Planche Lean Push-ups)
+*   **Muscles:** Anterior deltoids, chest, serratus anterior, biceps (tendon strength), core.
+*   **Form Cues:** Assume a push-up position with hands turned slightly outward and placed down near your hips. Lean your entire body forward so shoulders are well in front of wrists. Lower down while maintaining the extreme forward lean, then push up into full scapular protraction (round the upper back).
+*   **Key Mistakes:** Letting hips sag, losing the forward shoulder lean during the press, or failing to protract at the top.
+*   **Tutorial:** [Pseudo Planche Push-up Guide](https://www.youtube.com/results?search_query=calisthenics+movement+pseudo+planche+push+up)
+
+### Protracted Dips (Serratus Dips)
+*   **Muscles:** Triceps, chest, anterior deltoids, serratus anterior.
+*   **Form Cues:** Perform a dip on parallel bars. At the top lockout, push the bars away aggressively to spread your shoulder blades apart (protraction) and tuck your chin slightly. Lower under control and repeat.
+*   **Key Mistakes:** Shrugging shoulders up to ears, bending elbows prematurely, or losing core hollow position.
+*   **Tutorial:** [Protracted Dips Technique](https://www.youtube.com/results?search_query=scapular+dips+and+protracted+dips)
+
+### Protracted Overhead Shoulder Press
+*   **Muscles:** Deltoids, upper chest, triceps, serratus anterior, trapezius.
+*   **Form Cues:** Stand tall holding weights in front of your chest. Press the weight upward and slightly forward/overhead, finishing with active shoulder elevation and serratus protraction at peak lockout.
+*   **Key Mistakes:** Arching lower back, flaring ribs, or failing to reach full overhead extension.
+*   **Tutorial:** [Overhead Press with Scapular Protraction](https://www.youtube.com/results?search_query=overhead+press+scapular+movement)
+
+### Supine Bench Press (Dumbbell / Barbell)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps.
+*   **Form Cues:** Lie flat on a bench with feet firmly planted. Retract shoulder blades, lower weight under control to mid-chest with elbows at approximately 45-75 degrees, and press up to lockout.
+*   **Key Mistakes:** Bouncing weight off chest, flaring elbows straight out at 90 degrees, or lifting hips off bench.
+*   **Tutorial:** [Dumbbell Bench Press Form](https://www.youtube.com/results?search_query=how+to+dumbbell+bench+press+proper+form)
 
 ---
 
@@ -378,6 +414,48 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Squatting instead of hinging, lifting with shoulders/arms, or arching lower back at top.
 *   **Tutorial:** [Kettlebell Swing Perfect Form](https://www.youtube.com/results?search_query=kettlebell+swing+form+guide)
 
+### Single-Leg Forward Hops (One Leg Front Jump)
+*   **Muscles:** Calves (gastrocnemius, soleus), Achilles tendon, quadriceps, gluteal stabilizers, foot intrinsic muscles.
+*   **Form Cues:** Stand on one leg. Bound forward continuously on the ball of that foot, maintaining a short ground contact time and using your arms in rhythm to drive forward momentum. Keep the knee aligned over toes.
+*   **Key Mistakes:** Landing flat-footed with a jarring impact, letting the knee cave inward (valgus), or losing balance control.
+*   **Tutorial:** [Single Leg Hop Forward Plyometrics](https://www.youtube.com/results?search_query=single+leg+forward+hops+plyometrics)
+
+### Single-Leg Box Height Jumps (Elevated Single-Leg Hops)
+*   **Muscles:** Quadriceps, glutes, calves, ankle complex, core stabilizers.
+*   **Form Cues:** Stand on one leg facing a sturdy plyo box or elevated platform. Drive the non-working knee up explosively and push off the standing leg to land softly on top of the box on that same leg. Step down under control.
+*   **Key Mistakes:** Overestimating box height and hitting shins, crashing onto the box with a stiff knee, or failing to lock core.
+*   **Tutorial:** [Single Leg Box Jump Form](https://www.youtube.com/results?search_query=single+leg+box+jumps+form)
+
+### Bilateral Jump to Single-Leg Box Landing
+*   **Muscles:** Gluteus medius, hamstrings, quadriceps, ankle stabilizers, core.
+*   **Form Cues:** Stand facing a plyo box with feet shoulder-width. Jump explosively off both feet simultaneously, but absorb and stick the landing softly on a single designated leg on top of the box in an athletic quarter-squat.
+*   **Key Mistakes:** Knee buckling inward upon landing, landing stiff-legged, or failing to stabilize before stepping down.
+*   **Tutorial:** [Two Foot Jump to Single Leg Landing Box](https://www.youtube.com/results?search_query=bilateral+jump+to+single+leg+landing)
+
+### Single-Leg Jump with Deceleration Stick Landing
+*   **Muscles:** Eccentric quadriceps, gluteus medius, hamstrings, ankle/foot stabilizers.
+*   **Form Cues:** Jump vertically or forward off one leg. Land on the same leg in a deep, athletic single-leg squat stance and "stick" the landing motionless for 2 seconds, completely absorbing all kinetic forces without hopping or wobbling.
+*   **Key Mistakes:** Double-hopping upon landing to regain balance, knee collapsing inward, or chest collapsing forward.
+*   **Tutorial:** [Single Leg Jump and Stick Form](https://www.youtube.com/results?search_query=single+leg+jump+and+stick+landing)
+
+### Box-Assisted Pistol Squat (Pistol Squat with Box)
+*   **Muscles:** Quadriceps, gluteus maximus, hamstrings, hip flexors, core.
+*   **Form Cues:** Stand on one leg on the edge of a box (or facing away from a box to use it as a bench). Extend the free leg forward. Lower your hips down with control until your glutes touch the box (or descend past box edge), then drive through your working heel to return to standing.
+*   **Key Mistakes:** Collapsing onto the box without controlling the descent, letting the standing heel lift, or bouncing off the box.
+*   **Tutorial:** [Box Pistol Squat Progression](https://www.youtube.com/results?search_query=box+pistol+squat+progression)
+
+### Isometric Hover Lunge Hold (Floating Knee Lunge)
+*   **Muscles:** Quadriceps (especially rectus femoris), gluteus maximus, adductors, calves, core.
+*   **Form Cues:** Step into a split squat/lunge stance with both knees bent at 90 degrees. Lower your body until the rear knee is hovering just 1 inch above the floor without touching it. Maintain a tall, vertical torso and breathe steadily under isometric tension.
+*   **Key Mistakes:** Resting the rear knee on the floor, shifting weight too far forward onto the front toes, or leaning torso forward.
+*   **Tutorial:** [Isometric Lunge Hold Form](https://www.youtube.com/results?search_query=isometric+split+squat+lunge+hold)
+
+### Weighted Box Step-Up
+*   **Muscles:** Quadriceps, gluteus maximus, hamstrings, calves, forearm grip (holding weights).
+*   **Form Cues:** Hold dumbbells or kettlebells at your sides. Place your entire lead foot on top of a plyo box. Drive purely through the lead heel and midfoot to stand completely upright on top of the box. Step back down under control.
+*   **Key Mistakes:** Pushing off the trailing ground toe for assistance, arching the lower back, or letting the lead knee cave inward.
+*   **Tutorial:** [Weighted Step Ups Technique](https://www.youtube.com/results?search_query=weighted+box+step+ups+proper+form)
+
 ---
 
 ## 🧱 4. Core Exercises
@@ -490,6 +568,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Tilting pelvis to one side, or dropping the extended arm/leg.
 *   **Tutorial:** [Bird Dog Isometric Hold](https://www.youtube.com/results?search_query=bird+dog+hold+exercise)
 
+### High Plank (Push-Up Plank Hold)
+*   **Muscles:** Rectus abdominis, transverse abdominis, serratus anterior, anterior deltoids, quadriceps.
+*   **Form Cues:** Support body on hands placed directly beneath shoulders with straight arms and toes tucked. Push the floor away into active scapular protraction, tuck pelvis into posterior pelvic tilt, and squeeze glutes and quads to maintain a straight line from heels to head.
+*   **Key Mistakes:** Sagging hips, piking hips too high in the air, or winging shoulder blades.
+*   **Tutorial:** [High Plank Form Guide](https://www.youtube.com/results?search_query=how+to+do+high+plank+exercise)
+
+### Reverse Plank & High Plank Superset (5-Minute Core Burner)
+*   **Muscles:** Anterior core, serratus anterior, posterior chain, glutes, hamstrings, spinal erectors.
+*   **Form Cues:** Alternate continuously every 30 seconds between a reverse plank (face-up, opening shoulders and firing posterior chain) and a high plank (face-down, bracing abs and protracting scapulae) without resting between transitions for a total duration of 5 minutes.
+*   **Key Mistakes:** Dropping hips during transitions, losing core stiffness as fatigue accumulates, or hyperextending neck.
+*   **Tutorial:** [Plank Superset Workout](https://www.youtube.com/results?search_query=high+plank+and+reverse+plank+workout)
+
 ---
 
 ## ⏱️ 5. Holds & Skill holds
@@ -589,6 +679,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Support body on floor, parallettes, or dip bars with straight arms. Depress shoulders actively, elevate hips, and extend legs straight out parallel to the floor with toes pointed.
 *   **Key Mistakes:** Shrugging shoulders up, bending knees, or leaning back excessively to compensate for weak compression.
 *   **Tutorial:** [L-sit Progression and Form](https://www.youtube.com/results?search_query=calisthenics+movement+l+sit)
+
+### Chest-to-Wall Handstand Single-Leg Switches
+*   **Muscles:** Anterior deltoids, upper traps, core compression, wrist stabilizers.
+*   **Form Cues:** Kick up into a chest-to-wall handstand with hands ~1 foot from wall. Push the floor away (elevation). Float one leg off the wall into vertical balance, hold, tap lightly, and switch to the other leg, minimizing wall dependence.
+*   **Key Mistakes:** Arching lower back, bending elbows, or rushing leg switches.
+*   **Tutorial:** [Handstand Wall Toe Taps & Switches](https://www.youtube.com/results?search_query=handstand+wall+toe+taps+switches)
+
+### Chest-to-Wall Tuck Handstand Hold
+*   **Muscles:** Deltoids, serratus anterior, abdominals, hip flexors.
+*   **Form Cues:** In a chest-to-wall handstand, tuck both knees down toward your chest while keeping shoulders open, arms locked straight, and hips stacked over shoulders.
+*   **Key Mistakes:** Letting shoulders close forward, bending elbows, or allowing hips to drop too low.
+*   **Tutorial:** [Tuck Handstand Progression](https://www.youtube.com/results?search_query=tuck+handstand+wall+drill)
 
 ---
 
@@ -913,3 +1015,78 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Latissimus dorsi length, tricep long head, overhead shoulder flexion.
 *   **Form:** Kneel in front of a plyo box or bench holding a PVC pipe/stick in hands with palms up. Place elbows on the edge of the box shoulder-width apart. Drop your chest toward the floor and bend your elbows, bringing the stick behind your neck.
 *   **Tutorial:** [Bench Lat Prayer Stretch with Stick](https://www.youtube.com/results?search_query=bench+lat+stretch+elbows+on+box+with+stick)
+
+### Supine Weighted Scapular Protraction & Retraction
+*   **Target:** Serratus anterior activation, scapular gliding on ribcage.
+*   **Form:** Lie flat on back holding light dumbbells or weight plates with straight vertical arms. Without bending elbows, reach arms toward ceiling to lift shoulder blades off the floor (protraction), then lower shoulder blades back into the floor (retraction).
+*   **Tutorial:** [Supine Scapular Punch / Press](https://www.youtube.com/results?search_query=supine+scapular+punches)
+
+### Star Jumps
+*   **Target:** Cardiovascular warm-up, explosive triple extension, dynamic hip abduction.
+*   **Form:** Start in a semi-squat with hands near feet. Explode upward into the air, expanding arms and legs wide into a star "X" shape mid-air, then land softly back into the start position.
+*   **Tutorial:** [Star Jump Technique](https://www.youtube.com/results?search_query=how+to+do+star+jumps)
+
+### Farmer's Carry
+*   **Target:** Grip strength, forearm endurance, trapezius, core anti-lateral flexion.
+*   **Form:** Pick up heavy weights (dumbbells/kettlebells) in each hand. Stand tall with shoulders back and down, ribs tucked, and walk with deliberate, controlled steps without leaning.
+*   **Tutorial:** [Farmer's Walk Exercise Form](https://www.youtube.com/results?search_query=farmers+walk+proper+form)
+
+### Donkey Kicks (Dynamic Handstand Prep)
+*   **Target:** Shoulder loading, wrist tolerance, hip-over-shoulder stacking.
+*   **Form:** Place hands on floor shoulder-width apart. Hop both feet off the floor together, kicking heels toward glutes while driving hips over shoulders with straight arms pushing the floor away.
+*   **Tutorial:** [Handstand Donkey Kicks](https://www.youtube.com/results?search_query=donkey+kicks+handstand+prep)
+
+### Pike Walks
+*   **Target:** Shoulder stability, active hamstring flexibility, core compression.
+*   **Form:** Start in a pike position or downward dog with straight legs. Take small, controlled steps walking feet toward hands, maintaining straight arms and pressing high into the shoulders, then walk hands forward back to plank/pike.
+*   **Tutorial:** [Pike Walk / Inchworm Form](https://www.youtube.com/results?search_query=pike+walk+calisthenics+exercise)
+
+### Wide Leg 4-Point Reach & Lean Back Flow
+*   **Target:** Hamstring flexibility, adductor stretch, thoracic and lumbar spinal extension.
+*   **Form:** Stand in a wide straddle stance. Hinge forward and sequentially touch your toes, reach forward on the floor, reach backward between your legs, then stand tall and lean your upper body backward into a gentle spinal extension with hands on hips.
+*   **Tutorial:** [Straddle Forward Fold Flow](https://www.youtube.com/results?search_query=wide+leg+forward+fold+flow)
+
+### Loaded Beast to Mountain to Cobra Spinal Flow
+*   **Target:** Full spinal segmentation, shoulder stability, hip mobility, thoracic extension.
+*   **Form:** Start in loaded beast (hips pushed back toward heels with knees hovering). Drive hips up and back into mountain pose (downward dog), then articulate your spine vertebra by vertebra forward into cobra pose, lifting chest tall. Reverse or cycle through continuously.
+*   **Tutorial:** [Animal Flow Loaded Beast to Cobra](https://www.youtube.com/results?search_query=animal+flow+loaded+beast+to+cobra)
+
+### Ankle Dorsiflexion Lunge Stretch
+*   **Target:** Soleus, Achilles tendon elasticity, ankle dorsiflexion range of motion.
+*   **Form:** Set up in a half-kneeling lunge position. Drive your front knee forward as far past your toes as possible while keeping your front heel glued flat to the floor. Apply gentle downward pressure and hold or pulse dynamically.
+*   **Tutorial:** [Ankle Dorsiflexion Lunge Mobility](https://www.youtube.com/results?search_query=ankle+dorsiflexion+stretch+lunge)
+
+### Wall Angels (W to Overhead Slide)
+*   **Target:** Lower/middle trapezius, serratus anterior, thoracic extension, shoulder mobility.
+*   **Form:** Stand with feet 1 foot away from wall. Press your tailbone, entire spine/lower back, shoulders, elbows, wrists, and head flat against the wall in a "W" position. Slide arms upward overhead into full extension without any part of your back or arms losing wall contact.
+*   **Tutorial:** [Wall Angels Form Guide](https://www.youtube.com/results?search_query=wall+angels+exercise+form)
+
+### Foot & Ankle 4-Way Gait (Toes, Heels, Inner & Outer Foot Walk)
+*   **Target:** Ankle joint mobility, Achilles tendon resilience, tibialis anterior, peroneal and posterior tibial tendon stability.
+*   **Form:** Walk forward continuously in 4 distinct foot alignments: 1) On high tiptoes (plantarflexion), 2) On heels with toes lifted (dorsiflexion), 3) On the inner edges of the feet (eversion), and 4) On the outer edges of the feet (inversion).
+*   **Tutorial:** [Ankle Mobility 4 Way Walk](https://www.youtube.com/results?search_query=ankle+mobility+walking+on+toes+heels+edges)
+
+### Jump in Place with Loose Hands (Dynamic Arm Relaxation Bounces)
+*   **Target:** Ankle stiffness/elasticity, lymphatic circulation, upper body tension release.
+*   **Form:** Perform light, rhythmic vertical bounces on the balls of your feet while keeping hands, wrists, arms, and shoulders completely relaxed and floppy to shake out upper body tension.
+*   **Tutorial:** [Bouncing Warm Up Exercise](https://www.youtube.com/results?search_query=bouncing+in+place+warmup+exercise)
+
+### Jumping Jacks
+*   **Target:** Cardiovascular warm-up, shoulder abduction/adduction, dynamic footwork.
+*   **Form:** Stand with feet together and arms at sides. Jump feet out wide while swinging arms overhead to touch hands, then jump back to start position in a fluid, rhythmic cadence.
+*   **Tutorial:** [Jumping Jacks Proper Form](https://www.youtube.com/results?search_query=how+to+do+jumping+jacks+properly)
+
+### Alternating Arm Swing Split Jumps (Cross-Body Coordinate Jumps)
+*   **Target:** Contralateral neuromuscular coordination, shoulder mobility, calf elasticity.
+*   **Form:** Bounce lightly on the balls of your feet in a split-stance rhythm while dynamically swinging one arm straight forward and the opposite arm backward, alternating arm and leg positions with each hop.
+*   **Tutorial:** [Cross Body Coordination Jumping](https://www.youtube.com/results?search_query=cross+pattern+jumping+warmup)
+
+### Deep Squat Torso Twist
+*   **Target:** Thoracic spine rotation, deep hip capsule mobility, groin and ankle mobility.
+*   **Form:** Drop into a deep passive squat with heels flat and chest up. Place one hand flat on the floor or inside your opposite ankle, and rotate your chest and free arm straight up toward the ceiling, looking up at your hand. Pause and alternate sides.
+*   **Tutorial:** [Deep Squat Thoracic Rotation](https://www.youtube.com/results?search_query=deep+squat+with+thoracic+twist)
+
+### Horse Stance Shift & Shoulder-to-Knee Twist
+*   **Target:** Adductor flexibility, groin openness, thoracic rotation, quad isometric endurance.
+*   **Form:** Drop into a wide horse stance with knees bent and feet flared outward. Shift weight gently side-to-side to mobilize inner thighs. Place hands on knees and dip one shoulder down and forward toward the opposite knee while gently twisting the torso. Alternate sides smoothly.
+*   **Tutorial:** [Horse Stance Stretch and Twist](https://www.youtube.com/results?search_query=horse+stance+shoulder+dip+stretch)
