@@ -34,6 +34,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Kicking legs, shrugging shoulders up to ears, not completing full range of motion.
 *   **Tutorial:** [Standard Pull-up Form](https://www.youtube.com/results?search_query=calisthenics+movement+pull+up)
 
+### Pull-ups (AMRAP / Max Rep Effort)
+*   **Muscles:** Latissimus dorsi, teres major, biceps brachii, brachialis, forearms, core, trapezius.
+*   **Form Cues:** Hang with full arm extension in a hollow body position. Perform continuous, unbroken repetitions clearing your chin over the bar with maximum pulling velocity while maintaining clean form and avoiding excessive lower-body swinging until technical exhaustion.
+*   **Key Mistakes:** Cutting the bottom dead hang short as fatigue accumulates, kipping violently with knees, or straining the neck forward.
+*   **Tutorial:** [Max Rep Pull-up Technique](https://www.youtube.com/results?search_query=how+to+increase+max+pull+ups)
+
 ### Slow Pull-ups (10s Up / 10s Down)
 *   **Muscles:** Lats, biceps, traps, grip.
 *   **Form Cues:** Pull up smoothly taking a full 10 seconds to reach the top. Pause, then lower down taking another 10 seconds to reach a dead hang.
@@ -371,6 +377,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Stand on one slightly bent leg. Hinge at your hips, sending your rear leg straight back behind you in line with your torso until your upper body is parallel to the floor. Squeeze hamstring and glute to stand tall.
 *   **Key Mistakes:** Rounding the spine, opening hips outward, or locking the standing knee completely.
 *   **Tutorial:** [Single Leg Deadlift Form](https://www.youtube.com/results?search_query=single+leg+deadlift+bodyweight+form)
+
+### Single-Leg Romanian Deadlift (SLRDL)
+*   **Muscles:** Hamstrings, gluteus maximus, gluteus medius, erector spinae, core anti-rotators, ankle stabilizers.
+*   **Form Cues:** Stand on one leg with a soft, fixed bend in the knee. Push your hips straight backward into a deep hip hinge while keeping your spine long and neutral and pelvis square to the floor. Lower the torso until a deep stretch is felt in the hamstring of the standing leg, then drive hips forward through the heel to lockout.
+*   **Key Mistakes:** Rounding the lower back, rotating the hips open toward the ceiling, or turning the movement into a squat by bending the knee excessively.
+*   **Tutorial:** [Single Leg Romanian Deadlift Form](https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+proper+form)
 
 ### Cossack Squats
 *   **Muscles:** Adductors (inner thighs), quadriceps, glutes, hamstrings, ankle stabilizers.
@@ -710,6 +722,11 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Elbow joint synovial fluid activation.
 *   **Form:** Extend arms out sideways or forward. Bend at the elbows and roll your forearms in circles inward and outward.
 *   **Tutorial:** [Elbow Joint Warmup](https://www.youtube.com/results?search_query=elbow+mobility+warm+up)
+
+### Hip Rotations (Standing Hip Circles)
+*   **Target:** Hip joint capsule, acetabulofemoral articulation, lumbar spine and pelvic mobility.
+*   **Form:** Stand with feet shoulder-width apart and hands on hips. Rotate your pelvis in large, smooth, continuous circles pushing hips forward, sideways, backward, and to the other side. Complete full repetitions clockwise, then reverse anti-clockwise.
+*   **Tutorial:** [Standing Hip Circles Warmup](https://www.youtube.com/results?search_query=standing+hip+circles+warm+up)
 
 ### Fist Open and Close (Tendon Glides)
 *   **Target:** Finger flexors/extensors, forearm tendon lubrication, grip prep.

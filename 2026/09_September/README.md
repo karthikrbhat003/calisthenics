@@ -21,6 +21,6 @@
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `8`
+- **Total Sessions Completed:** `9`
 - **Most frequent workout style:** `Full-Body Calisthenics & Skill Work`
 - **Overall monthly energy average:** `N/A`
