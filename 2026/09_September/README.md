@@ -14,13 +14,13 @@
 | **Week 01** | Sep 01 - Sep 06 | Unilateral Strength & High-Volume Conditioning | 🟩 Completed | [Week 01 README](Week_01/README.md) |
 | **Week 02** | Sep 07 - Sep 13 | Muscle-Up Mastery & Posterior Chain Mobility | 🟨 In Progress | [Week 02 README](Week_02/README.md) |
 | **Week 03** | Sep 14 - Sep 20 | Calisthenics Strength | ⬜ Planned | *N/A* |
-| **Week 04** | Sep 21 - Sep 27 | Calisthenics Strength | ⬜ Planned | *N/A* |
+| **Week 04** | Sep 21 - Sep 27 | Rotational Core, Grip Endurance & Circuit Strength | 🟨 In Progress | [Week 04 README](Week_04/README.md) |
 | **Week 05** | Sep 28 - Oct 04 | Calisthenics Strength | ⬜ Planned | *N/A* |
 
 ---
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `9`
+- **Total Sessions Completed:** `13`
 - **Most frequent workout style:** `Full-Body Calisthenics & Skill Work`
 - **Overall monthly energy average:** `N/A`

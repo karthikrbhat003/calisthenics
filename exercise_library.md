@@ -46,6 +46,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Rushing the count, using momentum, dropping at the bottom.
 *   **Tutorial:** [Tempo Pull-up Form](https://www.youtube.com/results?search_query=fitnessfaqs+tempo+pull+up)
 
+### Slow Chin-ups (7s Up / 7s Down)
+*   **Muscles:** Biceps brachii, brachialis, latissimus dorsi, teres major, forearms, core.
+*   **Form Cues:** Hang from bar with an underhand supinated grip. Take a full 7 seconds to pull yourself up smoothly until your chin clears the bar, pause for 1 second at peak contraction, then take a full 7 seconds to lower back into a dead hang.
+*   **Key Mistakes:** Kicking legs, speeding through sticking points, or dropping abruptly at the bottom.
+*   **Tutorial:** [Tempo Chin Ups Technique](https://www.youtube.com/results?search_query=tempo+chin+ups+tutorial)
+
 ### Pull-up to Chin-up Grip Transition
 *   **Muscles:** Biceps, brachialis, lats, grip.
 *   **Form Cues:** Rapidly switch grip mid-set or at the top of a pull-up from overhand (pronated) to underhand (supinated) to shift muscular emphasis.
@@ -118,6 +124,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Dropping down from the bar during leg rotation, or swinging legs wildly without core control.
 *   **Tutorial:** [Hanging Windshield Wipers Form](https://www.youtube.com/results?search_query=hanging+windshield+wipers+exercise)
 
+### Single-Arm Dead Hang
+*   **Muscles:** Forearms, brachioradialis, finger flexors, latissimus dorsi, rotator cuff, core stabilizers.
+*   **Form Cues:** Grip the bar with one hand using a full overhand grip. Engage active scapular depression to keep the shoulder packed and stable. Squeeze your core and keep legs together in a quiet hollow body position to resist rotational swinging.
+*   **Key Mistakes:** Going completely passive and allowing the shoulder to jam into impingement, swinging erratically, or bending the elbow.
+*   **Tutorial:** [Single Arm Dead Hang Progression](https://www.youtube.com/results?search_query=single+arm+dead+hang+tutorial)
+
+### Plank Dumbbell Rows (Renegade Rows)
+*   **Muscles:** Latissimus dorsi, rhomboids, rear deltoids, rectus abdominis, transverse abdominis, obliques, forearms.
+*   **Form Cues:** Set up in a push-up plank position with hands gripping a pair of hex dumbbells. Spread feet slightly wider than shoulder-width for stability. Row one dumbbell up toward your hip pocket, keeping the elbow tucked close to your ribcage. Pause briefly, lower under control, and alternate sides while keeping hips completely locked and parallel to the floor.
+*   **Key Mistakes:** Twisting the hips or torso during the pull, rushing the rep, or allowing the lower back to sag.
+*   **Tutorial:** [Renegade Row Form Guide](https://www.youtube.com/results?search_query=how+to+do+renegade+rows+proper+form)
+
 ---
 
 ## 🤸 2. Push Exercises
@@ -181,6 +199,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Place hands shoulder-width. Keep body straight from head to heels. Lower until chest nearly touches floor, elbows at 45 degrees.
 *   **Key Mistakes:** Lower back arching, flared elbows.
 *   **Tutorial:** [Perfect Pushup Form](https://www.youtube.com/results?search_query=calisthenics+movement+perfect+pushup)
+
+### Slow Push-ups (15s Up / 15s Down)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps brachii, rectus abdominis, serratus anterior.
+*   **Form Cues:** Assume a rigid high push-up plank. Take a full 15 seconds to lower your chest down until it hovers 1 inch above the floor, holding complete tension through sticking points, pause for 1 second, then take a full 15 seconds to push back up to locked scapular protraction.
+*   **Key Mistakes:** Rushing through the sticking point midway, sagging hips, or failing to lock out at the top.
+*   **Tutorial:** [Tempo Push Up Form](https://www.youtube.com/results?search_query=tempo+push+ups+tutorial)
 
 ### One-Arm Push-up
 *   **Muscles:** Chest, anterior deltoids, triceps, core anti-rotators, glutes.
@@ -254,6 +278,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Bouncing weight off chest, flaring elbows straight out at 90 degrees, or lifting hips off bench.
 *   **Tutorial:** [Dumbbell Bench Press Form](https://www.youtube.com/results?search_query=how+to+dumbbell+bench+press+proper+form)
 
+### Inchworm Push-up
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps, rectus abdominis, hamstrings, calves.
+*   **Form Cues:** Stand tall with feet hip-width apart. Hinge forward at the hips to place your hands on the floor (bending knees slightly if hamstrings are tight). Walk your hands forward one by one until you reach a straight-arm high plank. Perform a full-range chest-to-floor push-up, press back to plank lockout, then walk your hands back toward your feet while keeping legs as straight as possible before standing up tall.
+*   **Key Mistakes:** Allowing hips to sag in the plank or during the push-up, rushing through the hand walkout, or not achieving full push-up depth.
+*   **Tutorial:** [Inchworm Push-up Proper Form](https://www.youtube.com/results?search_query=how+to+do+inchworm+push+ups)
+
+### Supine Dumbbell Floor / Mat Press
+*   **Muscles:** Pectoralis major (sternal and clavicular heads), anterior deltoids, triceps brachii.
+*   **Form Cues:** Lie supine (flat on your back) on an exercise mat with knees bent and feet flat on the floor. Hold dumbbells with an overhand or semi-neutral grip at chest level. Press dumbbells smoothly upward until arms are fully extended over mid-chest, contracting your pecs at the top. Lower with control until upper arms gently touch the floor at roughly a 45-degree angle to your torso before pressing again.
+*   **Key Mistakes:** Bouncing elbows hard against the floor, flaring elbows straight out at 90 degrees, or arching the lower back excessively.
+*   **Tutorial:** [Dumbbell Floor Press Technique](https://www.youtube.com/results?search_query=dumbbell+floor+press+form)
+
 ---
 
 ## 🦵 3. Legs Exercises
@@ -275,6 +311,30 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Jump onto box using arm swing. Land softly on top in a squat. Step down to protect joints.
 *   **Key Mistakes:** Hard landings, caving knees.
 *   **Tutorial:** [Box Jump Mechanics](https://www.youtube.com/results?search_query=how+to+do+box+jumps)
+
+### Over-the-Box Jumps (Clearance Box Jumps)
+*   **Muscles:** Glutes, quadriceps, hamstrings, calves, hip flexors.
+*   **Form Cues:** Stand facing a plyo box. Load hips in a powerful counter-movement swing, explode vertically and horizontally to clear completely over the top of the box in one flight, landing softly in an athletic half-squat on the opposite side.
+*   **Key Mistakes:** Catching feet or shins on the box edge, landing with stiff or locked knees.
+*   **Tutorial:** [Over the Box Jumps Technique](https://www.youtube.com/results?search_query=how+to+do+box+jump+overs)
+
+### Kneeling Jump to Squat Jump (Explosive Hip Snap & Pop)
+*   **Muscles:** Gluteus maximus, hamstrings, quadriceps, hip flexors, calves.
+*   **Form Cues:** Kneel tall with toes flat or tucked on a soft mat. Swing your arms back, then forcefully thrust hips forward while snapping your feet forward underneath you to land in a deep athletic squat. Immediately and without pausing, explode straight up into a maximum-height vertical jump with arms reaching overhead. Land softly and reset to kneeling.
+*   **Key Mistakes:** Relying purely on knee flexors rather than explosive glute hip thrust, landing off-balance, or failing to transition directly into the vertical jump.
+*   **Tutorial:** [Kneeling Jump to Squat Jump Tutorial](https://www.youtube.com/results?search_query=kneeling+jump+to+squat+jump)
+
+### Skater's Squats (Airborne Single-Leg Squat)
+*   **Muscles:** Quadriceps (vastus medialis/lateralis), gluteus medius/maximus, hamstrings, ankle stabilizers.
+*   **Form Cues:** Stand balanced on one leg with the opposite knee bent at a 90-degree angle behind you. Reach arms forward for counter-balance as you hinge at the hip and bend your standing knee, lowering yourself until the back knee lightly kisses the floor directly behind your standing heel. Drive through the heel and midfoot of your working leg to stand up without putting weight on the back knee.
+*   **Key Mistakes:** Dumping weight onto the back knee or foot, letting the front knee collapse inward (valgus), or rounding the lower back.
+*   **Tutorial:** [Skater Squat Form Guide](https://www.youtube.com/results?search_query=how+to+do+skater+squats+properly)
+
+### Lateral Jump Squats (Bound Squat Jumps)
+*   **Muscles:** Quadriceps, gluteus medius, abductors, adductors, calves.
+*   **Form Cues:** Start in a quarter squat. Explode laterally to the side, pushing off the outside leg, and land softly into a deep double-leg squat on the opposite side. Immediately absorb and rebound laterally back in the other direction.
+*   **Key Mistakes:** Landing stiff-legged, letting knees cave inward, or failing to achieve squat depth upon landing.
+*   **Tutorial:** [Lateral Squat Jumps Technique](https://www.youtube.com/results?search_query=lateral+jump+squats+exercise)
 
 ### Broad Jumps
 *   **Muscles:** Posterior chain (glutes/hams), calves.
@@ -525,6 +585,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** Balance on one elbow and side of foot. Elevate hips until body is straight.
 *   **Key Mistakes:** Hips dropping, torso twisting forward.
 *   **Tutorial:** [Side Plank Form](https://www.youtube.com/results?search_query=how+to+do+side+plank)
+
+### Side Plank Rotation (Thread the Needle / Arm Reach Under)
+*   **Muscles:** Internal and external obliques, transverse abdominis, serratus anterior, shoulder stabilizers, gluteus medius.
+*   **Form Cues:** Establish a rigid side plank on your forearm or hand with feet stacked or staggered. Reach your top arm straight up toward the ceiling. Smoothly rotate your upper torso downward, threading your top arm under your ribcage and reach as far behind you as possible without dropping your hips. Unthread and rotate back to the vertical reach.
+*   **Key Mistakes:** Letting the hips sag toward the floor during rotation, rotating the hips instead of the thoracic spine, or rushing the rotational movement.
+*   **Tutorial:** [Side Plank with Rotation Tutorial](https://www.youtube.com/results?search_query=side+plank+with+rotation+thread+the+needle)
+
+### Donkey Kick to Plank Return
+*   **Muscles:** Rectus abdominis, hip flexors, anterior deltoids, serratus anterior, quadriceps, glutes.
+*   **Form Cues:** Start in a solid high push-up plank. Bend knees slightly and explode off your toes, kicking your heels/feet up toward your glutes with hips elevating over shoulders into a brief dynamic tuck/donkey kick. Land softly with control on the balls of your feet and immediately absorb into a rigid, hollow-body plank.
+*   **Key Mistakes:** Arching the lower back on landing, letting the feet crash heavily into the floor, or losing shoulder protraction.
+*   **Tutorial:** [Plank Donkey Kicks Exercise Form](https://www.youtube.com/results?search_query=plank+to+donkey+kick+exercise)
 
 ### Elbow Plank
 *   **Muscles:** Rectus abdominis, core stabilizers.
@@ -1107,3 +1179,58 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Adductor flexibility, groin openness, thoracic rotation, quad isometric endurance.
 *   **Form:** Drop into a wide horse stance with knees bent and feet flared outward. Shift weight gently side-to-side to mobilize inner thighs. Place hands on knees and dip one shoulder down and forward toward the opposite knee while gently twisting the torso. Alternate sides smoothly.
 *   **Tutorial:** [Horse Stance Stretch and Twist](https://www.youtube.com/results?search_query=horse+stance+shoulder+dip+stretch)
+
+### Deep Squat Knee to Floor (Deep Squat Knee Drops / Taps)
+*   **Target:** Hip internal/external rotation, femoral head mobility, ankle dorsiflexion, adductor opening.
+*   **Form:** Drop into a deep flat-footed squat. Keeping your torso upright and balance centered, rotate one femur internally and gently tap that knee to the floor between your feet. Return to the deep squat and repeat on the opposite side.
+*   **Tutorial:** [Deep Squat Knee Tap Mobility](https://www.youtube.com/results?search_query=squat+internal+rotation+knee+tap)
+
+### Deep Squat Palm Under Foot & Raise Up (Squat to Stand Hamstring Stretch)
+*   **Target:** Hamstring active lengthening, sciatic nerve mobilization, calf flexibility, hip decompression.
+*   **Form:** Lower into a deep squat and slide your fingers or palms underneath the balls of your feet/toes. Keeping your hands anchored beneath your feet, drive your hips straight up toward the ceiling to extend your knees into a deep forward bend hamstring stretch. Hold 1-2 seconds, then pull yourself back down into the deep chest-up squat.
+*   **Tutorial:** [Squat to Stand Hamstring Stretch](https://www.youtube.com/results?search_query=squat+to+stand+hamstring+mobility)
+
+### Knee to Chest Jumps (Tuck Jumps)
+*   **Target:** Explosive triple extension, hip flexor speed, reactive plyometric power, cardiovascular elevation.
+*   **Form:** Stand with feet hip-width apart. Dip into a shallow quarter squat and explode vertically into the air. At the peak of your jump, actively tuck both knees up toward your chest. Quickly extend legs downward to land softly and springy on the balls of your feet into the next repetition.
+*   **Tutorial:** [Tuck Jumps Technique Guide](https://www.youtube.com/results?search_query=how+to+do+tuck+jumps+properly)
+
+### Scapular Push-ups (Floor Scapula Push)
+*   **Target:** Serratus anterior, rhomboids, middle/lower trapezius, scapulothoracic rhythm.
+*   **Form:** Hold a rigid high push-up plank with straight locked elbows and a neutral spine. Allow your chest to sink slightly by retracting (pinching) your shoulder blades together. From this bottom position, push the floor away vigorously to protract your shoulder blades, doming your upper back at peak contraction.
+*   **Tutorial:** [Scapular Push Ups Proper Form](https://www.youtube.com/results?search_query=scapular+push+ups+form+guide)
+
+### Hamstring Scoops (Dynamic Sweeping Hamstring Stretch)
+*   **Target:** Hamstring elasticity, calf flexibility, posterior chain dynamic mobility.
+*   **Form:** Step forward with one foot, planting the heel with toes pointing upward and leg straight. Hinge at the hips, bending your back knee slightly, and sweep both hands down toward your front toes in a fluid scooping motion as you step through into the next stride. Alternate legs continuously.
+*   **Tutorial:** [Hamstring Scoop Stretch Form](https://www.youtube.com/results?search_query=how+to+do+hamstring+scoop+stretch)
+
+### Hip Openers (Standing "Open the Gate" / Hurdle Step Circles)
+*   **Target:** Hip joint capsule lubrication, gluteus medius, groin adductors, hip flexor mobility.
+*   **Form:** Stand tall on one leg. Lift your opposite knee straight up to hip height, rotate the thigh outward to the side as wide as possible without twisting your pelvis, then lower the foot back down to the floor. Alternate sides in a smooth, continuous rhythm.
+*   **Tutorial:** [Open the Gate Hip Mobility Warmup](https://www.youtube.com/results?search_query=open+the+gate+hip+stretch+warmup)
+
+### Bear Position Alternate Hand & Leg Reach (Bear Bird-Dog)
+*   **Target:** Anterior core bracing, anti-rotation, shoulder stability, contralateral glute/lat sling.
+*   **Form:** Start in a quadruped bear crawl position with knees hovering 1-2 inches above the floor directly below hips, hands under shoulders. Simultaneously extend one arm straight forward and the opposite leg straight back until parallel to the floor without letting your hips tilt or knees rise. Hold 1 second, then return to hovering bear stance and alternate sides.
+*   **Tutorial:** [Bear Crawl Bird Dog Exercise](https://www.youtube.com/results?search_query=bear+crawl+bird+dog+exercise)
+
+### Crab Position Alternate Toe Touch & Hip Thrust
+*   **Target:** Posterior chain extension, glutes, hamstrings, shoulder extension mobility, core rotational stability.
+*   **Form:** Sit on the floor with knees bent, feet flat, and hands planted behind your hips with fingers facing backwards. Press through your heels and hands to thrust hips up into a reverse tabletop/crab pose. At the top of the hip thrust, lift one foot and reach across with the opposite hand to tap the toes. Lower hips slightly, switch limbs, and repeat.
+*   **Tutorial:** [Crab Toe Touch Tutorial](https://www.youtube.com/results?search_query=crab+toe+touches+exercise)
+
+### Cossack Squat with Internal & External Hip Rotation
+*   **Target:** Femoral acetabular rotation, hip capsule mobility, adductor flexibility, ankle mobility.
+*   **Form:** Drop into a deep Cossack squat on one leg with the opposite leg extended straight out to the side. Keeping your squat low and torso tall, rotate the extended leg from the hip socket: internally rotate so the toes point forward/downward to the floor, then externally rotate so the toes and kneecap point straight up to the ceiling.
+*   **Tutorial:** [Cossack Squat with Hip Internal External Rotation](https://www.youtube.com/results?search_query=cossack+squat+hip+rotations)
+
+### High Knees with Under-Leg Clap
+*   **Target:** Reactive hip flexor speed, dynamic plyometric coordination, cardiovascular elevation.
+*   **Form:** Run in place driving your knees up to hip level or higher on every stride. As each knee reaches its highest point, clap your hands together underneath that elevated thigh before snapping the foot back down to the floor in a rapid, continuous rhythm.
+*   **Tutorial:** [High Knees Under Leg Clap Exercise](https://www.youtube.com/results?search_query=high+knees+with+clap+under+leg)
+
+### Lunge Position Lateral Torso Reach / Stretch
+*   **Target:** Iliopsoas, quadratus lumborum, obliques, latissimus dorsi, thoracic lateral flexion.
+*   **Form:** Set up in a deep half-kneeling or runner's lunge with your rear knee on the mat and hips tucked into a slight posterior pelvic tilt. Reach the arm on the side of the rear leg straight overhead and side-bend your upper torso smoothly across toward the front-leg side, deepening the stretch through the hip flexor and lateral side body.
+*   **Tutorial:** [Half Kneeling Lunge Side Bend Stretch](https://www.youtube.com/results?search_query=half+kneeling+lunge+with+side+reach+stretch)
