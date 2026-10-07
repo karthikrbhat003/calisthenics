@@ -290,6 +290,30 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Bouncing elbows hard against the floor, flaring elbows straight out at 90 degrees, or arching the lower back excessively.
 *   **Tutorial:** [Dumbbell Floor Press Technique](https://www.youtube.com/results?search_query=dumbbell+floor+press+form)
 
+### Mike Tyson Push-ups (Quad-Spring Push-ups)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps, quadriceps, rectus abdominis, calves.
+*   **Form Cues:** Start in a high push-up plank. Bend knees and push your hips backward until your buttocks touch or approach your heels, keeping knees hovering 1-2 inches above the floor in a loaded spring position. Forcefully drive through your toes and quads, launching your body forward straight into a deep chest-to-floor push-up, then press up and immediately push hips back into the loaded spring in one continuous rhythm.
+*   **Key Mistakes:** Letting knees rest on the floor, failing to reach full push-up depth, or breaking the fluid forward-and-back cadence.
+*   **Tutorial:** [Mike Tyson Push Up Proper Form](https://www.youtube.com/results?search_query=how+to+do+mike+tyson+push+ups)
+
+### Isometric Push-up Halfway Hold (90-Degree Hover Hold)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps brachii, serratus anterior, deep core.
+*   **Form Cues:** Lower down into a push-up until elbows reach exactly 90 degrees with chest hovering 2-3 inches above the floor. Lock your body in a rigid straight-line plank and hold the position statically, maintaining constant tension across pecs and triceps without letting hips sag or pike.
+*   **Key Mistakes:** Allowing the chest to sink to the floor, arching the lumbar spine, or holding breath.
+*   **Tutorial:** [Isometric Push Up Hold Tutorial](https://www.youtube.com/results?search_query=isometric+push+up+hold+form)
+
+### Unbroken Dip & Hanging/Support Leg Raise Complex
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps, rectus abdominis, hip flexors, forearms/grip.
+*   **Form Cues:** Mount parallel dip bars. Perform 5 deep, controlled dips. Without dismounting or letting feet touch the floor, stabilize in a locked straight-arm support (or dead hang) and perform 10 strict leg raises. Immediately follow with 5 additional dips to full lockout before dismounting.
+*   **Key Mistakes:** Using excessive swing during leg raises, rushing through dip depth, or dropping off the bar between movements.
+*   **Tutorial:** [Dip and Leg Raise Bar Complex](https://www.youtube.com/results?search_query=dip+and+leg+raise+complex+calisthenics)
+
+### Full-Arc Overhead Dumbbell Lateral Raises (180° Straight-Arm Arc)
+*   **Muscles:** Lateral deltoids, anterior deltoids, upper trapezius, serratus anterior.
+*   **Form Cues:** Stand with light dumbbells in front of thighs with palms facing forward/upward (supinated). Keeping arms completely straight with locked elbows, raise the weights laterally in a wide 180-degree circular arc all the way overhead until the dumbbells lightly touch above your head. Slowly reverse the arc under strict control.
+*   **Key Mistakes:** Bending elbows to turn it into an upright row, using hip swing/momentum, or shrugging aggressively before reaching shoulder height.
+*   **Tutorial:** [Full Range Overhead Lateral Raise](https://www.youtube.com/results?search_query=full+range+lateral+raises+overhead)
+
 ---
 
 ## 🦵 3. Legs Exercises
@@ -598,6 +622,18 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Arching the lower back on landing, letting the feet crash heavily into the floor, or losing shoulder protraction.
 *   **Tutorial:** [Plank Donkey Kicks Exercise Form](https://www.youtube.com/results?search_query=plank+to+donkey+kick+exercise)
 
+### Plank In-and-Out Leg Jumps (Plank Jacks)
+*   **Muscles:** Transverse abdominis, rectus abdominis, hip abductors/adductors, shoulder stabilizers.
+*   **Form Cues:** Hold a rigid straight-arm or forearm plank with feet together. Jump both feet out wide simultaneously while keeping hips completely stable and level with shoulders, then immediately jump feet back together in a crisp, continuous bounding rhythm.
+*   **Key Mistakes:** Allowing hips to bounce up and down excessively, sagging lower back, or flaring elbows.
+*   **Tutorial:** [Plank Jacks Proper Form](https://www.youtube.com/results?search_query=how+to+do+plank+jacks+properly)
+
+### Plank Side Jumps to Hand Level (Plank Ski Jumps)
+*   **Muscles:** Internal/external obliques, hip flexors, anterior deltoids, serratus anterior, quadriceps.
+*   **Form Cues:** Start in a solid high push-up plank. Keeping feet glued together, jump both feet forward and diagonally to land softly outside of your right hand. Rebound immediately back to the central high plank, then jump diagonally to land outside your left hand.
+*   **Key Mistakes:** Rounding lower back excessively on landing, letting hips sink below plank on rebound, or landing heavily.
+*   **Tutorial:** [Plank Ski Jumps Exercise](https://www.youtube.com/results?search_query=plank+ski+jumps+exercise)
+
 ### Elbow Plank
 *   **Muscles:** Rectus abdominis, core stabilizers.
 *   **Form Cues:** Support body on elbows and toes. Squeeze glutes and tuck pelvis slightly (hollow body).
@@ -775,6 +811,12 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form Cues:** In a chest-to-wall handstand, tuck both knees down toward your chest while keeping shoulders open, arms locked straight, and hips stacked over shoulders.
 *   **Key Mistakes:** Letting shoulders close forward, bending elbows, or allowing hips to drop too low.
 *   **Tutorial:** [Tuck Handstand Progression](https://www.youtube.com/results?search_query=tuck+handstand+wall+drill)
+
+### Handstand Practice (Chest-to-Wall & Freestanding Alignment)
+*   **Muscles:** Anterior deltoids, upper/lower trapezius, serratus anterior, wrist flexors/extensors, transverse abdominis, glutes.
+*   **Form Cues:** Place hands shoulder-width with fingers spread and slightly curled into a camber grip. Push the floor away into active scapular elevation (shrug up to ears). Lock elbows completely. Stack wrists, elbows, shoulders, hips, and ankles in a straight vertical line with posterior pelvic tilt (ribs pulled in) and pointed toes. Use fingertip pressure to counteract over-balance and heel of the palm for under-balance.
+*   **Key Mistakes:** "Banana back" lumbar hyperextension, sagging shoulders without active elevation, bending elbows, or looking straight down at the floor rather than between thumbs.
+*   **Tutorial:** [Handstand Alignment & Balance Guide](https://www.youtube.com/results?search_query=how+to+handstand+calisthenics+alignment)
 
 ---
 
@@ -1234,3 +1276,38 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Iliopsoas, quadratus lumborum, obliques, latissimus dorsi, thoracic lateral flexion.
 *   **Form:** Set up in a deep half-kneeling or runner's lunge with your rear knee on the mat and hips tucked into a slight posterior pelvic tilt. Reach the arm on the side of the rear leg straight overhead and side-bend your upper torso smoothly across toward the front-leg side, deepening the stretch through the hip flexor and lateral side body.
 *   **Tutorial:** [Half Kneeling Lunge Side Bend Stretch](https://www.youtube.com/results?search_query=half+kneeling+lunge+with+side+reach+stretch)
+
+### Fingertip to Knuckle to Back of Hand Wrist Rolls
+*   **Target:** Wrist flexor/extensor tendon resilience, finger joint mobility, carpal tunnel decompression.
+*   **Form:** Start kneeling on all fours with light bodyweight over hands. Progressively roll weight from your fingertips down onto flat knuckles (first fist stage), and then gently continue rolling onto the back of your hands with arms straight. Reverse the movement smoothly back to fingertips.
+*   **Tutorial:** [Calisthenics Wrist Conditioning Routine](https://www.youtube.com/results?search_query=calisthenics+wrist+conditioning+knuckles+back+of+hand)
+
+### Plank to Pike Alternate Toe Touch
+*   **Target:** Hamstring active lengthening, thoracic mobility, serratus anterior protraction, transverse abdominis.
+*   **Form:** Start in a solid high plank. Press the floor away and pike hips up and back into a downward dog while reaching your right hand back across your body to tap your left toes/ankle. Smoothly return to high plank, then repeat on the opposite side.
+*   **Tutorial:** [Plank to Pike Toe Tap Tutorial](https://www.youtube.com/results?search_query=plank+to+pike+toe+touch+form)
+
+### Prone I - Y - T Raises (with Isometric Holds)
+*   **Target:** Lower/middle trapezius, rhomboids, rear deltoids, rotator cuff, scapular upward/downward rotation.
+*   **Form:** Lie face down on a mat with forehead lightly resting on the floor. Sequentially perform 1) "I" raises (arms straight down by sides or overhead with thumbs up), 2) "Y" raises (arms angled 45° overhead with thumbs pointing toward ceiling for lower traps), and 3) "T" raises (arms out at 90° horizontally squeezing shoulder blades). Hold the peak contraction of the final rep of each position for 10 seconds.
+*   **Tutorial:** [Prone I Y T Raises Proper Form](https://www.youtube.com/results?search_query=prone+i+y+t+raises+exercise)
+
+### Prone Scorpion Stretch (Flat Shoulders)
+*   **Target:** Thoracic spine rotation, hip flexor (psoas) lengthening, chest and anterior deltoid opening.
+*   **Form:** Lie face down with arms extended out wide in a "T" position. Keep both chest and shoulders pinned flat to the floor. Lift one leg, bend the knee at 90°, and rotate your hip to reach your foot across your back toward the opposite hand until you feel a deep stretch in the hip and spine. Alternate sides smoothly.
+*   **Tutorial:** [Scorpion Stretch Technique](https://www.youtube.com/results?search_query=prone+scorpion+stretch+proper+form)
+
+### Tabletop Single-Leg Extended Hip Internal & External Rotation
+*   **Target:** Hip joint capsule articulation, gluteus medius/minimus, piriformis, deep hip rotators.
+*   **Form:** Set up on all fours in a quadruped tabletop position. Extend one leg straight back parallel to the floor with knee locked. Keeping your pelvis level and spine neutral, rotate the entire leg from the hip socket: turn toes inward (internal rotation), then turn toes outward (external rotation). Hold the final rep in maximum rotational excursion for 10 seconds.
+*   **Tutorial:** [Quadruped Hip Rotations CARs](https://www.youtube.com/results?search_query=quadruped+hip+internal+external+rotation)
+
+### Medicine Ball Weighted Thoracic Spine Extension Mobility
+*   **Target:** Thoracic spinal extension, ribcage expansion, latissimus dorsi, pectoral lengthening.
+*   **Form:** Lie supine with a medicine ball placed directly under your mid-to-upper back (thoracic spine) with knees bent and feet flat. Hold a light dumbbell or weight plate with both hands, reach arms back overhead into a deep arch over the ball, breathing deeply, and smoothly return forward. Hold the final rep in deep overhead extension for 10 seconds.
+*   **Tutorial:** [Thoracic Spine Extension Over Ball](https://www.youtube.com/results?search_query=thoracic+extension+over+medicine+ball)
+
+### Supine Band-Assisted Hamstring Dynamic Floss & Stretch
+*   **Target:** Hamstring group (biceps femoris, semitendinosus), sciatic nerve mobility, calf flexibility.
+*   **Form:** Lie flat on your back with one leg extended straight on the floor. Loop a resistance band around the arch/ball of your opposite foot. Pull your knee close to your chest with the knee bent, then actively push through your heel to straighten and extend the leg toward the ceiling against the band's resistance, holding 1-2 seconds at peak stretch before bending the knee and repeating.
+*   **Tutorial:** [Banded Hamstring Dynamic Stretch](https://www.youtube.com/results?search_query=banded+hamstring+floss+stretch)

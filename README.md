@@ -27,7 +27,7 @@ calisthenics/
 
 Select a resource below:
 
-*   📅 **2026 Workouts**: **[August](2026/08_August/README.md)** | **[September](2026/09_September/README.md)**
+*   📅 **2026 Workouts**: **[August](2026/08_August/README.md)** | **[September](2026/09_September/README.md)** | **[October](2026/10_October/README.md)**
 *   📚 **[Exercise & Form Library](exercise_library.md)**: Details on proper form cues, muscle targets, and video tutorials for all unique exercises.
 
 ---

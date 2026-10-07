@@ -11,11 +11,10 @@
 ## ⚡ Phase 1: Warm-up
 *Goal: Elevate heart rate and mobile joints.*
 
-| # | Exercise | Target (Reps/Time) | Completed |
-|---|---|---|:---:|
-| 1 | [Warm-up Exercise 1] | [e.g., 1 min] | [ ] |
-| 2 | [Warm-up Exercise 2] | [e.g., 10 reps] | [ ] |
-| 3 | [Warm-up Exercise 3] | [e.g., 10 reps] | [ ] |
+- [ ] **1. [Warm-up Exercise 1](../../../exercise_library.md#exercise-anchor)**
+  * *Target: [e.g., 10 reps / 1 min]. Form cues & execution notes.*
+- [ ] **2. [Warm-up Exercise 2](../../../exercise_library.md#exercise-anchor)**
+  * *Target: [e.g., 10 reps]. Form cues & execution notes.*
 
 ---
 
@@ -23,14 +22,10 @@
 *Goal: Main working sets or circuits.*
 
 ### [Block A: Strength / Skill / Circuit]
-- [ ] **1. [Exercise Name]**
-  - *Set 1:* [Reps/Weight]
-  - *Set 2:* [Reps/Weight]
-  - *Set 3:* [Reps/Weight]
-- [ ] **2. [Exercise Name]**
-  - *Set 1:* [Reps/Weight]
-  - *Set 2:* [Reps/Weight]
-  - *Set 3:* [Reps/Weight]
+- [ ] **1. [Main Exercise Name 1](../../../exercise_library.md#exercise-anchor)**
+  * *Target: [e.g., 3 sets x 10 reps]. Coaching cues.*
+- [ ] **2. [Main Exercise Name 2](../../../exercise_library.md#exercise-anchor)**
+  * *Target: [e.g., 3 sets x 10 reps]. Coaching cues.*
 
 ---
 
