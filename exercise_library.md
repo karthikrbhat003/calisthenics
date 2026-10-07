@@ -1342,3 +1342,45 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Rounding the lower back when lifting weights from the floor, swinging weights with bent arms rather than hip drive, or failing to lock out overhead under control.
 *   **Tutorial:** [Devil Press Form Technique](https://www.youtube.com/results?search_query=devil+press+exercise+tutorial)
 
+### Arm Twist (Internal & External Shoulder Rotations)
+*   **Target:** Rotator cuff (subscapularis, infraspinatus, teres minor), glenohumeral capsule, deltoid endurance.
+*   **Form:** Stand tall with arms extended straight out to the sides at shoulder height (forming a "T"). Simultaneously rotate one arm forward into full internal rotation (thumb pointing down and back) while rotating the opposite arm backward into full external rotation (thumb pointing up and back). Alternate the twist dynamically in a continuous wringing motion.
+*   **Tutorial:** [Standing Shoulder Internal External Rotations](https://www.youtube.com/results?search_query=standing+shoulder+arm+twists+internal+external+rotations)
+
+### Supine Single-Leg V-Ups (Alternating V-Ups)
+*   **Muscles:** Rectus abdominis, obliques, hip flexors (iliopsoas), anterior core.
+*   **Form Cues:** Lie flat on your back with arms extended overhead and legs straight. Simultaneously lift one leg straight up while crunching your torso up off the floor to reach both hands (or opposite hand) toward your elevated foot/shin. Lower under control and alternate legs on each repetition.
+*   **Key Mistakes:** Using momentum to fling the upper body, bending the working knee excessively, or letting the lower back slam into the ground during the eccentric phase.
+*   **Tutorial:** [Single Leg V-Up Proper Form](https://www.youtube.com/results?search_query=single+leg+v+ups+proper+form)
+
+### Plank Dumbbell Pull-Through (Pass-Through)
+*   **Muscles:** Transverse abdominis, internal/external obliques, serratus anterior, shoulders, glute stabilizers.
+*   **Form Cues:** Set up in a wide-stance push-up plank with a dumbbell or kettlebell placed just outside one hand. Reach under your body with the opposite hand, grasp the weight, and drag/slide it across to the outside of your supporting hand. Plant the hand and repeat with the other arm without letting your hips tilt or rotate.
+*   **Key Mistakes:** Shifting hips wildly from side to side, sagging through the lumbar spine, or rushing the transfer.
+*   **Tutorial:** [Plank Dumbbell Pull Through Form](https://www.youtube.com/results?search_query=plank+dumbbell+pull+through+exercise+form)
+
+### Reverse Hyperextensions (Floor / Bench Reverse Hypers)
+*   **Muscles:** Gluteus maximus, hamstrings, erector spinae, lower back.
+*   **Form Cues:** Lie face down on a bench (hips at the edge) or on the floor. Grip the bench edges for anchor stability. Keeping legs straight and toes pointed, engage your glutes to lift both legs upward until they are in line with your torso, pausing for 1 second at peak contraction before lowering slowly.
+*   **Key Mistakes:** Hyperextending excessively through the lumbar spine rather than squeezing the glutes, or swinging legs with momentum.
+*   **Tutorial:** [Reverse Hyperextensions Technique](https://www.youtube.com/results?search_query=reverse+hyperextensions+proper+form)
+
+### Bicycle Crunches
+*   **Muscles:** Rectus abdominis, internal/external obliques, hip flexors.
+*   **Form Cues:** Lie on your back with hands lightly behind your head and knees in tabletop (90 degrees). Lift shoulder blades off the floor. Extend one leg straight at a 45-degree angle while rotating your torso to bring the opposite elbow toward the bent knee. Alternate sides smoothly with a rhythmic, controlled cadence.
+*   **Key Mistakes:** Pulling on your neck with your hands, rushing reps without full rotational contraction, or arching the lower back off the floor.
+*   **Tutorial:** [Bicycle Crunches Form Guide](https://www.youtube.com/results?search_query=bicycle+crunches+proper+technique)
+
+### Reverse Plank Knee Bends (Alternating Reverse Plank March)
+*   **Muscles:** Posterior chain (glutes, hamstrings, erector spinae), anterior deltoids, hip flexors, deep core stabilizers.
+*   **Form Cues:** Assume a solid reverse plank position with hands under shoulders, arms locked, and hips elevated in a straight line from heels to shoulders. Maintaining elevated hips, smoothly bend one knee to draw your foot in toward your glutes (or knee to chest), plant it, and alternate with the other leg without allowing hips to drop.
+*   **Key Mistakes:** Dropping hips toward the floor when lifting a leg, flaring elbows, or sinking into shoulder joints.
+*   **Tutorial:** [Reverse Plank Knee Tucks March](https://www.youtube.com/results?search_query=reverse+plank+march+knee+bends)
+
+### Boat Hold (Navasana / V-Sit Isometric Hold)
+*   **Muscles:** Rectus abdominis, transverse abdominis, hip flexors (psoas), lower back stabilizers.
+*   **Form Cues:** Sit on the floor with knees bent. Lean your torso slightly back ($45^\circ$) with a straight spine and open chest. Lift your feet off the floor, extending your legs straight (or keeping knees bent at $90^\circ$ for modified boat) to form a "V" shape with your body. Reach arms forward parallel to the ground and hold isometric tension while maintaining steady breathing.
+*   **Key Mistakes:** Rounding the spine into a slouch, collapsing the chest forward, or holding breath.
+*   **Tutorial:** [Boat Pose Navasana Form](https://www.youtube.com/results?search_query=boat+pose+navasana+proper+form+hold)
+
+

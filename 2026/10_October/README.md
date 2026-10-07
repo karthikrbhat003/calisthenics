@@ -11,8 +11,8 @@
 
 | Week | Date Range | Focus/Theme | Progress | Link |
 |---|---|---|---|---|
-| **Week 01** | Oct 01 - Oct 04 | Inversion Alignment, Functional HIIT & Loaded Mobility | 🟨 In Progress | [Week 01 README](Week_01/README.md) |
-| **Week 02** | Oct 05 - Oct 11 | Calisthenics Strength & Power | ⬜ Planned | *N/A* |
+| **Week 01** | Oct 01 - Oct 04 | Inversion Alignment, Functional HIIT & Loaded Mobility | 🟩 Completed | [Week 01 README](Week_01/README.md) |
+| **Week 02** | Oct 05 - Oct 11 | Core & Trunk Endurance, Calisthenics Strength | 🟨 In Progress | [Week 02 README](Week_02/README.md) |
 | **Week 03** | Oct 12 - Oct 18 | Calisthenics Strength & Conditioning | ⬜ Planned | *N/A* |
 | **Week 04** | Oct 19 - Oct 25 | Calisthenics Strength | ⬜ Planned | *N/A* |
 | **Week 05** | Oct 26 - Nov 01 | Calisthenics Strength | ⬜ Planned | *N/A* |
@@ -21,6 +21,6 @@
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `2`
-- **Most frequent workout style:** `Inversion Practice, Functional HIIT & Loaded Mobility`
+- **Total Sessions Completed:** `3`
+- **Most frequent workout style:** `Inversion Practice, Functional HIIT & Core Conditioning`
 - **Overall monthly energy average:** `N/A`
