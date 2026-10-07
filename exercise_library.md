@@ -1311,3 +1311,34 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Target:** Hamstring group (biceps femoris, semitendinosus), sciatic nerve mobility, calf flexibility.
 *   **Form:** Lie flat on your back with one leg extended straight on the floor. Loop a resistance band around the arch/ball of your opposite foot. Pull your knee close to your chest with the knee bent, then actively push through your heel to straighten and extend the leg toward the ceiling against the band's resistance, holding 1-2 seconds at peak stretch before bending the knee and repeating.
 *   **Tutorial:** [Banded Hamstring Dynamic Stretch](https://www.youtube.com/results?search_query=banded+hamstring+floss+stretch)
+
+### Kettlebell / Dumbbell Around the World (Standing Trunk Orbit)
+*   **Muscles:** Transverse abdominis, internal/external obliques, shoulders (anterior/posterior deltoids), forearm grip, glute stabilizers.
+*   **Form Cues:** Stand tall with feet hip-width apart and knees soft. Hold a kettlebell or dumbbell in one hand in front of your waist. Pass the weight smoothly around your body behind your hips to the other hand, maintaining a rigid, motionless torso and resisting any trunk sway or hip tipping. Alternate orbit direction halfway through or each set.
+*   **Key Mistakes:** Leaning or swaying the torso to accommodate the weight, swinging the weight excessively far from the body, or losing shoulder packing.
+*   **Tutorial:** [Kettlebell Around the World Form](https://www.youtube.com/results?search_query=kettlebell+around+the+body+orbit+around+the+world+exercise)
+
+### Walking Lunges
+*   **Muscles:** Quadriceps, gluteus maximus, hamstrings, calves, hip stabilizers, core.
+*   **Form Cues:** Take a long stride forward, lowering your hips until both knees are bent at approximately 90 degrees with the rear knee hovering 1 inch off the ground. Drive through the front heel and midfoot to rise smoothly and step directly forward into the next lunge repetition with the opposite leg. Keep your chest proud and spine neutral throughout.
+*   **Key Mistakes:** Letting the lead knee cave inward (valgus collapse), slamming the trailing knee into the floor, or leaning excessively forward at the waist.
+*   **Tutorial:** [Walking Lunges Technique](https://www.youtube.com/results?search_query=walking+lunges+proper+form)
+
+### Bear Crawls (Slow & Controlled)
+*   **Muscles:** Anterior core, serratus anterior, shoulders, quadriceps, hip flexors, cross-body diagonal stabilizers.
+*   **Form Cues:** Start on all fours with hands under shoulders and knees under hips. Hover knees just 1-2 inches above the ground. Move forward smoothly by advancing contralateral limbs simultaneously (right hand + left foot, then left hand + right foot) while keeping your back completely flat and hips steady without rocking side-to-side.
+*   **Key Mistakes:** Raising hips high in the air, allowing the lower back to sway or sag, or rushing reps with noisy footfalls.
+*   **Tutorial:** [Slow Bear Crawl Technique](https://www.youtube.com/results?search_query=slow+bear+crawl+core+stability+form)
+
+### Mountain Climbers
+*   **Muscles:** Rectus abdominis, hip flexors, anterior deltoids, chest, calves, cardiovascular system.
+*   **Form Cues:** Set up in a strong high push-up plank with hands directly beneath shoulders and core braced. Alternately drive your knees toward your chest in a rapid, rhythmic running motion while keeping your hips level and shoulders protracted over your wrists.
+*   **Key Mistakes:** Bouncing hips up and down, letting lower back hyperextend, or failing to maintain solid shoulder protraction over wrists.
+*   **Tutorial:** [Mountain Climbers Form Guide](https://www.youtube.com/results?search_query=mountain+climbers+proper+form)
+
+### Devil Press (Dumbbell / Kettlebell Burpee to Overhead)
+*   **Muscles:** Full body: quadriceps, glutes, hamstrings, chest, triceps, latissimus dorsi, deltoids, trapezius, core.
+*   **Form Cues:** Stand with a pair of dumbbells/kettlebells on the floor in front of you. Place hands on the handles, jump feet back into a push-up plank, and perform a full chest-to-floor burpee between the weights. Jump feet forward into a wide stance outside the weights, hinge at hips to swing the weights between your legs, and explosively extend hips and knees to snatch or clean-and-press the weights in one continuous fluid motion overhead to full lockout.
+*   **Key Mistakes:** Rounding the lower back when lifting weights from the floor, swinging weights with bent arms rather than hip drive, or failing to lock out overhead under control.
+*   **Tutorial:** [Devil Press Form Technique](https://www.youtube.com/results?search_query=devil+press+exercise+tutorial)
+
