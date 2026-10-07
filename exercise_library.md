@@ -1383,4 +1383,41 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Rounding the spine into a slouch, collapsing the chest forward, or holding breath.
 *   **Tutorial:** [Boat Pose Navasana Form](https://www.youtube.com/results?search_query=boat+pose+navasana+proper+form+hold)
 
+### Kang Squats (Good Morning to Squat Flow)
+*   **Muscles:** Hamstrings, gluteus maximus, quadriceps, erector spinae, hip adductors.
+*   **Form Cues:** Stand with feet shoulder-width apart, hands behind your head or across chest. First, hinge at your hips into a flat-back good morning to load your hamstrings. Second, smoothly drop your hips down between your knees into a deep full squat with an upright chest. Third, drive your hips back up into the good morning hinge position. Finally, stand fully upright by extending your hips and glutes.
+*   **Key Mistakes:** Rounding the lower back during the hinge transition, rushing through the squat depth, or losing core stiffness.
+*   **Tutorial:** [Kang Squat Exercise Form](https://www.youtube.com/results?search_query=kang+squats+proper+form+mobility+exercise)
+
+### Curtsy Lunges (Rotational Deficit Lunge)
+*   **Muscles:** Gluteus medius, gluteus minimus, gluteus maximus, quadriceps, adductor longus/magnus, core stabilizers.
+*   **Form Cues:** Stand tall with feet hip-width apart. Step your right foot backward and across behind your left leg (like a curtsy), bending both knees to lower your hips until your front thigh is parallel to the ground. Drive through your left front heel to return to the starting position and repeat or alternate sides.
+*   **Key Mistakes:** Letting the lead knee twist inward or collapse over the toes, over-rotating the torso away from center, or rushing the eccentric descent.
+*   **Tutorial:** [Curtsy Lunges Proper Technique](https://www.youtube.com/results?search_query=curtsy+lunges+proper+form)
+
+### Heel Elevated Squats (Cyclist Squats)
+*   **Muscles:** Quadriceps (specifically vastus medialis oblique / VMO), patellar tendon resilience, core.
+*   **Form Cues:** Place your heels on a 1-2 inch elevation (weight plate or slant board) with feet hip-width apart or closer. Keeping your torso as vertical as possible, break at the knees and descend into a deep squat, allowing your knees to track forward over your toes. Drive up through the midfoot/toes to lockout, keeping tension continuous on the quadriceps.
+*   **Key Mistakes:** Leaning forward at the waist (turning it into a hip hinge), letting knees flare out wide, or bouncing at the bottom of the squat.
+*   **Tutorial:** [Heel Elevated Squat Form](https://www.youtube.com/results?search_query=heel+elevated+cyclist+squats+form)
+
+### Glute Bridge Walks (Glute Bridge Walkouts / Marches)
+*   **Muscles:** Hamstrings (biceps femoris, semitendinosus), gluteus maximus, lower back erectors, core.
+*   **Form Cues:** Lie on your back, bend your knees, and lift your hips into a standard glute bridge. Keeping hips locked high and glutes clenched, slowly walk your feet out one step at a time on your heels until your legs are nearly fully extended. Hold for 1 second in the extended bridge, then slowly walk your feet back in to the starting position.
+*   **Key Mistakes:** Allowing hips to sag toward the floor during the walkout, arching solely through the lumbar spine, or taking overly large, jerky steps.
+*   **Tutorial:** [Glute Bridge Walkouts Technique](https://www.youtube.com/results?search_query=glute+bridge+walkouts+hamstring+exercise)
+
+### Single-Leg Pogo Jumps (Unilateral Ankle Elasticity Hops)
+*   **Muscles:** Gastrocnemius, soleus, Achilles tendon complex, tibialis anterior, foot intrinsics.
+*   **Form Cues:** Balance on one leg with a tall posture and slight knee bend. Perform rapid, rhythmic vertical hops purely using ankle stiffness and Achilles tendon recoil (like a pogo stick). Minimize ground contact time and keep the foot dorsiflexed before landing.
+*   **Key Mistakes:** Bending the knee deeply on each landing (turning it into a single-leg squat jump), letting the heel collapse flat to the floor, or losing vertical torso alignment.
+*   **Tutorial:** [Single Leg Pogo Jumps Form](https://www.youtube.com/results?search_query=single+leg+pogo+hops+plyometrics)
+
+### Heel Raise and Toe Raise (Calf & Tibialis Raises)
+*   **Muscles:** Gastrocnemius, soleus (plantar flexion), tibialis anterior, extensor digitorum longus (dorsiflexion).
+*   **Form Cues:** Stand with feet hip-width apart. First, drive up onto the balls of your feet for a maximum-height calf raise, squeezing your calves for 1 second at the top. Lower down smoothly, rock back onto your heels, and actively lift your toes and the balls of your feet toward your shins to contract the tibialis anterior.
+*   **Key Mistakes:** Bending knees to cheat the range of motion, flaring ankles outward on calf raises, or rushing the rocking transition.
+*   **Tutorial:** [Heel and Toe Raise Exercise](https://www.youtube.com/results?search_query=standing+calf+raise+and+tibialis+toe+raise+combo)
+
+
 

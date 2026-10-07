@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | **Monday** | Oct 05 | Rest / Active Recovery | ⬜ Planned | *N/A* |
 | **Tuesday** | Oct 06 | High-Density Core, Rotational Stability & Posterior Chain Circuit | 🟩 Completed | [2026-10-06.md](2026-10-06.md) |
-| **Wednesday** | Oct 07 | Calisthenics Upper Body Push/Pull | ⬜ Planned | *N/A* |
+| **Wednesday** | Oct 07 | Lower-Body Hypertrophy, Hinge-to-Squat Circuit & Plyometric Elasticity | 🟩 Completed | [2026-10-07.md](2026-10-07.md) |
 | **Thursday** | Oct 08 | Inversion Practice & Mobility | ⬜ Planned | *N/A* |
 | **Friday** | Oct 09 | Calisthenics Strength & Plyometrics | ⬜ Planned | *N/A* |
 | **Saturday** | Oct 10 | Active Recovery (Run/Swim/Light Mobility) | ⬜ Planned | *N/A* |
@@ -22,7 +22,7 @@
 ---
 
 ## 📈 Weekly Reflection
-- **Total Workouts:** `1 / 3`
-- **Adherence Rate:** `33%`
+- **Total Workouts:** `2 / 3`
+- **Adherence Rate:** `67%`
 - **Key Learnings:**
-  *Week 02 opened with a dedicated 9-station core endurance circuit utilizing a descending time-under-tension protocol (50s ➔ 40s ➔ 30s across 3 sets). Excellent balance achieved across anterior compression (single-leg V-ups, boat hold, dead bugs), lateral/obliques (side planks, bicycle crunches, dumbbell pull-throughs), and posterior chain extension (reverse hyperextensions, reverse plank knee bends).*
+  *Two distinct, high-impact sessions logged for Week 02. Tuesday established deep core and posterior chain endurance through a descending 9-station pyramid (50s/40s/30s). Wednesday brought a powerful lower-body strength and plyometric stimulus: Kang squats and curtsy lunges mobilized the hips and loaded gluteus medius, heel-elevated squats isolated the VMO quads, while glute bridge walkouts and single-leg pogo hops strengthened hamstrings and reactive Achilles elasticity.*
