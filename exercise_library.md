@@ -2045,6 +2045,22 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* 12 to 15 burpees per minute; burpee tuck jumps.
 *   **Tutorial:** [100 Burpee EMOM Workout](https://www.youtube.com/results?search_query=100+burpees+in+10+minutes+emom)
 
+### Overhead Weighted March Past (In-Place March with Straight Arms Overhead)
+*   **Muscles:** Deltoids, trapezius (upper, middle, lower), serratus anterior, transverse abdominis, rectus abdominis, internal/external obliques, hip flexors (psoas, rectus femoris), gluteus medius, calves.
+*   **Setup:** Press a weight (dumbbell, kettlebell, or weight plate) directly overhead with arms locked completely straight. Keep elbows fully extended, biceps pinned in line with ears, rib cage pulled down, and pelvis neutral.
+*   **Form Cues:**
+    1. Actively punch up toward the ceiling (scapular elevation) to establish a rock-solid overhead bone-support lockout.
+    2. Brace abdominal wall tightly to prevent any lumbar extension or ribs flaring forward.
+    3. March in place with a rhythmic, measured cadence: lift one knee up to hip height (90 degrees) with toes dorsiflexed while rooting the standing leg firmly into the ground.
+    4. Maintain an upright, vertical spine without tilting or wobbling side to side.
+    5. March continuously for the full 1-minute work interval, breathing deeply into the diaphragm under isometric load.
+*   **Key Mistakes:** Allowing elbows to bend under shoulder fatigue, arching lower back to compensate for limited shoulder mobility, leaning torso to the side of the stance leg, or rushing cadence.
+*   **Progressions:**
+    *   *Regression:* Marching in place with arms overhead without weight; marching with weight held at chest/rack level.
+    *   *Progression:* Unilateral single-arm waiter's march; increasing weight load; moving forward in an overhead carry.
+*   **Tutorial:** [Overhead Weighted March in Place](https://www.youtube.com/results?search_query=overhead+weighted+march+in+place)
+
+
 
 
 
