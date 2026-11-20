@@ -1897,6 +1897,102 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Rising out of the deep squat position to relieve quad fatigue, rocking back and forth erratically, or failing to hit peak heel height.
 *   **Tutorial:** [Deep Squat Calf Raises Technique](https://www.youtube.com/results?search_query=deep+squat+calf+raises)
 
+### Dragon Hold (Dragon Flag Isometric Hold)
+*   **Muscles:** Rectus abdominis, transverse abdominis, obliques, latissimus dorsi, spinal erectors, glutes.
+*   **Setup:** Lie on a flat bench or floor mat, gripping the bench edges or a sturdy anchor behind your head firmly.
+*   **Form Cues:**
+    1. Brace core and roll onto your upper back and shoulders, elevating your torso, hips, and legs in a rigid straight line pointing diagonally upward at roughly 45 degrees.
+    2. Squeeze glutes and quads together, keeping toes pointed and body locked into a straight hollow cylinder.
+    3. Hold statically for the prescribed duration without allowing hips to sag or hinge.
+    4. Lower under strict eccentric control when terminating the set.
+*   **Key Mistakes:** Piking at the hips (bending at the waist), arching the lower back, or placing compressive weight on the neck rather than the upper back/scapulae.
+*   **Progressions:**
+    *   *Regression:* Tuck Dragon Hold (knees tucked to chest); Single-Leg Dragon Hold; Straddle Dragon Hold.
+    *   *Progression:* Full Dragon Flag repetitions (eccentric-concentric); weighted ankle-weight Dragon Holds.
+*   **Tutorial:** [Dragon Flag Hold Progression](https://www.youtube.com/results?search_query=how+to+do+a+dragon+flag+hold)
+
+### Supine Single-Leg Raise with 90-Degree Opposite Leg Hold
+*   **Muscles:** Lower rectus abdominis, psoas (hip flexors), rectus femoris, transverse abdominis.
+*   **Setup:** Lie flat on your back on a mat, arms pressing down by your sides or hands lightly beneath glutes. Press lower back firmly into the floor.
+*   **Form Cues:**
+    1. Lift one leg vertically toward the ceiling, locking it at a strict 90-degree angle with knee straight and foot flexed/pointed.
+    2. Keep that vertical leg completely motionless throughout the set as an anchor.
+    3. With the other leg straight, raise it smoothly off the floor up toward the vertical leg, then lower it under control until it hovers 1–2 inches above the ground.
+    4. Repeat continuously for 30 seconds before switching active and anchor legs.
+*   **Key Mistakes:** Allowing the lower back to arch off the floor, letting the 90-degree leg drift forward or bend, or swinging the active leg with momentum.
+*   **Tutorial:** [Single Leg Raise with 90 Degree Hold](https://www.youtube.com/results?search_query=single+leg+raise+opposite+leg+vertical+hold)
+
+### Hollow Hold Flutter Kicks & Criss-Cross Flow
+*   **Muscles:** Rectus abdominis, transverse abdominis, obliques, hip flexors, adductors, quads.
+*   **Setup:** Assume a classic hollow body position on your back: lumbar spine glued to the mat, shoulder blades lifted, arms reaching overhead.
+*   **Form Cues:**
+    1. Lift legs 6–10 inches off the floor with toes pointed.
+    2. Perform 5 rapid, small vertical flutter kicks (up and down scissor pulses).
+    3. Immediately transition into 5 horizontal criss-cross kicks (scissoring one leg over the other).
+    4. Alternate seamlessly between 5 flutters and 5 criss-crosses for the entire 60-second duration while maintaining strict lower back contact with the ground.
+*   **Key Mistakes:** Losing posterior pelvic tilt and arching lower back, lifting legs too high (reducing core tension), or dropping shoulders.
+*   **Tutorial:** [Hollow Body Flutter and Scissor Kicks](https://www.youtube.com/results?search_query=hollow+hold+flutter+kicks+criss+cross)
+
+### Hanging Side-to-Side Knee Raises (Bar Windshield Knee Raises)
+*   **Muscles:** Internal/external obliques, rectus abdominis, hip flexors, latissimus dorsi, forearm grip strength.
+*   **Setup:** Hang from a pull-up bar with an overhand shoulder-width grip in an active hollow hang.
+*   **Form Cues:**
+    1. Pull knees up toward your chest while simultaneously twisting your hips to the right, driving knees toward your right elbow.
+    2. Lower back down through center with control.
+    3. Immediately pull knees up while twisting hips to the left, driving knees toward your left elbow.
+    4. Continue alternating smoothly side-to-side for 60 seconds with minimal forward/backward swinging.
+*   **Key Mistakes:** Using excessive swing or kipping momentum, dropping knees too fast without eccentric resistance, or allowing shoulders to disengage.
+*   **Progressions:**
+    *   *Regression:* Captain's chair side-to-side knee raises; ground supine windshield wipers.
+    *   *Progression:* Hanging straight-leg windshield wipers; weighted hanging side-to-side raises.
+*   **Tutorial:** [Hanging Oblique Knee Raises Form](https://www.youtube.com/results?search_query=hanging+side+to+side+knee+raises+obliques)
+
+### Plank Single-Leg Raises (Plank Hip Extension Raises)
+*   **Muscles:** Gluteus maximus, hamstrings, transverse abdominis, erector spinae, anterior deltoids.
+*   **Setup:** Assume an elbow or high push-up plank with feet hip-width apart and body locked in a rigid straight line.
+*   **Form Cues:**
+    1. Squeeze the glute on one side to elevate that leg straight off the floor until heel aligns with hips (avoid hyperextending lower back).
+    2. Keep hips completely level and parallel to the floor—resist the urge to tilt or rotate the pelvis.
+    3. Hold statically or pulse subtly for 30 seconds, maintaining a strong hollow body brace.
+    4. Lower the foot and immediately switch to the opposite leg for 30 seconds.
+*   **Key Mistakes:** Arching the lower back when lifting the leg, tilting the hips to one side, or allowing the head/chest to collapse.
+*   **Tutorial:** [Plank with Single Leg Lift Technique](https://www.youtube.com/results?search_query=plank+with+single+leg+lift+form)
+
+### Prone Chicken Wings (Internal Rotation Scapular Lifts)
+*   **Target:** Infraspinatus, subscapularis, rear deltoids, rhomboids, middle/lower trapezius, glenohumeral internal rotation mobility.
+*   **Setup:** Lie face down on a mat with forehead resting on the floor. Place the backs of both hands flat against your lower back/sacrum, allowing elbows to flare outward to the sides (chicken wing position).
+*   **Form Cues:**
+    1. Keeping the backs of your hands in contact with your lower back, lift both elbows and shoulders as high off the floor as possible toward the ceiling.
+    2. Squeeze your shoulder blades together aggressively at peak elevation, holding for 1–2 seconds.
+    3. Lower elbows softly back to tap the floor and repeat for prescribed repetitions.
+*   **Key Mistakes:** Lifting head and hyperextending neck, using jerking momentum, or sliding hands off the lower back.
+*   **Tutorial:** [Prone Chicken Wings Shoulder Mobility](https://www.youtube.com/results?search_query=prone+chicken+wings+shoulder+mobility)
+
+### Standing Shin Raises (Tibialis Anterior Raises)
+*   **Muscles:** Tibialis anterior (front shin), extensor digitorum longus, ankle dorsiflexors.
+*   **Setup:** Stand with back and glutes flat against a wall, heels placed approximately 12–18 inches away from the wall with legs straight.
+*   **Form Cues:**
+    1. Keeping heels rooted to the floor, flex your ankles aggressively to lift your toes and the balls of both feet as high toward your shins as possible.
+    2. Squeeze the front of your shins at peak dorsiflexion for 1 second.
+    3. Lower toes back down with control until lightly tapping the floor, and immediately repeat.
+*   **Key Mistakes:** Bending knees to cheat dorsiflexion, leaning torso away from the wall, or tapping toes too rapidly without peak contraction.
+*   **Progressions:**
+    *   *Regression:* Feet placed closer to the wall (less leverage).
+    *   *Progression:* Feet placed further away from the wall; single-leg tibialis raises; using a tib bar.
+*   **Tutorial:** [Wall Tibialis Shin Raises Form](https://www.youtube.com/results?search_query=tibialis+raises+against+wall)
+
+### Frog Hooks (Prone Frog Glute & Hip Rotations)
+*   **Muscles:** Gluteus maximus, gluteus medius, deep hip external rotators, adductors (mobility), hamstrings.
+*   **Setup:** Lie prone on your stomach on a mat, bend knees at 90 degrees, flare knees wide to the edges of the mat, and press the soles of your feet/heels firmly together (frog position).
+*   **Form Cues:**
+    1. Press your pelvis into the floor and squeeze heels together.
+    2. Contract your glutes to lift both thighs and knees off the floor simultaneously 2–4 inches into hip extension.
+    3. Hold the peak contraction for 1–2 seconds while maintaining heel contact (the "hook").
+    4. Lower thighs back to the floor with control.
+*   **Key Mistakes:** Arching the lumbar spine excessively instead of engaging glutes, letting heels separate, or using momentum.
+*   **Tutorial:** [Frog Pumps and Prone Frog Lifts](https://www.youtube.com/results?search_query=prone+frog+lifts+glute+exercise)
+
+
 
 
 
