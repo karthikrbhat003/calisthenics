@@ -1814,6 +1814,35 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* Heavier resistance band or doubled bands; single-arm low-anchor hold; standing on one leg.
 *   **Tutorial:** [Resistance Band Isometric Row Hold](https://www.youtube.com/results?search_query=resistance+band+isometric+row+hold)
 
+### Parallel Bar Dips (AMRAP / Max Rep Effort)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps brachii, serratus anterior, lower trapezius, core.
+*   **Setup:** Mount parallel bars in a full straight-arm support with elbows locked, shoulders actively depressed down, and legs in a hollow-body position.
+*   **Form Cues:**
+    1. Descend smoothly by bending elbows until upper arms reach at least parallel (90-degree flexion) or slightly deeper with chest leaning forward slightly.
+    2. Press explosively back to full elbow extension, locking out at the top on every single repetition.
+    3. Maintain continuous, rhythmic pacing without excessive rest in the top support position until technical muscular failure.
+    4. Keep core tight and avoid kipping or swinging legs to squeeze out extra repetitions.
+*   **Key Mistakes:** Cutting depth short, failing to lock out at the top, allowing shoulders to roll forward or shrug into ears, or dropping too rapidly without eccentric control.
+*   **Progressions:**
+    *   *Regression:* Resistance band-assisted dips to failure; foot-assisted bench dips.
+    *   *Progression:* Weighted dips AMRAP (+10 kg / +20 kg); slow tempo AMRAP dips.
+*   **Tutorial:** [Max Reps Dips Form](https://www.youtube.com/results?search_query=how+to+do+max+reps+dips+calisthenics)
+
+### 1-Minute Burpee Test (60s AMRAP Burpees)
+*   **Muscles:** Full body (pectoralis major, triceps, anterior deltoids, quadriceps, glutes, core, cardiovascular system).
+*   **Setup:** Stand tall in an open area with a stopwatch ready.
+*   **Form Cues:**
+    1. Start timer and drop immediately into a squat, plant hands, and kick feet back into a full push-up plank.
+    2. Lower chest and thighs all the way to the floor.
+    3. Press up explosively, snap feet back toward hands, and launch vertically into a jump with feet leaving the floor and hands clapping overhead.
+    4. Maintain an aggressive, steady pacing cadence for the entire 60-second window, counting every valid repetition.
+*   **Key Mistakes:** Pacing too fast in the first 20 seconds and completely crashing, failing to touch chest to floor, or neglecting the full vertical jump and overhead clap.
+*   **Progressions:**
+    *   *Regression:* 60s step-back burpees without push-up; 30s burpee test.
+    *   *Progression:* Burpee tuck jump test; 2-minute burpee challenge.
+*   **Tutorial:** [1 Minute Burpee Test Standard](https://www.youtube.com/results?search_query=1+minute+burpee+test+standards)
+
+
 
 
 
