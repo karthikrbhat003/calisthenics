@@ -1842,6 +1842,62 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* Burpee tuck jump test; 2-minute burpee challenge.
 *   **Tutorial:** [1 Minute Burpee Test Standard](https://www.youtube.com/results?search_query=1+minute+burpee+test+standards)
 
+### Toe Touch to Vertical Jump (Floor Touch High Jump)
+*   **Muscles:** Quadriceps, gluteus maximus, hamstrings, calves, cardiovascular endurance.
+*   **Setup:** Stand tall with feet hip-to-shoulder width apart.
+*   **Form Cues:**
+    1. Hinge hips back and bend knees into a squat, reaching hands down to lightly touch the floor between or outside your feet.
+    2. Immediately explode straight upward off the balls of your feet into a maximum-height vertical jump.
+    3. Reach arms high overhead toward the ceiling at the apex of the jump.
+    4. Land softly toe-to-heel, absorbing the impact directly into the next downward hinge and floor touch in a continuous, elastic rhythm.
+*   **Key Mistakes:** Rounding the spine during the floor reach instead of squatting with hips back, or landing with stiff locked knees.
+*   **Tutorial:** [Floor Touch Jump Squat Technique](https://www.youtube.com/results?search_query=floor+touch+jump+squats)
+
+### Hip Open and Close the Gate (Hurdle Step In & Out)
+*   **Target:** Hip joint capsule, acetabulofemoral articulation, adductors, abductors, gluteus medius, hip flexors.
+*   **Form:** Stand tall on one leg with core engaged.
+    1. *Open the Gate:* Drive the opposite knee up to hip height, rotate the thigh laterally as far as comfortable without twisting the torso, and plant the foot down wide.
+    2. *Close the Gate:* Immediately lift the foot back up from the wide stance, rotate the thigh inward across the midline of the body, and step down to starting position.
+    3. Perform rhythmically alternating sides.
+*   **Key Mistakes:** Twisting the pelvis or torso instead of rotating purely from the hip joint, or rushing through the internal rotation phase.
+*   **Tutorial:** [Open and Close the Gate Hip Mobility](https://www.youtube.com/results?search_query=open+and+close+the+gate+warm+up)
+
+### Slow Pistol Squats (Tempo 3s Up / 3s Down)
+*   **Muscles:** Quadriceps, gluteus maximus, gluteus medius, hamstrings, calves, anterior tibialis, core.
+*   **Setup:** Stand on one leg with the non-working leg extended straight forward off the ground with toes pointed.
+*   **Form Cues:**
+    1. Initiate the descent under strict eccentric control, taking a full 3 seconds to lower down to the bottom position with working heel flat on the ground.
+    2. Pause for a split-second at full depth with non-working leg hovering off the floor.
+    3. Drive through the working midfoot and heel, taking a controlled 3 seconds to return to full standing lockout without using momentum or bouncing out of the hole.
+*   **Key Mistakes:** Dropping rapidly into the hole, allowing the working heel to lift, or caving the working knee inward.
+*   **Progressions:**
+    *   *Regression:* Box-assisted slow tempo pistol squat; holding a light counterbalance weight.
+    *   *Progression:* Deficit slow pistol squat from a box; weighted slow pistol squat.
+*   **Tutorial:** [Tempo Pistol Squat Progression](https://www.youtube.com/results?search_query=tempo+pistol+squats+technique)
+
+### Seated Butt Walks (Glute Walks / Pelvic Hip Walks)
+*   **Target:** Quadratus lumborum, gluteus medius, transverse abdominis, obliques, deep pelvic floor, hip rotators.
+*   **Setup:** Sit on the floor with legs extended straight out in front of you (L-sit / pike seating position), spine tall, arms crossed over chest or by sides.
+*   **Form Cues:**
+    1. Lift your right hip and glute off the ground, engaging the right quadratus lumborum and obliques, and step your right sit-bone forward 2–3 inches.
+    2. Lower the right hip and immediately lift the left hip, stepping the left sit-bone forward.
+    3. Walk forward across the floor for 30 seconds using only pelvic articulation, then reverse and walk backward for 30 seconds.
+    4. Keep legs straight and avoid swinging legs from side to side; isolate movement to the pelvis and hips.
+*   **Key Mistakes:** Bending knees to cheat the walk, slouching into a rounded spine, or swinging shoulders excessively.
+*   **Tutorial:** [Butt Walks Hip Mobility](https://www.youtube.com/results?search_query=butt+walks+hip+mobility+exercise)
+
+### Deep Squat Calf Raises (Grounded Squat Heel Raises)
+*   **Muscles:** Soleus, gastrocnemius, tibialis posterior, plantar fascia, quadriceps, ankle stabilizers.
+*   **Setup:** Descend into a deep, below-parallel bodyweight squat with chest tall, knees tracking over toes, and hips resting near heels.
+*   **Form Cues:**
+    1. While holding the isometric deep squat bottom position, press firmly through the balls of both feet to elevate your heels as high off the floor as possible into maximal plantarflexion.
+    2. Squeeze the calves and soleus at the peak for 1 second.
+    3. Lower heels back down to touch the ground under control.
+    4. Repeat continuously for the prescribed duration (e.g., 60 seconds) without rising out of the deep squat.
+*   **Key Mistakes:** Rising out of the deep squat position to relieve quad fatigue, rocking back and forth erratically, or failing to hit peak heel height.
+*   **Tutorial:** [Deep Squat Calf Raises Technique](https://www.youtube.com/results?search_query=deep+squat+calf+raises)
+
+
 
 
 
