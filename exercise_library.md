@@ -1533,6 +1533,35 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Bending knees to reach further with hands, hunching shoulders, or holding tension in the neck.
 *   **Tutorial:** [Forward Reach Hamstring Stretch Guide](https://www.youtube.com/results?search_query=standing+pike+forward+reach+hamstring+stretch)
 
+### Plank to Deep Squat (Plank to Frogger)
+*   **Muscles:** Hip flexors, quadriceps, glutes, core (rectus abdominis), shoulders (anterior deltoids).
+*   **Setup:** Begin in a high push-up plank position with hands beneath shoulders and body in a rigid straight line.
+*   **Form Cues:**
+    1. Brace core and explosively hop or step both feet forward simultaneously to the outside of your hands.
+    2. Drop hips deeply into a full squat while lifting hands off the floor into a prayer or forward counter-balance position, keeping chest tall and spine upright.
+    3. Drive knees outward over toes in line with ankles.
+    4. Place hands back firmly on the ground inside feet and jump or step back into the high plank position with control.
+*   **Key Mistakes:** Rounding the lumbar spine in the squat, failing to drop hips below knee level, or letting hips sag in the plank return.
+*   **Progressions:**
+    *   *Regression:* Stepping one foot at a time to outside of hands; hands elevated on a sturdy bench.
+    *   *Progression:* Explosive jump with tempo pauses in deep squat; adding an immediate vertical jump out of the squat.
+*   **Tutorial:** [Plank to Deep Squat Frogger Form](https://www.youtube.com/results?search_query=plank+to+deep+squat+frogger)
+
+### Pike Hold (Floor / Box Pike Isometric Hold)
+*   **Muscles:** Anterior deltoids, serratus anterior, upper trapezius, core compression (transverse abdominis), hamstrings.
+*   **Setup:** Position yourself on the floor or with feet elevated on a sturdy box/chair/bench, hands placed shoulder-width apart on the floor with fingers spread wide.
+*   **Form Cues:**
+    1. Walk feet forward (or place toes on the elevated surface) and hike hips high until your torso is as close to vertical over your shoulders and wrists as possible (90-degree hip bend).
+    2. Actively push the floor away, elevating your scapulae (shrugging shoulders up toward ears).
+    3. Keep elbows locked straight and align your head between your biceps.
+    4. Squeeze quadriceps and brace core to maintain steady vertical compression for the prescribed duration.
+*   **Key Mistakes:** Bent elbows, shoulders sagging instead of elevating, hips drifting behind hands, or holding breath.
+*   **Progressions:**
+    *   *Regression:* Floor Pike Hold with knees bent or hands on elevated surface.
+    *   *Progression:* Box Pike Hold with elevated feet; Single-Leg Box Pike Hold; Wall Walk to Handstand Hold.
+*   **Tutorial:** [Pike Hold for Handstand Strength](https://www.youtube.com/results?search_query=pike+hold+handstand+progression)
+
+
 
 
 
