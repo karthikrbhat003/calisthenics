@@ -1419,5 +1419,36 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Bending knees to cheat the range of motion, flaring ankles outward on calf raises, or rushing the rocking transition.
 *   **Tutorial:** [Heel and Toe Raise Exercise](https://www.youtube.com/results?search_query=standing+calf+raise+and+tibialis+toe+raise+combo)
 
+### High Pull-ups (Explosive Bar High Pulls)
+*   **Muscles:** Latissimus dorsi, teres major, rear deltoids, biceps brachii, brachialis, forearms, core.
+*   **Form Cues:** Grip the bar slightly wider than shoulder-width with an overhand pronated grip. Initiate from a dead hang with explosive scapular depression and drive elbows downward and backward forcefully. Pull with maximum velocity aiming to clear the bar below collarbone height (sternum or upper abdomen to bar) before descending under control.
+*   **Key Mistakes:** Relying purely on excessive knee kipping, pulling asymmetrically, or failing to decelerate smoothly into the bottom hang.
+*   **Tutorial:** [Explosive High Pull-up Guide](https://www.youtube.com/results?search_query=explosive+high+pull+up+tutorial)
+
+### Chin-ups (Standard)
+*   **Muscles:** Biceps brachii, brachialis, latissimus dorsi, teres major, lower/middle trapezius, core.
+*   **Form Cues:** Grip the bar with an underhand (supinated) grip, hands shoulder-width apart. Begin in a full dead hang with straight arms and hollow body tension. Depress the shoulder blades and pull smoothly until your chin clears the top of the bar. Lower with full control back to full arm lockout.
+*   **Key Mistakes:** Kicking legs for momentum, craning the neck to reach the bar, or cutting the eccentric range of motion short at the bottom.
+*   **Tutorial:** [Standard Chin-up Technique](https://www.youtube.com/results?search_query=calisthenics+movement+chin+ups)
+
+### Decline Wide Push-ups
+*   **Muscles:** Upper pectoralis major (clavicular head), anterior deltoids, triceps brachii, serratus anterior, core.
+*   **Form Cues:** Elevate your feet on a bench, chair, or box, and place your hands on the floor wider than shoulder-width apart with fingers turned slightly outward. Maintain a rigid plank from heels to ears. Lower your chest smoothly toward the floor until elbows reach 90 degrees, then press powerfully back to lockout, protracting the scapulae at the peak.
+*   **Key Mistakes:** Sagging hips into lumbar hyperextension, flaring elbows straight out perpendicular to the torso, or failing to achieve full depth.
+*   **Tutorial:** [Decline Wide Push-up Form](https://www.youtube.com/results?search_query=decline+wide+push+ups+proper+form)
+
+### Dumbbell Bicep Curls
+*   **Muscles:** Biceps brachii (long & short heads), brachialis, brachioradialis, forearm flexors.
+*   **Form Cues:** Stand tall with feet hip-width apart holding a dumbbell in each hand at your sides. Pin elbows stationary against your ribs. Curl the weights upward while supinating your forearms (turning palms up toward the ceiling). Squeeze the biceps for 1 second at full peak contraction, then lower slowly through a 2-3 second eccentric descent.
+*   **Key Mistakes:** Swinging elbows forward or backward to cheat momentum, hyperextending the lower back, or letting the weights drop without control.
+*   **Tutorial:** [Dumbbell Bicep Curl Form](https://www.youtube.com/results?search_query=dumbbell+bicep+curl+proper+form)
+
+### Dumbbell Overhead Tricep Extensions
+*   **Muscles:** Triceps brachii (specifically long head), anconeus, core stabilizers.
+*   **Form Cues:** Stand or sit upright holding a dumbbell overhead with both hands securely cupping the top weight plate (or one in each hand). Keep your upper arms vertical and tucked close to your ears. Lower the dumbbell behind your head by bending only at the elbows until forearms pass parallel to the floor, then extend through your triceps back to overhead lockout.
+*   **Key Mistakes:** Flaring elbows excessively out to the sides, arching the lower back, or letting upper arms drift back and forth.
+*   **Tutorial:** [Overhead Dumbbell Tricep Extension](https://www.youtube.com/results?search_query=dumbbell+overhead+tricep+extension+proper+form)
+
+
 
 
