@@ -14,13 +14,13 @@
 | **Week 01** | Oct 01 - Oct 04 | Inversion Alignment, Functional HIIT & Loaded Mobility | 🟩 Completed | [Week 01 README](Week_01/README.md) |
 | **Week 02** | Oct 05 - Oct 11 | Core Endurance, Lower-Body, Upper-Body & Skill Calisthenics | 🟩 Completed | [Week 02 README](Week_02/README.md) |
 | **Week 03** | Oct 12 - Oct 18 | Triceps & Push Mastery, Skill Conditioning & 32-Min EMOM | 🟩 Completed | [Week 03 README](Week_03/README.md) |
-| **Week 04** | Oct 19 - Oct 25 | Calisthenics Strength | ⬜ Planned | *N/A* |
+| **Week 04** | Oct 19 - Oct 25 | Muscle-Up Mastery, Bar Walks & Upper-Body Strength | 🟨 In Progress | [Week 04 README](Week_04/README.md) |
 | **Week 05** | Oct 26 - Nov 01 | Calisthenics Strength | ⬜ Planned | *N/A* |
 
 ---
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `9`
+- **Total Sessions Completed:** `10`
 - **Most frequent workout style:** `Calisthenics Skills, Push & Pull Strength, HIIT & Core`
 - **Overall monthly energy average:** `N/A`

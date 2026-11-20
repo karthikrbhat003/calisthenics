@@ -1561,6 +1561,74 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* Box Pike Hold with elevated feet; Single-Leg Box Pike Hold; Wall Walk to Handstand Hold.
 *   **Tutorial:** [Pike Hold for Handstand Strength](https://www.youtube.com/results?search_query=pike+hold+handstand+progression)
 
+### Wide-Stance Alternate Toe Touch and Twist (Standing Windmill Stretch)
+*   **Target:** Hamstrings, adductors, thoracic spine rotation, obliques, lower back mobility.
+*   **Form:** Stand with feet spread wide (double shoulder-width), arms extended sideways parallel to the floor. Hinge at the hips with a flat back, reaching your right hand down to touch your left toes or outside the ankle. Simultaneously rotate your chest to the left and extend your left arm toward the ceiling, turning your head to gaze at your top hand. Hold for 1 second, return to standing, and repeat to the opposite side.
+*   **Key Mistakes:** Rounding the lower back excessively instead of hinging, bending knees prematurely, or whipping the spine into rotation.
+*   **Tutorial:** [Standing Windmill Toe Touch Stretch](https://www.youtube.com/results?search_query=standing+windmill+toe+touch+stretch)
+
+### Wide-Stance Lateral Lunge Stretch (Side-to-Side Adductor Mobility)
+*   **Target:** Hip adductors, groin, ankle dorsiflexion, glutes, knee joint mobility.
+*   **Form:** Stand in a wide straddle stance with feet pointing slightly outward. Shift your hips back and down to one side, deeply bending the active knee into a lateral lunge while keeping the opposite leg completely straight with the foot flat or toe rotated toward the ceiling. Keep your chest tall and sink hips low to stretch the inner thigh. Press back to center and smoothly shift to the other side.
+*   **Key Mistakes:** Letting the bent knee collapse inward past the toes, lifting the heel of the lunging foot, or hunching the shoulders.
+*   **Tutorial:** [Side Lunge Lateral Adductor Stretch](https://www.youtube.com/results?search_query=side+lunge+adductor+stretch)
+
+### Scapular Pull-ups (Hanging Scapula Pulls)
+*   **Muscles:** Lower and middle trapezius, latissimus dorsi, rhomboids, serratus anterior, forearm flexors (grip).
+*   **Setup:** Hang from a pull-up bar with an overhand pronated grip, hands shoulder-width apart, arms fully locked in a relaxed dead hang.
+*   **Form Cues:**
+    1. Keep elbows completely locked and straight throughout the entire repetition.
+    2. Initiate movement solely from the shoulder blades by pulling your shoulders down away from your ears (scapular depression) and slightly together (retraction).
+    3. Elevate your collarbone and chest toward the bar by 2–4 inches.
+    4. Pause at the peak for 1–2 seconds, then slowly lower back into a full passive dead hang.
+*   **Key Mistakes:** Bending elbows to initiate the pull, swinging the body with momentum, or using kipping.
+*   **Progressions:**
+    *   *Regression:* Feet-assisted scapular pulls with toes touching a box or ground.
+    *   *Progression:* Weighted hanging scapular pulls; Single-arm scapular pull-ups.
+*   **Tutorial:** [Scapular Pull-ups Execution Guide](https://www.youtube.com/results?search_query=how+to+do+scapular+pull+ups)
+
+### Chin-up to Muscle-up Grip Switch
+*   **Muscles:** Biceps brachii, brachialis, latissimus dorsi, wrist flexors/extensors, forearm grip strength.
+*   **Setup:** Hang from a pull-up bar with an underhand (supinated) chin-up grip.
+*   **Form Cues:**
+    1. Explode upward into a powerful chin-up, driving chest toward the bar with maximum vertical acceleration.
+    2. At the apex of the pull (or during weightless transition over the bar), rapidly open hands, rotate wrists forward, and switch grip into an overhand pronated or false grip position over the bar.
+    3. Catch the bar with controlled tension, stabilizing the shoulder girdle before lowering down with control.
+*   **Key Mistakes:** Hesitating during the grip change, letting go of the bar without adequate bar clearance, or failing to lock the core.
+*   **Progressions:**
+    *   *Regression:* Alternating one hand switch at a time on low bar or with feet supported on a box.
+    *   *Progression:* Unbroken dynamic switch to immediate straight bar dip press-out (full muscle-up).
+*   **Tutorial:** [Grip Switch for Muscle-up](https://www.youtube.com/results?search_query=chin+up+to+muscle+up+grip+switch+progression)
+
+### Parallel Bar Support Walks (Dip Bar Walks)
+*   **Muscles:** Anterior deltoids, pectoralis major, triceps brachii, serratus anterior, trapezius, core (rectus abdominis).
+*   **Setup:** Mount parallel dip bars into a full straight-arm support position with elbows locked, shoulders depressed down away from ears, and body in a rigid hollow plank.
+*   **Form Cues:**
+    1. Maintain locked elbows and strong scapular depression (active push).
+    2. Shift weight subtly to the left arm and walk the right hand forward 4–6 inches along the bar.
+    3. Shift weight and walk the left hand forward to match.
+    4. Travel the full length of the dip bars, then reverse and walk backward to the starting position without bending elbows or dropping shoulders.
+*   **Key Mistakes:** Allowing shoulders to shrug up into ears, bending arms into a partial dip, swinging hips wildly, or looking down and collapsing thoracic posture.
+*   **Progressions:**
+    *   *Regression:* Static parallel bar support holds; walking on shorter parallel bars.
+    *   *Progression:* Weighted dip bar walks (weighted vest or belt); alternating hand taps on bars.
+*   **Tutorial:** [Dip Bar Support Walk Drill](https://www.youtube.com/results?search_query=parallel+bar+support+walks)
+
+### Prone Arm Raise & Reach Back with Lift
+*   **Target:** Lower and middle trapezius, rear deltoids, rhomboids, erector spinae, latissimus dorsi, shoulder extension mobility.
+*   **Setup:** Lie completely flat on your stomach with legs extended straight and toes pointed.
+*   **Form Cues:**
+    1. Begin with arms extended overhead on the floor.
+    2. Lift chest and arms slightly off the ground, then sweep arms wide in an arc down past your hips toward your feet.
+    3. At the bottom near hips, squeeze your shoulder blades together aggressively and lift your hands as high toward the ceiling as possible into deep shoulder extension.
+    4. Hold the top contraction for 1–2 seconds, then smoothly sweep arms forward back overhead.
+*   **Key Mistakes:** Excessive hyperextension of the cervical neck (keep chin tucked), allowing hands to drag on the floor, or using momentum instead of muscular contraction.
+*   **Progressions:**
+    *   *Regression:* Performing movement with forehead resting on a mat; smaller range of motion.
+    *   *Progression:* Adding light micro-weights (0.5–1 kg plates); isometric pauses at both overhead and hip positions.
+*   **Tutorial:** [Prone Shoulder Extension and Arm Lift](https://www.youtube.com/results?search_query=prone+arm+raise+reach+back+scapular)
+
+
 
 
 
