@@ -1287,7 +1287,7 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Form:** Start in a solid high plank. Press the floor away and pike hips up and back into a downward dog while reaching your right hand back across your body to tap your left toes/ankle. Smoothly return to high plank, then repeat on the opposite side.
 *   **Tutorial:** [Plank to Pike Toe Tap Tutorial](https://www.youtube.com/results?search_query=plank+to+pike+toe+touch+form)
 
-### Prone I - Y - T Raises (with Isometric Holds)
+### Prone I-Y-T Raises (with Isometric Holds)
 *   **Target:** Lower/middle trapezius, rhomboids, rear deltoids, rotator cuff, scapular upward/downward rotation.
 *   **Form:** Lie face down on a mat with forehead lightly resting on the floor. Sequentially perform 1) "I" raises (arms straight down by sides or overhead with thumbs up), 2) "Y" raises (arms angled 45° overhead with thumbs pointing toward ceiling for lower traps), and 3) "T" raises (arms out at 90° horizontally squeezing shoulder blades). Hold the peak contraction of the final rep of each position for 10 seconds.
 *   **Tutorial:** [Prone I Y T Raises Proper Form](https://www.youtube.com/results?search_query=prone+i+y+t+raises+exercise)
@@ -1991,6 +1991,60 @@ This library collates **every single exercise** from your logged sessions. Use i
     4. Lower thighs back to the floor with control.
 *   **Key Mistakes:** Arching the lumbar spine excessively instead of engaging glutes, letting heels separate, or using momentum.
 *   **Tutorial:** [Frog Pumps and Prone Frog Lifts](https://www.youtube.com/results?search_query=prone+frog+lifts+glute+exercise)
+
+### Bear Position Opposite Elbow Tap to Leg Lift & Scorpion Twist Flow
+*   **Muscles:** Core (transverse abdominis, obliques), serratus anterior, shoulders, gluteus maximus, hip flexors, thoracic spine extensors.
+*   **Setup:** Begin in a quadruped bear crawl hold with knees bent at 90 degrees hovering 1–2 inches off the floor directly under hips, and hands planted beneath shoulders.
+*   **Form Cues:**
+    1. Maintain stable hovering knees and touch one hand to the opposite elbow/shoulder without letting hips sway.
+    2. Plant the hand back down, kick the opposite leg straight up and back into a three-legged dog/bear position.
+    3. Bend the elevated knee and rotate the hip open, sweeping the foot across your body toward the opposite hand in a deep scorpion spinal twist.
+    4. Squeeze the glute at the peak of the scorpion twist, then smoothly reverse the arc back into the hovering bear crawl hold.
+    5. Alternate sides fluidly.
+*   **Key Mistakes:** Allowing knees to touch the ground during the bear transition, collapsing through the grounded shoulder, or rushing the scorpion rotation.
+*   **Tutorial:** [Bear Crawl to Scorpion Flow](https://www.youtube.com/results?search_query=bear+crawl+to+scorpion+kick+flow)
+
+### Deep Squat Open and Close the Gate (Deep Squat Hip Mobility Flow)
+*   **Target:** Hip adductors, abductors, internal and external hip rotators, pelvic floor, ankle dorsiflexion.
+*   **Setup:** Descend into a comfortable, deep flat-footed bodyweight squat with palms together at chest height and elbows pressed against the inner knees.
+*   **Form Cues:**
+    1. *Open the Gate:* Actively press knees outward as wide as possible using hip abductors and gentle elbow counter-pressure, opening the groin and pelvic basin. Hold 2 seconds.
+    2. *Close the Gate:* Without lifting your heels or rising out of the deep squat, draw knees inward toward each other into internal hip rotation (letting knees touch or approach midline).
+    3. Smoothly alternate opening and closing the hip gates to dynamically lubricate the acetabulofemoral joints.
+*   **Key Mistakes:** Rising onto toes, collapsing into a severely rounded lumbar spine, or forcing knees past comfortable ranges of motion.
+*   **Tutorial:** [Deep Squat Hip Openers Internal External Rotation](https://www.youtube.com/results?search_query=deep+squat+hip+internal+external+rotation)
+
+### Fist Rotations (Clenched Fist Wrist Circles)
+*   **Target:** Wrist joint capsules, extensor and flexor carpi radialis/ulnaris tendons, grip tendons.
+*   **Form:** Extend arms forward at shoulder height. Clench both hands into tight fists. Roll fists slowly in full circular rotations outward (clockwise) and inward (anti-clockwise), taking 2–3 seconds per complete circle. Focus on articulating through the entire range of radial, ulnar, flexion, and extension planes.
+*   **Key Mistakes:** Moving elbows and shoulders instead of isolating the wrists, or opening the fingers during the circle.
+*   **Tutorial:** [Fist Circles Wrist Mobility](https://www.youtube.com/results?search_query=clenched+fist+wrist+circles+warmup)
+
+### Team Game Day Calisthenics Relay (Pull-ups, Push-ups, Squats, Dips & Leg Raises)
+*   **Muscles:** Full-body calisthenics integration (lats, chest, triceps, quadriceps, glutes, core, cardiovascular system).
+*   **Structure:** A competitive two-team calisthenics game day format. Teams alternate or race through high-density relay intervals combining the fundamental bodyweight movements:
+    1. *Vertical Pull:* Pull-ups (Standard / Chest-to-Bar).
+    2. *Horizontal Push:* Push-ups (Strict / Plyometric).
+    3. *Lower Body:* Bodyweight Squats / Jump Squats.
+    4. *Core Compression:* Hanging Knee Raises / Hanging Leg Raises.
+    5. *Vertical Push:* Parallel Bar Dips.
+*   **Form Cues:** Strict competition standards must be upheld: full lockout at bottom and chin over bar on pull-ups; chest to floor and full elbow extension on push-ups; below-parallel depth on squats; knees/toes to bar height on leg raises; and 90-degree depth to full lockout on dips.
+*   **Tutorial:** [Calisthenics Team Workout Relays](https://www.youtube.com/results?search_query=calisthenics+team+relay+workout)
+
+### 100 Burpee EMOM Challenge (10 Reps × 10 Sets on the Minute)
+*   **Muscles:** Full body (pectoralis major, triceps, anterior deltoids, quadriceps, glutes, core, anaerobic-glycolytic capacity).
+*   **Setup:** Set a timer for 10 minutes configured for Every Minute On the Minute (EMOM).
+*   **Form Cues:**
+    1. At the top of every minute, perform exactly 10 full-range burpees: drop chest and thighs completely flat to the floor, press up explosively, snap feet forward, and jump vertically with hands clapping overhead.
+    2. Complete all 10 reps as fast and efficiently as possible (typically 20–30 seconds of work).
+    3. Use the remaining seconds of the minute to rest, recover, and regulate breathing.
+    4. Repeat at the start of each new minute for 10 consecutive minutes (100 total burpees).
+*   **Key Mistakes:** Going 100% all-out in the first 2 minutes and failing to complete subsequent rounds within the minute, cutting push-up depth, or skipping the vertical jump.
+*   **Progressions:**
+    *   *Regression:* 6 to 8 burpees per minute; 10-minute EMOM of burpees without push-up.
+    *   *Progression:* 12 to 15 burpees per minute; burpee tuck jumps.
+*   **Tutorial:** [100 Burpee EMOM Workout](https://www.youtube.com/results?search_query=100+burpees+in+10+minutes+emom)
+
 
 
 
