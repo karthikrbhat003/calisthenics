@@ -1628,6 +1628,120 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* Adding light micro-weights (0.5–1 kg plates); isometric pauses at both overhead and hip positions.
 *   **Tutorial:** [Prone Shoulder Extension and Arm Lift](https://www.youtube.com/results?search_query=prone+arm+raise+reach+back+scapular)
 
+### Gate Pose Pelvic Thrusts and Sit-Backs (Half-Kneeling Adductor Rock)
+*   **Target:** Hip adductors (inner groin), hip capsule, glutes, pelvic floor.
+*   **Form:** Begin kneeling on one knee with the opposite leg extended straight out to the side, foot flat and toes pointing forward (Gate Pose setup). Drive your hips forward into full extension (pelvic thrust), squeezing the glutes. Then smoothly hinge at the hips and sit your glutes back toward your kneeling heel to create a deep dynamic stretch through the inner thigh. Perform smoothly for prescribed reps before switching sides.
+*   **Key Mistakes:** Rounding the spine when sitting back, failing to extend hips at the top, or turning the foot outward erratically.
+*   **Tutorial:** [Gate Pose Adductor Rock Form](https://www.youtube.com/results?search_query=half+kneeling+adductor+rock+gate+pose)
+
+### Half-Kneeling Lunge Forward Drive & Sit-Back (Hip Flexor to Hamstring Flow)
+*   **Target:** Hip flexors (psoas/rectus femoris), hamstrings, ankle dorsiflexion, calves.
+*   **Form:** Start in a half-kneeling 90-90 lunge. Drive your pelvis forward and down, allowing the front knee to track past toes to load ankle dorsiflexion and open the rear hip flexor. Pause for 1-2 seconds, then shift your hips backward, straightening the front leg, pulling toes toward shin, and hinging torso forward over the lead leg into a hamstring stretch. Flow dynamically between both positions.
+*   **Key Mistakes:** Arching the lumbar spine during the forward drive, rushing the hamstring sit-back, or bouncing.
+*   **Tutorial:** [Half Kneeling Lunge to Hamstring Stretch Flow](https://www.youtube.com/results?search_query=half+kneeling+lunge+to+half+split+flow)
+
+### Wall Sit (Isometric Wall Squat Hold)
+*   **Muscles:** Quadriceps (vastus medialis, rectus femoris), gluteus maximus, hamstrings, calves, core.
+*   **Setup:** Stand with back flat against a sturdy wall, feet shoulder-width apart and roughly 2 feet away from the wall.
+*   **Form Cues:**
+    1. Slide down the wall until thighs are parallel to the floor, forming a 90-degree angle at both hips and knees.
+    2. Ensure knees track directly over ankles and do not cave inward.
+    3. Press your entire back—especially lower back—firmly against the wall.
+    4. Keep hands off thighs (cross arms over chest or rest them by your sides) and breathe steadily for the full duration.
+*   **Key Mistakes:** Letting knees cave inward, resting hands on knees/thighs to cheat quad load, or sliding down too low or high.
+*   **Progressions:**
+    *   *Regression:* Higher squat angle (above 90 degrees); hands lightly touching thighs.
+    *   *Progression:* Single-Leg Wall Sit; holding a dumbbell/weight plate in lap; marching feet.
+*   **Tutorial:** [Wall Sit Perfect Form Guide](https://www.youtube.com/results?search_query=how+to+do+a+wall+sit+correctly)
+
+### Pistol Squat Bottom Position Hold (Single-Leg Isometric Bottom Hold)
+*   **Muscles:** Quadriceps, gluteus medius/maximus, hip flexors (psoas), calves, ankle dorsiflexion mobility, core.
+*   **Setup:** Stand on one leg with the non-working leg extended straight forward off the ground.
+*   **Form Cues:**
+    1. Descend smoothly into the absolute bottom position of a full pistol squat with working glute near the heel.
+    2. Keep the non-working leg completely locked straight, hovering parallel to the floor with toes pointed.
+    3. Extend arms forward for counter-balance, keep working foot rooted with heel grounded, and compress torso toward thigh.
+    4. Maintain the deep isometric hold under tension without collapsing into passive rest on the calf.
+*   **Key Mistakes:** Allowing the heel to peel off the floor, letting the extended leg touch the ground, or losing spinal integrity.
+*   **Progressions:**
+    *   *Regression:* Holding onto a pole/rings for support; sitting on a low box or yoga block.
+    *   *Progression:* Hands clasped behind back (free-standing deficit hold); weighted pistol hold with a kettlebell.
+*   **Tutorial:** [Pistol Squat Bottom Hold Mobility](https://www.youtube.com/results?search_query=pistol+squat+bottom+position+hold)
+
+### Narrow to Wide Jump Squats (In-and-Out Squat Jumps)
+*   **Muscles:** Quadriceps, glutes, hamstrings, adductors, calves, cardiovascular endurance.
+*   **Setup:** Stand tall with feet close together (hip-width or narrower).
+*   **Form Cues:**
+    1. Drop into a narrow squat, then explode vertically off the balls of your feet.
+    2. Mid-air, spread feet outward and land softly in a wide sumo squat stance, immediately absorbing impact into a deep wide squat.
+    3. Explode out of the wide squat and snap feet back together to land in a narrow squat.
+    4. Maintain a rapid, springy, continuous rhythm with soft toe-to-heel landings.
+*   **Key Mistakes:** Stiff heavy landings, collapsing knees inward, or failing to hit parallel depth in both stances.
+*   **Progressions:**
+    *   *Regression:* Step-out squats (no jumping); shallow depth jumps.
+    *   *Progression:* Holding a light dumbbell in goblet position; 180° rotation between jumps.
+*   **Tutorial:** [In and Out Squat Jumps Tutorial](https://www.youtube.com/results?search_query=in+and+out+jump+squats)
+
+### Half Squat Pulses
+*   **Muscles:** Quadriceps, gluteus maximus, adductors, calves.
+*   **Form:** Lower into a half squat position (hips just above knee level). Without standing up or descending into a full deep squat, pulse rhythmically up and down within a 2-to-3 inch range of motion. Keep tension continuous on the quadriceps and glutes throughout the full set.
+*   **Key Mistakes:** Standing up to release muscular tension, bouncing joints passively, or rounding lumbar spine.
+*   **Tutorial:** [Squat Pulses Proper Form](https://www.youtube.com/results?search_query=squat+pulses+proper+form)
+
+### Prisoner Squats
+*   **Muscles:** Quadriceps, gluteus maximus, hamstrings, upper back (rhomboids/trapezius), core.
+*   **Setup:** Stand with feet shoulder-width apart, interlace fingers behind the back of your head, and flare elbows wide.
+*   **Form Cues:**
+    1. Keep elbows pulled back to engage the thoracic extensors and keep chest proud.
+    2. Hinge at hips and bend knees, squatting down until hip crease is below knee level.
+    3. Drive through whole feet to return to standing, fully extending hips at the top.
+*   **Key Mistakes:** Pulling the head forward with hands (straining cervical neck), collapsing elbows forward, or lifting heels.
+*   **Progressions:**
+    *   *Regression:* Air squats with arms forward.
+    *   *Progression:* Jump prisoner squats; tempo slow eccentric prisoner squats.
+*   **Tutorial:** [Prisoner Squats Exercise Guide](https://www.youtube.com/results?search_query=prisoner+squats+form)
+
+### Glute Bridge Thrusts (Floor Hip Thrusts)
+*   **Muscles:** Gluteus maximus, hamstrings, transverse abdominis, spinal erectors.
+*   **Setup:** Lie supine on floor with knees bent at 90 degrees and feet flat on the ground hip-width apart.
+*   **Form Cues:**
+    1. Drive through your heels and thrust your hips toward the ceiling until thighs, hips, and torso form a straight diagonal line.
+    2. Aggressively squeeze glutes at the top lockout for 1-2 seconds without hyper-extending the lumbar spine.
+    3. Lower hips with control until lightly hovering above the floor, then immediately thrust back up.
+*   **Key Mistakes:** Arching lower back instead of engaging glutes, placing feet too far forward (over-emphasizing hamstrings) or too close.
+*   **Progressions:**
+    *   *Regression:* Static glute bridge hold.
+    *   *Progression:* Single-leg glute bridge; barbell/dumbbell weighted hip thrusts on bench.
+*   **Tutorial:** [Glute Bridge Thrust Technique](https://www.youtube.com/results?search_query=how+to+do+glute+bridge+thrust)
+
+### Single-Arm Overhead Dumbbell March (Waiter's March)
+*   **Muscles:** Deltoids, trapezius, serratus anterior, obliques (rotational & lateral core stability), hip flexors, calves.
+*   **Setup:** Clean a dumbbell or kettlebell overhead with one arm, locking the elbow completely with bicep close to the ear.
+*   **Form Cues:**
+    1. Actively press upward through the shoulder (scapular elevation) to stabilize the weight overhead.
+    2. Keep rib cage pulled down and pelvis neutral to prevent lumbar hyperextension.
+    3. March in place with a steady, rhythmic cadence, driving one knee up to hip level (90 degrees) while standing tall on the grounded leg.
+    4. Maintain vertical alignment and resist lateral torso leaning for the prescribed duration, then switch hands.
+*   **Key Mistakes:** Bending the overhead elbow, leaning to the opposite side, arching lower back, or rushing marches.
+*   **Progressions:**
+    *   *Regression:* Marching with weight at shoulder rack position; lighter dumbbell.
+    *   *Progression:* Heavy kettlebell bottoms-up march; walking waiter's carry.
+*   **Tutorial:** [Overhead Waiters March Form](https://www.youtube.com/results?search_query=single+arm+overhead+waiter+march)
+
+### Standing Bilateral Calf Raises
+*   **Muscles:** Gastrocnemius, soleus, tibialis posterior, plantar fascia.
+*   **Setup:** Stand tall with feet hip-width apart on flat ground or with balls of feet on an elevated step ledge.
+*   **Form Cues:**
+    1. Press evenly through the balls of both feet, driving straight up into full plantarflexion.
+    2. Squeeze calves forcefully at the top peak contraction for 1 second.
+    3. Lower with control (2-second eccentric phase) until heels lightly touch floor or stretch below step level.
+*   **Key Mistakes:** Bouncing quickly at the bottom, rolling ankles outward, or bending knees.
+*   **Progressions:**
+    *   *Regression:* Seated calf raises; wall-supported standing raises.
+    *   *Progression:* Deficit single-leg calf raises; weighted dumbbell calf raises.
+*   **Tutorial:** [Calf Raises Proper Technique](https://www.youtube.com/results?search_query=standing+calf+raises+technique)
+
+
 
 
 
