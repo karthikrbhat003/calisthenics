@@ -1449,6 +1449,25 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Flaring elbows excessively out to the sides, arching the lower back, or letting upper arms drift back and forth.
 *   **Tutorial:** [Overhead Dumbbell Tricep Extension](https://www.youtube.com/results?search_query=dumbbell+overhead+tricep+extension+proper+form)
 
+### Monkey Bar Traverse (Monkey Bars)
+*   **Muscles:** Forearm flexors, finger intrinsics (grip strength), latissimus dorsi, rhomboids, anterior deltoids, core anti-swing stabilizers.
+*   **Form Cues:** Hang from the first bar with an active overhand grip and engaged shoulders (avoid dead-hanging passively). Swing forward smoothly using controlled momentum, reaching one hand to grasp the next rung. Continue alternating hand-over-hand across the ladder length while maintaining core tension and shoulder depression to protect the glenohumeral joint.
+*   **Key Mistakes:** Passive dead-hanging with loose shoulders causing jarring impact on connective tissues, wild flailing with lower body, or skipping rungs prematurely.
+*   **Tutorial:** [Monkey Bars Calisthenics Technique](https://www.youtube.com/results?search_query=monkey+bars+calisthenics+technique+grip)
+
+### Elbow Lever Practice
+*   **Muscles:** Pectoralis major/minor, anterior deltoids, triceps brachii, wrist flexors, rectus abdominis, erector spinae, glutes.
+*   **Form Cues:** Place hands flat on the floor or parallel bars with fingers turned outward or backward ($90^\circ\text{–}180^\circ$). Place both elbows firmly against your abdomen or near your anterior superior iliac spine (ASIS). Lean your shoulders forward beyond your hands, pivot onto your wrists, and lift your legs into a horizontal, straight-body balance parallel to the ground.
+*   **Key Mistakes:** Elbows slipping outward off the abdominal wall, drooping legs/lumbar sag, or jumping up with momentum instead of smoothly shifting weight forward.
+*   **Tutorial:** [Elbow Lever Progression](https://www.youtube.com/results?search_query=elbow+lever+progression+calisthenics)
+
+### Single-Leg Burpees
+*   **Muscles:** Quadriceps, gluteus maximus, gastrocnemius/soleus, pectoralis major, triceps, rectus abdominis, cardiovascular system.
+*   **Form Cues:** Stand balanced on one working leg with the other leg lifted off the floor. Drop hands to the floor, hop the working foot back into a single-leg push-up plank, and perform a strict push-up while keeping the suspended leg elevated. Jump the working foot back toward your hands and explosively jump straight up off the single leg, reaching overhead and landing softly on the same foot.
+*   **Key Mistakes:** Allowing the non-working foot to touch down for balance, sagging the lower back on the push-up, or letting the knee collapse inward on the jump landing.
+*   **Tutorial:** [Single Leg Burpees Proper Form](https://www.youtube.com/results?search_query=single+leg+burpees+proper+form)
+
+
 
 
 
