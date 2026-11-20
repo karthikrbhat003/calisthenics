@@ -1503,6 +1503,37 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Compromising plank alignment (hips sagging or piking) to squeeze out messy reps, short-changing lockout, or bouncing chest off the ground.
 *   **Tutorial:** [Push-ups to Failure AMRAP Guide](https://www.youtube.com/results?search_query=how+to+do+push+ups+to+failure+amrap)
 
+### Multi-Angle Weighted Wrist Conditioning (Supinated, Pronated & Ulnar Deviations)
+*   **Target:** Forearm flexors, extensors, pronator teres, supinator, flexor/extensor carpi ulnaris, wrist capsule ligaments.
+*   **Form:** Rest your forearm flat on a bench or thigh with your wrist hanging over the edge. Holding a light dumbbell (2.5–5 kg), perform controlled sets through all functional vectors: 1) Palm up wrist curls (supinated wrist flexion), 2) Palm down wrist extensions (pronated extension), 3) Thumbs up wrist deviation (radial and ulnar deviation levers), and 4) Pronation/supination rotational twists. Move strictly through the wrist joint without moving your forearm.
+*   **Key Mistakes:** Using excessive weight causing elbow compensation, moving the entire arm, or snapping the wrist at the end of range.
+*   **Tutorial:** [Wrist Strengthening with Dumbbells](https://www.youtube.com/results?search_query=wrist+strengthening+with+dumbbells+supinated+pronated)
+
+### Prone Swimmer Hovers (Shoulder CARs & Extension Arc)
+*   **Target:** Rotator cuff, middle/lower trapezius, rhomboids, rear deltoids, glenohumeral mobility, thoracic extension.
+*   **Form:** Lie face down on a mat with your forehead resting lightly on the ground. Begin with arms extended overhead in an active "Y" position, hands hovering 2-3 inches off the floor. Keeping arms as high as possible, sweep your arms wide in a slow, controlled circular arc toward your hips, rotating your hands so your palms face up, and clasp or cross your hands behind your lower back without allowing hands or elbows to touch the ground. Reverse the arc smoothly back overhead.
+*   **Key Mistakes:** Banging hands on the floor, lifting the head and hyperextending the neck, or rushing through the rotational transition.
+*   **Tutorial:** [Prone Swimmer Hovers Shoulder Mobility](https://www.youtube.com/results?search_query=prone+swimmers+shoulder+mobility+hover)
+
+### Elephant Walks (Standing Alternating Hamstring Floss)
+*   **Target:** Hamstring group (biceps femoris, semitendinosus), calves (gastrocnemius/soleus), plantar fascia, sciatic nerve mobility.
+*   **Form:** Stand with feet hip-width apart and hinge forward into a standing forward fold, placing both hands flat on the floor (or resting fingertips on yoga blocks). Bend one knee deeply while actively pushing the opposite heel down and driving that knee straight into full extension to stretch the posterior chain. Smoothly alternate sides in a rhythmic, pedaling walking motion in place.
+*   **Key Mistakes:** Rounding the upper back excessively without hinging at the hips, rushing the pedal, or holding breath.
+*   **Tutorial:** [Elephant Walks Hamstring Mobility](https://www.youtube.com/results?search_query=elephant+walks+hamstring+mobility+exercise)
+
+### Forward Fold Torso Twist (Standing Single-Hand Ground Reach & Spine Rotation)
+*   **Target:** Thoracic spine rotational mobility, obliques, hamstrings, adductors, chest opening.
+*   **Form:** From a standing forward fold (elephant walk position) with feet hip-width, place your left hand firmly on the floor (or block) directly beneath your face. Softly bend your left knee while keeping your right leg straight. Rotate your torso and extend your right arm toward the ceiling, opening your chest to the right and turning your gaze upward. Hold for 2-3 deep breaths, then switch sides.
+*   **Key Mistakes:** Twisting the pelvis unevenly rather than rotating through the thoracic spine, shrugging the grounded shoulder into the ear, or forcing the rotation with momentum.
+*   **Tutorial:** [Forward Fold Torso Twist Form](https://www.youtube.com/results?search_query=standing+forward+fold+with+twist+stretch)
+
+### Extended Forward Reach Hamstring Stretch (Pike Downward Reach)
+*   **Target:** Deep hamstrings, posterior hip capsule, lats, thoracolumbar fascia.
+*   **Form:** From a standing or seated pike fold with legs straight and knees locked, plant both hands on the floor and actively crawl or reach your fingers as far forward in front of your feet as possible. Press your chest down toward your thighs while simultaneously pushing your hips back to create traction throughout the entire posterior myofascial chain.
+*   **Key Mistakes:** Bending knees to reach further with hands, hunching shoulders, or holding tension in the neck.
+*   **Tutorial:** [Forward Reach Hamstring Stretch Guide](https://www.youtube.com/results?search_query=standing+pike+forward+reach+hamstring+stretch)
+
+
 
 
 

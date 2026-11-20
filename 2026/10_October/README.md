@@ -21,6 +21,6 @@
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `7`
+- **Total Sessions Completed:** `8`
 - **Most frequent workout style:** `Calisthenics Skills, Push & Pull Strength, HIIT & Core`
 - **Overall monthly energy average:** `N/A`
