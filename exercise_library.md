@@ -1467,6 +1467,43 @@ This library collates **every single exercise** from your logged sessions. Use i
 *   **Key Mistakes:** Allowing the non-working foot to touch down for balance, sagging the lower back on the push-up, or letting the knee collapse inward on the jump landing.
 *   **Tutorial:** [Single Leg Burpees Proper Form](https://www.youtube.com/results?search_query=single+leg+burpees+proper+form)
 
+### Palm Raises with Fingertips Grounded (First Knuckle Raises)
+*   **Target:** Finger flexor tendons, lumbricals, interossei, wrist flexors, carpal tunnel strength.
+*   **Form:** Kneel on all fours with hands planted shoulder-width on the floor, fingers spread wide and pads pressed into the ground. Keeping your knuckles and fingertips firmly grounded, press through your fingers to lift the heels of your palms straight up off the floor as high as possible. Pause for 1 second at the top, then slowly lower palms back down under eccentric control.
+*   **Key Mistakes:** Lifting fingertips or first knuckles off the floor, flaring elbows out wide, or bending elbows rather than hinging purely at the knuckles.
+*   **Tutorial:** [First Knuckle Raises Wrist Conditioning](https://www.youtube.com/results?search_query=first+knuckle+raises+calisthenics+wrist+strengthening)
+
+### Hindu Push-ups (Traditional Dand)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps brachii, serratus anterior, latissimus dorsi, spinal erectors, core.
+*   **Form Cues:** Start in a downward-facing dog (mountain pose) with hips high, feet hip-width, and arms locked. Bend your elbows and swoop your chest low along the floor in a sweeping dive, skimming your nose and sternum just above the ground between your palms. Press up smoothly into an upward-facing dog/cobra with hips dropping toward the ground and chest proud, then reverse or press straight back into downward dog.
+*   **Key Mistakes:** Sagging the lower back without active core engagement, failing to swoop chest low to the floor, or flaring elbows wildly out to the sides.
+*   **Tutorial:** [Hindu Push-ups Proper Technique](https://www.youtube.com/results?search_query=hindu+push+ups+proper+technique+dand)
+
+### Tiger Bend Push-ups
+*   **Muscles:** Triceps brachii (specifically long and medial heads), anterior deltoids, chest, core.
+*   **Form Cues:** Assume a standard push-up plank. Lower down into the bottom of a push-up, then smoothly rock your weight backward and drop your forearms and elbows flat onto the floor (placing you in a low elbow plank). Reverse the motion by aggressively driving through your triceps and palms to lift elbows off the floor and press back up to high push-up lockout.
+*   **Key Mistakes:** Letting the lower back sag while transitioning between elbows and palms, flaring elbows wide, or using momentum to bounce up.
+*   **Tutorial:** [Tiger Bend Push-ups Progression](https://www.youtube.com/results?search_query=tiger+bend+push+ups+tutorial)
+
+### Low Plank to High Plank (Commandos / Up-Down Planks)
+*   **Muscles:** Anterior deltoids, triceps, pectoralis major, transverse abdominis, obliques, glute stabilizers.
+*   **Form Cues:** Start in an elbow plank with forearms parallel and core rigid. Place one hand directly beneath your shoulder and press through that palm, followed immediately by the second hand, rising into a full high push-up plank. Return smoothly down onto your first elbow, then the second elbow. Alternate the leading arm on every repetition or set while fighting any hip rocking.
+*   **Key Mistakes:** Tilting and swaying hips excessively side-to-side, arching or sagging through the lower back, or slamming hands down into the floor.
+*   **Tutorial:** [Commando Planks Form Guide](https://www.youtube.com/results?search_query=commando+planks+up+down+plank+form)
+
+### Tiger Bend Dips (Russian Dips)
+*   **Muscles:** Triceps brachii, pectoralis major (lower fibers), anterior deltoids, latissimus dorsi, core.
+*   **Form Cues:** Mount parallel dip bars into a straight-arm support. Descend into a deep dip until elbows reach $90^\circ$, then rock your weight backward, dropping your forearms down to rest on the bars (horizontal forearm support). Lean forward aggressively to transfer weight back onto your palms, and drive through your triceps to press out of the deep dip to full lockout.
+*   **Key Mistakes:** Dropping onto elbows uncontrolled without shoulder stabilization, flaring elbows off the bars, or lacking sufficient dip depth before initiating the forearm transition.
+*   **Tutorial:** [Russian Dips Tiger Bend Technique](https://www.youtube.com/results?search_query=russian+dips+tiger+bend+dips+proper+form)
+
+### Push-ups to Failure (AMRAP Max Effort)
+*   **Muscles:** Pectoralis major, anterior deltoids, triceps brachii, serratus anterior, rectus abdominis.
+*   **Form Cues:** Assume a high plank with hands slightly wider than shoulder-width and body locked in a rigid straight line. Perform continuous, rhythmic, full-range push-ups (chest touching or hovering 1 inch from the floor, full elbow lockout at top) without pausing at the bottom until technical exhaustion (muscular failure).
+*   **Key Mistakes:** Compromising plank alignment (hips sagging or piking) to squeeze out messy reps, short-changing lockout, or bouncing chest off the ground.
+*   **Tutorial:** [Push-ups to Failure AMRAP Guide](https://www.youtube.com/results?search_query=how+to+do+push+ups+to+failure+amrap)
+
+
 
 
 
