@@ -15,12 +15,12 @@
 | **Week 02** | Oct 05 - Oct 11 | Core Endurance, Lower-Body, Upper-Body & Skill Calisthenics | 🟩 Completed | [Week 02 README](Week_02/README.md) |
 | **Week 03** | Oct 12 - Oct 18 | Triceps & Push Mastery, Skill Conditioning & 32-Min EMOM | 🟩 Completed | [Week 03 README](Week_03/README.md) |
 | **Week 04** | Oct 19 - Oct 25 | Muscle-Up Mastery, Lower Isometrics & Obstacle Circuits | 🟩 Completed | [Week 04 README](Week_04/README.md) |
-| **Week 05** | Oct 26 - Nov 01 | Calisthenics Strength | ⬜ Planned | *N/A* |
+| **Week 05** | Oct 26 - Nov 01 | Bar Gymnastics, Muscle-Up Power & Triceps | 🟨 In Progress | [Week 05 README](Week_05/README.md) |
 
 ---
 
 ## 📊 Monthly Review & Stats
 *Fill this in at the end of the month.*
-- **Total Sessions Completed:** `12`
+- **Total Sessions Completed:** `13`
 - **Most frequent workout style:** `Calisthenics Skills, Push & Pull Strength, HIIT & Core`
 - **Overall monthly energy average:** `N/A`

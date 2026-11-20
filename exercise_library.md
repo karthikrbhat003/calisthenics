@@ -1794,6 +1794,27 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* Single-Leg Reverse Burpees (rolling up onto one foot into a pistol jump); weighted reverse burpees with a medicine ball.
 *   **Tutorial:** [Reverse Burpee Candlestick Tutorial](https://www.youtube.com/results?search_query=how+to+do+a+reverse+burpee+candlestick)
 
+### Running (5 Laps / Conditioning Rounds)
+*   **Target:** Cardiovascular base, aerobic threshold, lower-limb kinetic conditioning, warm-up elevation.
+*   **Form:** Continuous, rhythmic jogging around a track, studio perimeter, or field for 5 full laps. Maintain relaxed shoulders, tall posture, light midfoot footstrikes, and steady nasal or rhythmic diaphragmatic breathing.
+*   **Key Mistakes:** Starting with an all-out sprint instead of an ascending aerobic warm-up pace, heel-striking heavily, or hunching shoulders.
+*   **Tutorial:** [Running Form for Warmup](https://www.youtube.com/results?search_query=proper+running+form+warm+up)
+
+### Banded Low-Anchor Isometric Pull Hold (Resistance Band Row Isometric Hold)
+*   **Muscles:** Latissimus dorsi, rhomboids, middle/lower trapezius, rear deltoids, biceps brachii, spinal erectors, core.
+*   **Setup:** Anchor a heavy resistance band securely to a low post or anchor point near the ground. Step back into a strong athletic quarter-squat or split stance facing the anchor with tension on the band.
+*   **Form Cues:**
+    1. Pull the band back explosively, driving elbows tight past your ribcage into deep shoulder extension and scapular retraction.
+    2. Hold the peak retracted contraction statically for the prescribed duration (e.g., 30 seconds).
+    3. Keep chest proud, shoulders depressed away from ears, and core braced against forward band pull.
+    4. Breathe rhythmically into the diaphragm while maintaining maximal isometric lat tension.
+*   **Key Mistakes:** Allowing shoulders to roll forward or shrug into ears, losing lumbar neutrality, or letting elbows drift wide.
+*   **Progressions:**
+    *   *Regression:* Lighter resistance band; stepping closer to anchor point.
+    *   *Progression:* Heavier resistance band or doubled bands; single-arm low-anchor hold; standing on one leg.
+*   **Tutorial:** [Resistance Band Isometric Row Hold](https://www.youtube.com/results?search_query=resistance+band+isometric+row+hold)
+
+
 
 
 
