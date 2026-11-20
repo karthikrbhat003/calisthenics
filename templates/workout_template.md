@@ -2,36 +2,33 @@
 
 ## 📋 Session Overview
 - **Date:** [YYYY-MM-DD]
-- **Focus:** [e.g., Upper Body, Lower Body, Cardio, HIIT]
-- **Structure:** [e.g., Warm-up, Main Strength, Core Finish]
-- **Status:** ⬜ Planned / 🟨 In Progress / 🟩 Completed
+- **Focus:** [e.g., Upper Body, Lower Body, Calisthenics Strength]
+- **Structure:** [e.g., Dynamic Warm-up, Main Strength, Mobility Cool-down]
 
 ---
 
 ## ⚡ Phase 1: Warm-up
-*Goal: Elevate heart rate and mobile joints.*
 
-- [ ] **1. [Warm-up Exercise 1](../../../exercise_library.md#exercise-anchor)**
-  * *Target: [e.g., 10 reps / 1 min]. Form cues & execution notes.*
-- [ ] **2. [Warm-up Exercise 2](../../../exercise_library.md#exercise-anchor)**
-  * *Target: [e.g., 10 reps]. Form cues & execution notes.*
+| Exercise | Prescribed Volume | Execution Focus |
+|---|:---:|---|
+| **[Warm-up Movement 1](../../../exercise_library.md#exercise-anchor)** | 10 Reps | Controlled mobility; smooth diaphragmatic breathing. |
+| **[Warm-up Movement 2](../../../exercise_library.md#exercise-anchor)** | 10 Reps | Active joint lubrication through full pain-free range. |
 
 ---
 
 ## 🔥 Phase 2: Main Workout
-*Goal: Main working sets or circuits.*
 
-### [Block A: Strength / Skill / Circuit]
-- [ ] **1. [Main Exercise Name 1](../../../exercise_library.md#exercise-anchor)**
-  * *Target: [e.g., 3 sets x 10 reps]. Coaching cues.*
-- [ ] **2. [Main Exercise Name 2](../../../exercise_library.md#exercise-anchor)**
-  * *Target: [e.g., 3 sets x 10 reps]. Coaching cues.*
+### [Main Exercise 1](../../../exercise_library.md#exercise-anchor)
+*Form & Safety: Maintain rigid core brace, control the eccentric descent, pain-free full range of motion.*
+- 3 Sets × 10 Reps
+
+### [Main Exercise 2](../../../exercise_library.md#exercise-anchor)
+*Form & Safety: Steady tempo, zero kipping or momentum, breathe evenly throughout.*
+- 3 Sets × 10 Reps
 
 ---
 
-## 📝 Performance Notes & Tracker
-- **Rounds/Sets Completed:** `[  ] / [  ]`
-- **Energy Level (1-10):** `[  ] / 10`
+## 📝 Performance Notes
 - **Total Duration:** `[  ] minutes`
-- **Reflection / Next Time Focus:**
-  *How did it feel? Any adjustments needed for weight, reps, or rest times?*
+- **Reflection:**
+  *Brief notes on energy, loading, and recovery.*
