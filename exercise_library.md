@@ -1741,6 +1741,60 @@ This library collates **every single exercise** from your logged sessions. Use i
     *   *Progression:* Deficit single-leg calf raises; weighted dumbbell calf raises.
 *   **Tutorial:** [Calf Raises Proper Technique](https://www.youtube.com/results?search_query=standing+calf+raises+technique)
 
+### Full-Body Joint Mobility Flow (All Joints Warm-up)
+*   **Target:** Synovial joint lubrication, spinal articulation, neck, shoulders, elbows, wrists, hips, knees, ankles.
+*   **Form:** A comprehensive head-to-toe or toe-to-head dynamic mobility protocol. Execute 8–10 continuous, controlled circular repetitions through every major joint complex:
+    1. *Cervical Spine:* Gentle neck rotations and chin-to-chest tucks.
+    2. *Shoulders & Scapulae:* Controlled Articular Rotations (CARs) forward and backward.
+    3. *Elbows & Wrists:* Forearm rotations and infinity (figure-8) wrist rolls.
+    4. *Thoracic & Lumbar Spine:* Standing torso twists, cat-cows, and hip hinges.
+    5. *Hips & Pelvis:* Large standing hip circles and internal/external rotations.
+    6. *Knees & Ankles:* Knee rotational circles and ankle circumduction in both directions.
+*   **Key Mistakes:** Rushing through ranges of motion, moving past pain thresholds, or using ballistic jerky movements.
+*   **Tutorial:** [Full Body Joint Mobility Routine](https://www.youtube.com/results?search_query=full+body+joint+mobility+warm+up)
+
+### Headstand Flow Practice (Tripod & Forearm Inversion Flow)
+*   **Muscles:** Deep neck stabilizers, trapezius, anterior deltoids, serratus anterior, rectus abdominis, core compression.
+*   **Setup:** Position a mat on the floor. For tripod headstand, place the crown of your head on the floor with hands planted shoulder-width apart, forming an equilateral triangle between head and hands. For forearm headstand, interlace fingers behind the head with forearms grounded shoulder-width apart.
+*   **Form Cues:**
+    1. Actively press the ground away with hands/forearms and shoulders to minimize compressive spinal load on the crown.
+    2. Walk toes close to face until hips stack vertically over shoulders.
+    3. Transition smoothly into a tuck, then press or straddle legs up into a vertical inverted line.
+    4. Flow through shapes: tuck, straddle, eagle legs, and hollow-body pike lowerings under total control.
+*   **Key Mistakes:** Dumping full bodyweight into the cervical spine/neck, flaring elbows wide, or kicking up aggressively without control.
+*   **Progressions:**
+    *   *Regression:* Tripod headstand tuck with knees resting on triceps (Crow prep); Wall-supported headstand.
+    *   *Progression:* Freestanding Headstand to Crow Stand press; Headstand to Handstand press transitions.
+*   **Tutorial:** [Headstand Flow and Alignment](https://www.youtube.com/results?search_query=how+to+do+a+headstand+flow+practice)
+
+### Floor Is Lava (Calisthenics Obstacle & Rail Balance Traversal)
+*   **Muscles:** Full-body kinetic coordination, grip endurance, dynamic balance (foot intrinsics/calves), core stabilizers, spatial awareness.
+*   **Setup:** Set up an obstacle course within the calisthenics area using parallel bars, low bars, wooden boxes, benches, parallettes, or rails.
+*   **Form Cues:**
+    1. Navigate continuously across various elevated apparatus without allowing any part of the body to touch the floor ("lava").
+    2. Utilize varied locomotion: straight-arm rail walks, monkey bar swings, precision single-leg hops between boxes, quadruped cat crawls along rails, and isometric support balance pauses.
+    3. Prioritize soft landings, decisive weight distribution, continuous fluid movement, and rotational awareness.
+*   **Key Mistakes:** Panicking during dynamic balance shifts, rushing across unstable edges, or dropping gaze straight down.
+*   **Progressions:**
+    *   *Regression:* Low boxes and wider stable benches closer together.
+    *   *Progression:* Timed traversals; adding strict bodyweight isometric challenges (e.g., L-sit on rails) at designated checkpoints.
+*   **Tutorial:** [Parkour Precision and Rail Balance](https://www.youtube.com/results?search_query=parkour+rail+balance+obstacle+traversal)
+
+### Reverse Burpees (Candlestick Roll-Back to Jump Squat)
+*   **Muscles:** Rectus abdominis, hip flexors, quadriceps, gluteus maximus, spinal erectors, cardiovascular system.
+*   **Setup:** Stand tall with feet hip-to-shoulder width apart on a padded mat.
+*   **Form Cues:**
+    1. Descend smoothly into a full deep squat, tuck chin, and roll backward along the rounded spine onto your upper back and shoulders (candlestick position), driving legs toward the ceiling.
+    2. Using abdominal compression and arm momentum, roll aggressively forward back onto your feet into a deep squat.
+    3. Immediately drive through the whole foot and explode upward into a powerful vertical jump with an overhead clap.
+    4. Land softly and immediately transition into the next repetition without resting.
+*   **Key Mistakes:** Flaring back flat onto the floor with a hard slap instead of rolling on a rounded spine, failing to generate forward hip compression momentum, or crossing ankles to stand up.
+*   **Progressions:**
+    *   *Regression:* Hands-assisted roll-up (pressing hands on floor to assist standing); rolling up to a low box.
+    *   *Progression:* Single-Leg Reverse Burpees (rolling up onto one foot into a pistol jump); weighted reverse burpees with a medicine ball.
+*   **Tutorial:** [Reverse Burpee Candlestick Tutorial](https://www.youtube.com/results?search_query=how+to+do+a+reverse+burpee+candlestick)
+
+
 
 
 
